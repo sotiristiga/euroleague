@@ -1,25 +1,25 @@
-This file it is a R Markdown dashboard for Euroleague!
+This file is a R Markdown dashboard for Euroleague!
 
 
-Includes Teams and Players Stats for Seasons 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024(ongoing).
+It includes Teams and Players Stats for Seasons 2019-2020, 2020-2021, 2021-2022, 2022-2023, 2023-2024(ongoing).
 
 You must import the datasets from each season for players and results stats in the first lines after the libraries call.
 
-The stats export from https://basketnews.com/leagues/25-euroleague/schedules.html
+The stats are exported from https://basketnews.com/leagues/25-euroleague/schedules.html
 
 
 
-The summary tables appears the average values by game, when you find in commands in front of stats these character means:
+The summary tables show the average values by game. The commands you find in front of stats mean:
 
 Total_= Sum values from all fixtures
 
 Average_= Average values by games played
 
-rating_ = Compute when we descenting the stat that we want i.e. if a player has 95 rating on Pts, that means he is better than 95% of players in this stat
+rating_ = Compute the ovarall Rating of a player compared to other players' performance in a specific stat i.e. if a player has 95 rating on Pts, that means he is better than 95% of players in this stat
 
-Team_ = Refers teams stats
+Team_ = Refers to team's stats
 
-Team_opp_ = Refers opponent stats
+Team_opp_ = Refers to opponent stats
 
 
 
@@ -29,13 +29,13 @@ Columns:
 
 # Basic stats from websites
 
-Against =  The against team that player played
+Against =  The team the plater played against
 
-Team = The team that player played
+Team = The team that the player played for
 
 IDGAME= the fixture and the # of the game in this fixture
 
-Phase= The phase of Euroleague that game happened
+Phase= The phase of Euroleague that the game happened
 
 Player = The name of player
 
@@ -75,7 +75,7 @@ TO =  Turnovers
 
 BLK = Blocks 
 
-BLKR =  Blocks that conceed
+BLKR =  Blocks received
 
 PF = Fouls committed
 
@@ -87,7 +87,7 @@ Against = Against Team
 
 HA = Home or Away game (H = Home, A = Away)
 
-results = Win or Lose in this game his team (W = Win, L = Lose)
+results = Win or Lose in particular game for the player being examined (W = Win, L = Lose)
 
 
 
@@ -99,7 +99,7 @@ Columns:
 
 Fixture = # of fixture which the game happened
 
-Phase= The phase of Euroleague that game happened
+Phase= The phase of Euroleague that the game happened
 
 Home  = Home Team
 
@@ -131,13 +131,13 @@ Away_Points = Total points from Away team
 
 Winner	= Winner Team
 
-Loser =  Loser Team
+Loser =  Losing Team
 
-Home_win = Measuring if the home team win ( 0 - Lose, 1 - Win)
+Home_win = Measuring hometeam wins ( 0 - Lose, 1 - Win)
 
-Away_win = Measuring if the away team win ( 0 - Lose, 1 - Win)
+Away_win = Measuring away team wins ( 0 - Lose, 1 - Win)
 
-Season = The season that played
+Season = The season that the game took place
 
 
 
@@ -165,39 +165,39 @@ Game_score = PTS + (0.4 * FGM) - (0.7 * FGA) - (0.4 * (FTA - FTM)) + (0.7 * OR) 
 
 PIE= (PTS + FGM + FTM - FGA - FTA + DR + (.5 * OR) + AS + ST + (.5 * BLK) - PF - TO) / (PTS + GameFG + GameFT - GameFGA - GameFTA + GameDRB + (.5 * GamemORB) + GameAST + GameSTL + (.5 * GameBLK) - GamePF - GameTO) # The PIE shows the percentage of facts from a game that can be attributed to a specific player
 
-True_shooting = PTS / (2 * (FGA + 0.44 * FTA)) # determine the overall shooting ability
+True_shooting = PTS / (2 * (FGA + 0.44 * FTA)) # determines the overall shooting ability
 
 Turnover_ratio = (TO * 100) / (Possesions) # Measures the percentage of possessions ending with a turnover
 
 Usage = 100 * ((FGA + 0.44 FTA + TO) * ( Team_MP / 5)) / (MIN * (Team_FG + 0.44 * Team_FTA + Team_TO)) # Shows the percentage of possessions ending in a player's hands while on the field
 
-OR_percent = ORB / (TeamORB + OppDRB) # Percentage of rebounds taken in attack by a player or team, based on the number of rebounds that could have been take
+OR_percent = ORB / (TeamORB + OppDRB) # Percentage of rebounds taken in attack by a player or team, based on the number of rebounds that could have been taken
 
 Assisted Field goal= AS/FGM # Ratio of field goals scored following an assist. Only for teams
 
-Points per shoot = PTS / (FGA+FTA) # Points who take a player or a team from a shoot who attempts
+Points per shoot = PTS / (FGA+FTA) # Points scored by player per shot attempted
 
 
 Functions that I made:
 
 - compute_stats(dataset_players,category,stat,names,ha,wl,ph,season) 
 
-I computed the total, average and rating in a stat that I interest for a Player
+I computed the total, average and rating in a stat that I have interest in for each player
 
 dataset_players = dataset that I have made for players stats
-category = Which variable want to group_by, choises -> Player
-stat = The stat which I want to compute
-names = Give the column name that depends from stat
-ha = To check their stats if he played Home or Away (choices = "H" for home games, "A" for away games, "" for all games )
-wl = To check their stats if their Team Win or Lose (choices = "W" for win games, "L" for lose games, "" for all results )
-ph =  phase of Euroleague (choises = "Regular Season","Play offs","Final Four","" for all games)
-season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all seasons)
+category = Which variable I want to group_by, choices -> Player
+stat = The stat which I want to calculate
+names = Gives the column name depending on stat
+ha = To check their stats if the player played Home or Away (choices = "H" for home games, "A" for away games, "" for all games )
+wl = To check their stats if their Team Wins or Loses (choices = "W" for win games, "L" for lose games, "" for all results )
+ph =  phase of Euroleague (choices = "Regular Season","Play offs","Final Four","" for all games)
+season = season of interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all seasons)
 
 
 
 - player_stats(dp,p1,ha,wl,ph,season)
 
-Find all stats for a player with some conditions 
+Find all stats for a player under some conditions 
 
 dataset_players = dataset that I have made for players stats
 
@@ -205,13 +205,13 @@ p1 = Name of Player
 
 stat = The stat which I want to compute
 
-ha = To check their stats if he played Home or Away (choices = "H" for home games, "A" for away games, "" for all games )
+ha = To check their stats if they played Home or Away (choices = "H" for home games, "A" for away games, "" for all games )
 
-wl = To check their stats if their Team Win or Lose (choices = "W" for win games, "L" for lose games, "" for all results )
+wl = To check their stats if their Team Wins or Loses (choices = "W" for win games, "L" for lose games, "" for all results )
 
-ph =  phase of Euroleague (choises = "Regular Season","Play offs","Final Four","" for all games)
+ph =  phase of Euroleague (choices = "Regular Season","Play offs","Final Four","" for all games)
 
-season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all seasons)
+season = season that interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all seasons)
 
 
 
@@ -220,7 +220,7 @@ season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", 
 
 Find all stats from a game that you interest
 
-Includes the stats of players and the summarise stats from Teams in this game
+Includes the stats of players and the summary of stats from Teams in this game
 
 dataset_players = dataset that I have made for players stats
 
@@ -228,9 +228,9 @@ Home_Team = The Home Team
 
 Away_Team = The Away Team
 
-Phase =  phase of Euroleague (choises = "Regular Season","Play offs","Final Four")
+Phase =  phase of Euroleague (choices = "Regular Season","Play offs","Final Four")
 
-Season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024")
+Season = season that interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024")
 
 
 
@@ -242,35 +242,35 @@ dataset_players = dataset that I have made for players stats
 
 Player_Name =  The Player that you interest
 
-Home_Away = To check their stats if he played Home or Away (choices = "H" for home games, "A" for away games, "" for all games ) 
+Home_Away = To check their stats if they played Home or Away (choices = "H" for home games, "A" for away games, "" for all games ) 
 
-Win_Lose = To check their stats if their Team Win or Lose (choices = "W" for win games, "L" for lose games, "" for all results )
+Win_Lose = To check their stats if their Team Wins or Loses (choices = "W" for win games, "L" for lose games, "" for all results )
 
-Phase =  phase of Euroleague (choises = "Regular Season","Play offs","Final Four", "" for all phases)
+Phase =  phase of Euroleague (choices = "Regular Season","Play offs","Final Four", "" for all phases)
 
-Season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+Season = season of interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
 
 - compute_stats_teams(dataset_players,category,stat,names,Home_Away,result,Phase,Season)
 
-I computed the total, average and rating in a stat that I interest for a Team 
+I computed the total, average and rating in a stat of interest for a Team 
 
 
 dataset_players = dataset that I have made for players stats
 
-category = Which variable want to group_by, choises -> Team
+category = Which variable I want to group_by, choices -> Team
 
 stat = The stat which I want to compute
 
-names = Give the column name that depends from stat
+names = Gives the column name that depends on stat
 
 Home_Away = To check their stats if he played Home or Away (choices = "H" for home games, "A" for away games, "" for all games )
 
 result = To check their stats if their Team Win or Lose (choices = "W" for win games, "L" for lose games, "" for all results )
 
-Phase =  phase of Euroleague (choises = "Regular Season","Play offs","Final Four","" for all games)
+Phase =  phase of Euroleague (choices = "Regular Season","Play offs","Final Four","" for all games)
 
-Season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+Season = season that interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
 
 - head_to_head_teams(dataset_players,Team1,Team2,Season,Phase)
@@ -283,22 +283,22 @@ Team1 = Select the first team
 
 Team2 = Select the second team
 
-Phase =  phase of Euroleague (choises = "Regular Season","Play offs","Final Four","" for all games)
+Phase =  phase of Euroleague (choices = "Regular Season","Play offs","Final Four","" for all games)
 
-Season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+Season = season of interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
 
 
 - Games_summary(dataset_results,Team1,season) 
 
-The total games that a team played in all tournament, away, home and how wins or Loses made it in all tournament and at home or away games
+The total games that a team played in whole tournament, away, home and how many wins or Loses were achieved in all tournament and at home or away games
 
 
 dataset_results = Includes the games results from each fixture
 
-Team1 =  The team that I want
+Team1 =  The team of interest
 
-season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+season = season that interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
 
 - Games_summary_between_teams(dataset_results,Team1,Team2,Season)
@@ -311,7 +311,7 @@ Team1 = Select the first team
 
 Team2 = Select the second team
 
-Season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+Season = season that interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
 
 
@@ -325,7 +325,7 @@ Team1 = Select the first team
 
 Team2 = Select the second team
 
-season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+season = season that interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
 
 
@@ -337,13 +337,13 @@ dt =   dataset that I have made for players stats
 
 Team1 = The team that I want
  
-ph =  phase of Euroleague (choises = "Regular Season","Play offs","Final Four","" for all games)
+ph =  phase of Euroleague (choices = "Regular Season","Play offs","Final Four","" for all games)
 
 ha = To check their stats if he played Home or Away (choices = "H" for home games, "A" for away games, "" for all games )
 
-result= To check their stats if their Team Win or Lose (choices = "W" for win games, "L" for lose games, "" for all results )
+result= To check their stats if their Team Wins or Loses (choices = "W" for win games, "L" for lose games, "" for all results )
 
-season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+season = season of interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
 
 - teamplayersstats(dataset_players,ha,wl,ph,season,Team)
@@ -352,13 +352,13 @@ The avarege stats from all players for each Team
 
 dataset_players =   dataset that I have made for players stats
 
-ha = To check their stats if he played Home or Away (choices = "H" for home games, "A" for away games, "" for all games )
+ha = To check their stats if they played Home or Away (choices = "H" for home games, "A" for away games, "" for all games )
 
-wl= To check their stats if their Team Win or Lose (choices = "W" for win games, "L" for lose games, "" for all results )
+wl= To check their stats if their Team Wins or Loses (choices = "W" for win games, "L" for lose games, "" for all results )
 
-ph =  phase of Euroleague (choises = "Regular Season","Play offs","Final Four","" for all games)
+ph =  phase of Euroleague (choices = "Regular Season","Play offs","Final Four","" for all games)
 
-season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+season = season that interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
 Team1 = The team that I want
 
@@ -369,11 +369,11 @@ Computes the stats for the Team that you interest and use for the comparison of 
 
 Team1 = The team that I want
 
-season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+season = season that interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
-ph =  phase of Euroleague (choises = "Regular Season","Play offs","Final Four","" for all games)
+ph =  phase of Euroleague (choices = "Regular Season","Play offs","Final Four","" for all games)
 
-season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+season = season that interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
 
 - compute_best_stats(dataset_players,stat,season)
@@ -384,7 +384,7 @@ dataset_players =   dataset that I have made for players stats
 
 stat = The stat which I want to compute
 
-season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+season = season that interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
 
 
@@ -396,7 +396,7 @@ dataset_players =   dataset that I have made for players stats
 
 stat = The stat which I want to compute
 
-season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+season = season that interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
 
 - period_points(dataset_results,Team_select,Season,Phase,ha,result)
@@ -407,13 +407,13 @@ dataset_results = Includes the games results from each fixture
 
 Team_select = The team that I want
 
-Season = season that interest (choises = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
+Season = season that interest (choices = "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "" for all Seasons)
 
-Phase =  phase of Euroleague (choises = "Regular Season","Play offs","Final Four","" for all games)
+Phase =  phase of Euroleague (choices = "Regular Season","Play offs","Final Four","" for all games)
 
 ha = To check their stats if he played Home or Away (choices = "H" for home games, "A" for away games, "" for all games )
 
-result= To check their stats if their Team Win or Lose (choices = "W" for win games, "L" for lose games, "" for all results )
+result= To check their stats if their Team Wins or Lose (choices = "W" for win games, "L" for lose games, "" for all results )
 
 
 
@@ -430,7 +430,7 @@ In the first tab we have 5 new tabs
 
 Basic stats: In this tab there are the top 5 players for their average values
 
-You can use and some conditions for the phase & season you interest, what the player made at home or away games and wins or loses 
+You can use and some conditions for the phase & season you are interested in, what the player made at home or away games and wins or loses 
 
 The function which used -> compute_stats(dataset_players,category,stat,names,ha,wl,ph,season) 
 
@@ -463,9 +463,9 @@ You can use and some conditions for the phase & season you interest, what the pl
 
 The function which used -> compute_stats(dataset_players,category,stat,names,ha,wl,ph,season) 
 
-Points per Shoot,
+Points per Shot,
 Free throws made(Average_FTM),
-Free throws attempt(Average_FTA),
+Free throws attempts(Average_FTA),
 Percentage on free throws (PFT),
 Percent_attempt_FT # Percent of the attempts that was Free Throws
 2 Points Field goal made(Average_F2M),
@@ -507,21 +507,21 @@ PIR,
 Usage,
 PIE
 
-The function which used ->
+The function which was used ->
 
-Search Player: You can find the stats of a player that you interest, you can use and some conditions for the phase & season you interest, what the player made at home or away games and wins or loses 
+Search Player: You can find the stats of a player of your interest, you can use some conditions for the phase & season you interest too, what the player made at home or away games and wins or loses 
 
-The function which used -> player_stats(dp,p1,ha,wl,ph,season)
+The function which are used -> player_stats(dp,p1,ha,wl,ph,season)
 
 In this page you can find:
 
-- All the teams that he played
+- All the teams that the player played for
 - The total games that he played in each team
 - The average stats of the player 
 
-Compare Players: You can compare two players for their stats, you can use and some conditions for the phase & season you interest, what the player made at home or away games and wins or loses 
+Compare Players: You can compare two players for their stats, you can use some conditions for the phase & season of your interest, what the player made at home or away games and wins or loses 
 
-The function which used -> player_stats(dp,p1,ha,wl,ph,season)
+The function which are used -> player_stats(dp,p1,ha,wl,ph,season)
 
 In this page you can find:
 
@@ -550,9 +550,9 @@ The function which used -> findgamestats(dataset_players,Home_Team,Away_Team,Sea
 
 In the Third tab we have 6 new tabs
 
-Team ranking: Have some ranking stats such as
+Team ranking: Has some ranking stats such as
 
-The function which used -> compute_stats_teams(dataset_players,category,stat,names,Home_Away,result,Phase,Season)
+The function which is used -> compute_stats_teams(dataset_players,category,stat,names,Home_Away,result,Phase,Season)
 
 Games (G)
 Team average points
@@ -585,7 +585,7 @@ Opponent Blocks(opp_BLK),
 Personal Fouls(PF),
 Opponent Personal Fouls(opp_PF)
 
-You can use and some conditions for the phase & season you interest, what the player made at home or away games and wins or loses 
+You can use some conditions for the phase & season of your interest, what the player made at home or away games and wins or loses 
 
 Team Shooting stats: Have the shootings stats per game such as
 
@@ -608,13 +608,13 @@ Opponent Free throws made(opp_FTM),
 Opponent Free throws attempt(opp_FTA),
 Opponent Percentage on free throws (opp_PFT)
 
-You can use and some conditions for the phase & season you interest, what the player made at home or away games and wins or loses 
+You can use some conditions for the phase & season of your interest, what the player made at home or away games and wins or loses 
 
 
 
-Team Advanced stats: Have the advanced stats per game for all teams such as
+Team Advanced stats: Have the advanced stats per game for all teams 
 
-The function which used -> compute_stats_teams(dataset_players,category,stat,names,Home_Away,result,Phase,Season)
+The function which is used -> compute_stats_teams(dataset_players,category,stat,names,Home_Away,result,Phase,Season)
 
 Assisted Field goal (ASSISTED_FG)
 Assists vs Turnover ratio (As_To_RATIO)
@@ -630,21 +630,21 @@ True shooting(TRUESHOT),
 PIR
 PIR opponent (PIR_opp)
 
-You can use and some conditions for the phase & season you interest, what the player made at home or away games and wins or loses 
+You can use some conditions for the phase & season you interest, what the player made at home or away games and wins or loses 
 
 
-Head to Head: compare two teams their stats to the tournament and between games. Also, have and total games that played in each phase & season and which has the most wins or loses total & what happen at home and away games
+Head to Head: compare the stats of 2 teams in the tournament and between games. You can also have the total games that played in each phase & season and which has the most wins or loses total & what happen at home and away games
 
-The functions which used -> head_to_head_teams(dataset_players,Team1,Team2,Season,Phase)
+The functions which are used -> head_to_head_teams(dataset_players,Team1,Team2,Season,Phase)
                          -> Games_summary_between_teams(dataset_results,Team1,Team2,Season)
 
 
-Compare Team: You can find the stats of a team that you interest and compare with another team, it is useful for compare the same team with different conditions.
-Also, it has period points from each team that you select and finding in how many stats the one team is better than another.
+Compare Team: You can find the stats of a team of your interest and compare it with another team, it is useful for comparing the same team under different conditions.
+Also, it has period points from each team that you select and finding in how many stats one team is better than another.
 
-You can use and some conditions for the phase & season you interest and what the team made at home or away games and wins or loses
+You can use some conditions for the phase & season of your interest and what the team did at home or away games and wins or loses
 
-The functions which used -> compare_teams=function(Team1,season,phase,ha,Result)
+The functions which are used -> compare_teams=function(Team1,season,phase,ha,Result)
                          -> period_points(dataset_results,Team_select,Season,Phase,ha,result)
 
 
@@ -699,14 +699,14 @@ FTR(Free Throw Ratio)
 TS(True Shooting)
 OFR(Offensive Rating)
 
-The functions which used -> compute_best_stats_teams=function(dataset_players,stat,season)
+The functions which are used -> compute_best_stats_teams=function(dataset_players,stat,season)
 
 
 
 
-If you find something wrong or you want to discuss it, it's pleasure to contact with me to my LinkedIn profile 
+If you find something wrong or you want to discuss it, feel free to contact with me to my LinkedIn profile 
 
-Also, if you have any different ideas to improve or to insert, I wil be available to hear you
+Also, if you have any different ideas to suggest, feel free to contact me again.
 
-The next step is to insert more Euroleague to the project.
+The next step is to insert more Euroleague stats in the project.
  
