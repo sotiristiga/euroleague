@@ -1,0 +1,67 @@
+Stat,Explanation,Type
+MIN , Minutes played,
+PTS , Points scored,
+F2M , 2point Field goal made,
+F2A , 2point Field goal attempt,
+P2, Percentage of 2 points that succeed,(F2M/F2A) *100% 
+F3M , 3point Field goal made,
+F3A , 3point Field goal attempt,
+P3,Percentage of 3 points that succeed, (F3M/F3A) *100% 
+FTM , Free throw made,
+FTA , Free throw attempt,
+PFT, Percentage of free throws that succeed, (FTM/FTA) *100% 
+OR , Offensive Rebounds,
+DR , Defensive Rebounds,
+TR , Total Rebounds,
+AS , Assists,
+ST , Steals,
+TO , Turnovers,
+BLK , Blocks,
+BLKR , Blocks received,
+PF , Fouls committed,
+RF , Fouls reversed,
+PIR ,Rating from the game,
+HA,"Home or Away game (H = Home, A = Away) ",
+Result,"Win or Lose in particular game for the player being examined (W = Win, L = Lose)",
+Q1S,Points scored on 1st period,
+Q2S,Points scored on 2nd period,
+Q3S,Points scored on 3rd period,
+Q4S,Points scored on 4th period,
+Q1C,Points conceed on 1st period,
+Q2C,Points conceed on 2nd period,
+Q3C,Points conceed on 3rd period,
+Q4C,Points conceed on 4th period,
+EXS,Points scored on extra time,
+EXC,Points conceed on extra time,
+POS,How many possesions takes a team or a player,0.96*(F2A + F3A - OR + TO + 0.44*FTA)
+ASR,Measures the percentage of possessions ending with an assist,AS / POS
+ASTOR,This measurement is particularly effective for measuring ball control.,AS / TO
+Def_Rat ,Defensive Rating - How many points a player or a team allows per 100 possessions. Only for teams, 100 * (Opp_PTS / Opp_POS)
+Off_Rat  or OFFRA,Offensive Rating - How many points a player or a team scores per 100 possessions., 100 * (PTS / POS)
+Net_rating ,Measures the point differential per 100 possessions, Off_Rat - Def_Rat
+EFG ,How a player or a team are effective on a field who attempt, ((F2M+F3M + (0.5 * F3M)) / FGA
+FTR,"Free throw ratio, Ratio of free throws attempted according to the number of shots taken.", FTA / (F2A+F3A)
+GS or Game_Score,"Have similar meaning with PIR, but it has coeffients in some stats",PTS + (0.4 *(F2M+F3M)) - (0.7 *(F2A+F3A)) - (0.4 * (FTA - FTM)) + (0.7 * OR) + (0.3 * DR) + ST + (0.7 * AS) + (0.7 * BLK) - (0.4 * PF) - TO
+PIE,The PIE shows the percentage of facts from a game that can be attributed to a specific player, (PTS + F2M+F3M + FTM - F2A-F3A - FTA + DR + (.5 * OR) + AS + ST + (.5 * BLK) - PF - TO) / (Team_PTS +Team_F2M+Team_F3M + Team_FTM - Team_F2A- Team_F3A-Team_FTA + Team_DR + (.5 * Team_OR) + Team_AS + Team_ST + (.5 * Team_BLK) - Team_PF - Team_TO+Team_PTS +Team_F2M+Team_F3M + Team_FTM - Team_F2A- Team_F3A-Team_FTA + Team_DR + (.5 * Team_OR) + Team_AS + Team_ST + (.5 * Team_BLK) - Team_PF - Team_TO)
+TS,determines the overall shooting ability, PTS / (2 * (F2A+F3A+ 0.44 * FTA))
+TOR,Measures the percentage of possessions ending with a turnover,(TO * 100) / (POS)
+USG,Shows the percentage of possessions ending in a player's hands while on the field, 100 * ((F2A+F3A+ 0.44 FTA + TO) * ( 40 / 5)) / (MIN * (Team_F2A+Team_F3A + 0.44 * Team_FTA + Team_TO))
+ORP or OR(%),"Percentage of rebounds taken in attack by a player or team, based on the number of rebounds that could have been taken", OR / (Team_OR + Team_Opp_DR)
+ASFG,Ratio of field goals scored following an assist. Only for teams, AS/(F2M+F3M)
+PPS or Points_per attempt,Points scored by player per shot attempted,PTS / (F2A+F3A+FTA)
+PAFT,Percent_attempt_FT # Percent of the attempts that was Free Throws,
+PA2P,Percent_attempt_P3 # Percent of the attempts that was 3 Points shots,
+PA3P,Percent_attempt_P2 # Percent of the attempts that was 2 Points shots,
+Rating,"Compute the overall Rating of a player compared to other players' performance in a specific stat i.e. if a player has 95 rating on Pts, that means he is better than 95% of players in this stat",
+S,Number of Seasons in Euroleague,
+G or Total_games,Number of games,
+T_,whatever start with this refers to total stats,
+PRA,Points+Rebounds+Assists,
+PA,Points+Assists,
+PR,Points+Rebounds,
+RA,Rebounds+Assists,
+PB,Points+Blocks,
+SB,Steals+Blocks,
+opp_,Opponent Stats,
+Win_Per,Win Percentage ,Wins/Total_games
+Diff,Difference between Points that a team scored and conceed,
