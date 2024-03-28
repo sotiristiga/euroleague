@@ -5,10 +5,6 @@ It includes Teams and Players Stats for Seasons 2019-2020, 2020-2021, 2021-2022,
 
 You must import the datasets from each season for players and results stats in the first lines after the libraries call.
 
-The stats are exported from https://basketnews.com/leagues/25-euroleague/schedules.html
-
-
-
 The summary tables show the average values by game. The commands you find in front of stats mean:
 
 Total_= Sum values from all fixtures
