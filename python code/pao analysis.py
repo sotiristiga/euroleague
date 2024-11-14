@@ -26,7 +26,7 @@ dataset=pd.concat([dataset2324,dataset2425,dataset2223])
 ivan=pd.concat([dataset2223,dataset2324.loc[dataset2324.Fixture<16]])
 fatih=dataset2324.loc[(dataset2324.Fixture>15) & (dataset2324.Fixture<36)]
 alonso=dataset2425.loc[dataset2425.Fixture<10]
-vitoria=dataset2425.loc[dataset2425.Fixture<9]
+vitoria=dataset2425.loc[dataset2425.Fixture>9]
 
 def computeteamstats(dataset):
     computeTeamstats_on_games = dataset.groupby(["idseason", 'Team'])[[
@@ -240,12 +240,172 @@ def computeteamstats(dataset):
 
     computeteamstats_on_games_mean = computeteamstats_on_games_mean.loc[
         computeteamstats_on_games_mean.Team == "Panathinaikos"]
+    games=dataset.loc[dataset.Team=="Panathinaikos"][['Team',"idseason"]].value_counts().reset_index()['Team'].value_counts().reset_index().rename(columns={'count':'Games'})
+    wins=dataset.loc[(dataset.Result=='Win') &(dataset.Team=="Panathinaikos")][['Team',"idseason"]].value_counts().reset_index()['Team'].value_counts().reset_index().rename(columns={'count':'Wins'})
+    try:
+        draws = dataset.loc[(dataset.Result == 'Draw') & (dataset.Team == "Panathinaikos")][
+            ['Team', "idseason"]].value_counts().reset_index()['Team'].value_counts().reset_index().rename(
+            columns={'count': 'Draws'})
+    except:
+        draws=pd.DataFrame({'Team':['Panathinaikos'],'Draws':[0]})
+    computeteamstats_on_games_mean=pd.merge(computeteamstats_on_games_mean,games,how='left')
+    computeteamstats_on_games_mean = pd.merge(computeteamstats_on_games_mean, wins,how='left')
 
+    computeteamstats_on_games_mean = pd.merge(computeteamstats_on_games_mean, draws,how='left')
+    computeteamstats_on_games_mean['Wins']= computeteamstats_on_games_mean['Wins'].fillna(0)
+    computeteamstats_on_games_mean['Draws'] = computeteamstats_on_games_mean['Draws'].fillna(0)
+    computeteamstats_on_games_mean['Points per games']=((3*computeteamstats_on_games_mean.Wins+1*computeteamstats_on_games_mean.Draws)/computeteamstats_on_games_mean.Games).round(2)
     return computeteamstats_on_games_mean
 
-ivan_stats=computeteamstats(ivan)
-fatih_stats=computeteamstats(fatih)
-alonso_stats=computeteamstats(alonso)
-vitoria_stats=computeteamstats(vitoria)
 
-st.write(ivan_stats)
+ivan_stats=computeteamstats(ivan)
+ivan_stats['Coach']='Ivan Jovanovic'
+fatih_stats=computeteamstats(fatih)
+fatih_stats['Coach']='Fatih Terim'
+alonso_stats=computeteamstats(alonso)
+alonso_stats['Coach']='Diego Alonso'
+vitoria_stats=computeteamstats(vitoria)
+vitoria_stats['Coach']='Rui Vitoria'
+
+all_coaches=pd.concat([ivan_stats,fatih_stats,alonso_stats,vitoria_stats])
+
+
+all_coaches["Goals Scored"]=all_coaches['Goals']+all_coaches['opp Own goals']
+all_coaches["Goals Conceed"]=all_coaches['opp Goals']+all_coaches['Own goals']
+
+##### Goals ######
+goals=all_coaches[['Coach',"Goals Scored","Goals Conceed"]].melt(id_vars='Coach').rename(columns={'variable':"Goals"})
+goals['Goals']=goals['Goals'].str.replace('Goals ','')
+
+
+goals_bar=px.bar(goals,x='Coach',y='value',color="Goals", barmode='group',
+             height=400,width=600, text_auto=True,color_discrete_sequence= ['green','red'],labels={'value':'Avg. Goals per game'},title='')
+goals_bar.update_traces(textfont_size=17, textangle=0, textposition="outside", cliponaxis=False)
+goals_bar.update_layout(plot_bgcolor='white',font_size=15)
+st.write(goals_bar)
+
+##### Points ######
+points_bar=px.bar(all_coaches.loc[all_coaches.Coach!='Rui Vitoria'],x='Coach',y='Points per games',
+             height=400,width=400, text_auto=True,color= 'Team', color_discrete_sequence= ['green'],title='')
+points_bar.update_traces(textfont_size=17, textangle=0, textposition="outside", cliponaxis=False)
+points_bar.update_layout(plot_bgcolor='white',font_size=15,showlegend=False)
+st.write(points_bar)
+
+
+##### Shoots #####
+
+all_coaches['Total Shots']=all_coaches['Shots on target']+all_coaches['Shots off target']+all_coaches['Shots blocked']
+all_coaches['opp Total Shots']=all_coaches['opp Shots on target']+all_coaches['opp Shots off target']+all_coaches['opp Shots blocked']
+
+teamshots=all_coaches[['Coach','Total Shots','Shots on target','Shots off target','Shots blocked']].melt(id_vars='Coach')
+teamshots['Made']='Team'
+opponentshots=all_coaches[['Coach','opp Total Shots','opp Shots on target','opp Shots off target','opp Shots blocked']].melt(id_vars='Coach')
+opponentshots['variable']=opponentshots['variable'].str.replace('opp ','')
+opponentshots['Made']='Opponent'
+
+shots=pd.concat([teamshots,opponentshots])
+
+shots_bar=px.bar(shots,x='variable',y='value',color="Made", barmode='group',facet_col='Coach',
+             height=1000,width=2000, text_auto=True,color_discrete_sequence= ['green','red'],labels={'value':'Avg. Shots per game','variable':'Type of shot','Category':''},title='')
+shots_bar.update_traces(textfont_size=17, textangle=0, textposition="outside", cliponaxis=False)
+shots_bar.update_layout(plot_bgcolor='white',font_size=15)
+st.write(shots_bar)
+
+##### Passes #####
+
+teamaccpasses=all_coaches[['Coach','Accurate passes','Accurate Long balls','Accurate Crosses']].melt(id_vars='Coach')
+teamaccpasses['variable']=teamaccpasses['variable'].str.replace('Accurate ','')
+teamaccpasses['variable']=teamaccpasses['variable'].str.replace('passes','Passes')
+teamaccpasses['Category']='Accurate'
+
+
+teamtotpasses=all_coaches[['Coach','Total passes','Total Long balls','Total Crosses']].melt(id_vars='Coach')
+teamtotpasses['variable']=teamtotpasses['variable'].str.replace('Total ','')
+teamtotpasses['variable']=teamtotpasses['variable'].str.replace('passes','Passes')
+teamtotpasses['Category']='Total'
+
+teamperpasses=all_coaches[['Coach','Passes(%)','Long balls(%)','Crosses(%)']].melt(id_vars='Coach')
+teamperpasses['variable']=teamperpasses['variable'].str.replace('(%)','')
+teamperpasses['Category']='Percentage(%)'
+
+teampasses=pd.concat([teamaccpasses,teamtotpasses,teamperpasses])
+
+team_passes_bar=px.bar(teampasses.loc[teampasses.variable=='Passes'],x='Coach',y='value',color="Category", barmode='group',
+             height=00,width=1800, text_auto=True,color_discrete_sequence= ['green','goldenrod','limegreen'],labels={'value':'Avg. Passes per game','variable':'Type of touch','Category':''},title='Passes')
+team_passes_bar.update_traces(textfont_size=17, textangle=0, textposition="outside", cliponaxis=False)
+team_passes_bar.update_layout(plot_bgcolor='white',font_size=15)
+st.write(team_passes_bar)
+
+
+team_passes_bar = px.bar(teampasses.loc[teampasses.variable == 'Long balls'], x='Coach', y='value',
+                         color="Category", barmode='group',
+                         height=00, width=1800, text_auto=True,
+                         color_discrete_sequence=['green', 'goldenrod', 'limegreen'],
+                         labels={'value': 'Avg. Long balls per game', 'variable': 'Type of touch','Category':''},title='Long balls')
+team_passes_bar.update_traces(textfont_size=17, textangle=0, textposition="outside", cliponaxis=False)
+team_passes_bar.update_layout(plot_bgcolor='white', font_size=15)
+st.write(team_passes_bar)
+
+
+team_passes_bar = px.bar(teampasses.loc[teampasses.variable == 'Crosses'], x='Coach', y='value',
+                         color="Category", barmode='group',
+                         height=00, width=1800, text_auto=True,
+                         color_discrete_sequence=['green', 'goldenrod', 'limegreen'],
+                         labels={'value': 'Avg. Crosses per game', 'variable': 'Type of touch', 'Category': ''},
+                         title='Crosses')
+team_passes_bar.update_traces(textfont_size=17, textangle=0, textposition="outside", cliponaxis=False)
+team_passes_bar.update_layout(plot_bgcolor='white', font_size=15)
+st.write(team_passes_bar)
+
+##### Defensive actions ######
+defact_bar = px.bar(all_coaches, x='Coach', y='Defensive actions',
+                    height=400, width=400, text_auto=True, color='Team', color_discrete_sequence=['green'],
+                    title='')
+defact_bar.update_traces(textfont_size=17, textangle=0, textposition="outside", cliponaxis=False)
+defact_bar.update_layout(plot_bgcolor='white', font_size=15, showlegend=False)
+st.write(defact_bar)
+
+tackles_bar = px.bar(all_coaches, x='Coach', y='Total tackles',
+                    height=400, width=400, text_auto=True, color='Team', color_discrete_sequence=['green'],
+                    title='')
+tackles_bar.update_traces(textfont_size=17, textangle=0, textposition="outside", cliponaxis=False)
+tackles_bar.update_layout(plot_bgcolor='white', font_size=15, showlegend=False)
+st.write(tackles_bar)
+
+
+
+##### Duels #####
+totduels=all_coaches[['Coach','Duels',
+         'Ground duels', 'Aerial duels']].melt(id_vars='Coach')
+totduels['Category']='Total'
+
+wonduels=all_coaches[['Coach','Duels won',
+         'Ground duels won',  'Aerial duels won']].melt(id_vars='Coach')
+wonduels['variable']=wonduels['variable'].str.replace(' won','')
+wonduels['Category']='Won'
+
+perduels=all_coaches[['Coach','Duels(%)',
+         'Ground duels(%)', 'Aerial duels(%)']].melt(id_vars='Coach')
+
+perduels['variable']=perduels['variable'].str.replace('(%)','')
+perduels['Category']='Percentage(%)'
+
+duels=pd.concat([totduels,wonduels,perduels])
+
+duels_bar=px.bar(duels.loc[duels.variable=='Duels'],x='Coach',y='value',color="Category", barmode='group',
+             height=1000,width=2000, text_auto=True,color_discrete_sequence= ['green','goldenrod', 'limegreen'],labels={'value':'Avg. Duels per game','Category':''},title='Total Duels')
+duels_bar.update_traces(textfont_size=17, textangle=0, textposition="outside", cliponaxis=False)
+duels_bar.update_layout(plot_bgcolor='white',font_size=15)
+st.write(duels_bar)
+
+gduels_bar=px.bar(duels.loc[duels.variable=='Ground duels'],x='Coach',y='value',color="Category", barmode='group',
+             height=1000,width=2000, text_auto=True,color_discrete_sequence= ['green','goldenrod', 'limegreen'],labels={'value':'Avg. Ground Duels per game','Category':''},title='Ground Duels')
+gduels_bar.update_traces(textfont_size=17, textangle=0, textposition="outside", cliponaxis=False)
+gduels_bar.update_layout(plot_bgcolor='white',font_size=15)
+st.write(gduels_bar)
+
+aduels_bar=px.bar(duels.loc[duels.variable=='Aerial duels'],x='Coach',y='value',color="Category", barmode='group',
+             height=1000,width=2000, text_auto=True,color_discrete_sequence= ['green','goldenrod', 'limegreen'],labels={'value':'Avg. Aerial Duels per game','Category':''},title='Aerial Duels')
+aduels_bar.update_traces(textfont_size=17, textangle=0, textposition="outside", cliponaxis=False)
+aduels_bar.update_layout(plot_bgcolor='white',font_size=15)
+st.write(aduels_bar)
