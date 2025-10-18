@@ -1,16 +1,11 @@
-﻿Player,Position
-Wade Baldwin Iv,G
-Oscar  Da Silva,G
-Nando  De Colo,G
-Lonnie Walker Iv,G
-David Mccormack,C
-Codi Miller-Mcintyre,G
+Player,Position
 Aaron  Craft,G
 Aaron  Doornekamp,F
 Aaron  Harrison,G
 Aaron  Jackson,G
 Aaron  White,F
 Achille  Polonara,F
+Adam  Atamna,G
 Adam  Hanga,F
 Adam  Waczynski,F
 Admiral  Schofield,F
@@ -21,6 +16,7 @@ Ahmet  Duverioglu,C
 Ajdin  Penava,C
 Alan  Makiev,C
 Alberto   Abalde,F
+Alberto  Abalde,G
 Alberto  Diaz,G
 Alberto  Oliver,G
 Alec  Peters,F
@@ -48,8 +44,11 @@ Alex  Tyus,F
 Alexander  Gankevich,F
 Alexander  Khomenko,G
 Alexandros  Nikolaidis,G
+Alexandros  Samodurov,F
 Alexandros  Samontourov,C
 Alexey  Shved,G
+Aliou  Diarra,C
+Allan  Dokossi,F
 Allerik   Freeman,G
 Alpha  Diallo,F
 Alpha  Kaba,C
@@ -86,10 +85,13 @@ Antoine  Diot,G
 Anton  Nufer,G
 Anton  Ponkrashov,F
 Anton  Pushkov,C
+Antonio  Blakeney,G
 Antonios  Fotsis,F
 Antonios  Koniaris,G
 Antonius  Cleveland,G
 Anzejs  Pasecniks,C
+Arijan  Lakic,F
+Armando  Bacot Jr.,C
 Armel  Traore,F
 Armoni  Brooks,G
 Arnas  Butkevicius,F
@@ -108,10 +110,12 @@ Austin  Daye,F
 Austin  Hollins,F
 Awudu  Abass,F
 Axel  Toupane,F
+Azuolas  Tubelis,F
 Baba  Miller,F
 Balsa  Koprivica,C
 Bandja  Sy,F
 Baris  Hersek,F
+Bastien  Vautier,C
 Ben  Bentil,F
 Ben  Lammers,C
 Beno  Udrih,G
@@ -125,6 +129,7 @@ Blake  Schilb,F
 Boban  Marjanovic,C
 Bobby  Brown,G
 Bobby  Dixon,G
+Bodian  Massa,C
 Bogdan  Bogdanovic,G
 Bogdan  Radosavljevic,C
 Bojan  Dubljevic,C
@@ -136,8 +141,10 @@ Brad  Oleson,G
 Bradley   Wanamaker,G
 Brady   Manek,F
 Brancou  Badio,G
+Brandon  Boston Jr.,F
 Brandon  Davies,C
 Brandon  Paul,F
+Brandon  Taylor,G
 Branko  Lazic,G
 Braydon  Hobbs,G
 Brian  Roberts,G
@@ -145,6 +152,7 @@ Briante  Weber,G
 Brock  Motum,F
 Bruno  Caboclo,C
 Bruno  Cerella,G
+Bruno  Fernando,C
 Bruno  Fitipaldo,G
 Bruno  Mascolo,F
 Bryant  Dunston,C
@@ -175,8 +183,13 @@ Christ  Koumadje,C
 Christian  Burns,F
 Christopher  Chiozza,G
 Christopher  Evans,F
+Chuma  Okeke,F
+Clement  Frisch,F
 Clevin  Hannah,G
 Codi  Miller-McIntyre,G
+Codi  Miller-Mcintyre,
+Codi Miller-Mcintyre,G
+Cole  Swider,F
 Collin  Malcolm,F
 Colton  Iverson,C
 Conner  Frankamp,G
@@ -192,6 +205,7 @@ Dalibor  Ilic,F
 Dame  Sarr,G
 Damien  Inglis,C
 Damjan  Rudez,C
+Dan  Oturu,C
 Daniel  Diez,G
 Daniel  Hackett,G
 Daniel  Oturu,C
@@ -212,29 +226,36 @@ Daryl  Macon,G
 Daulton  Hommes,F
 David  DeJulius,G
 David  Kraemer,G
+David  Kramer,G
 David  Lighty,F
 David  McCormack,C
+David  Mccormack,
+David Mccormack,C
 Davide  Alviti,G
 Davide  Moretti,G
 Davide  Pascolo,G
 Davion  Berry,G
+Davis  Bertans,F
 DeAndre  Kane,F
+DeMarcus  Nelson,G
 Declan  Duru,F
 Dee  Bost,G
 Deividas  Sirvydis,F
 Dejan  Davidovac,F
 Dejan  Musli,C
-DeMarcus  Nelson,G
 Demetris  Nichols,F
 Deni  Avdija,F
 Denis  Zakharov,G
+Dennis  Smith Jr.,G
 Deon  Thompson,F
 Derek  Willis,F
+Derrick  Alston Jr.,F
 Derrick  Brown,F
 Derrick  Walton,G
 Derrick  Williams,F
 Deshaun  Thomas,F
 Devin   Booker,C
+Devin  Booker,C
 Devin  Smith,F
 Devin  Williams,C
 Devon  Hall,G
@@ -260,14 +281,17 @@ Dontaye  Draper,G
 Dorell  Wright,F
 Dori  Sarah,F
 Dorian  Grosber,F
+Dovydas  Buika,G
 Dovydas  Butka,F
 Dovydas  Giedraitis,G
 Dragan  Apic,F
 Dragan  Bender,C
 Dragan  Milosavljevic,G
 Drew  Crawford,F
+Duane  Washington,G
 Duane  Washington Jr.,F
 Duop  Reath,C
+Dustin  Sleva,F
 Dwayne  Bacon,F
 Dwight  Buycks,G
 Dylan  Ennis,G
@@ -275,6 +299,7 @@ Dylan  Osetkowski,F
 Dyshawn  Pierre,F
 Dzanan  Musa,F
 Earl  Clark,C
+Ebuka  Izundu,C
 Eddy   Edigin,C
 Edgaras  Ulanovas,F
 Edmond  Sumner,F
@@ -345,6 +370,7 @@ Giannoulis  Larentzakis,G
 Giordano  Bortolani,G
 Giorgio  Shermadini,C
 Giorgos  Bogris,C
+Glynn  Watson,G
 Goga  Bitadze,C
 Goksenin  Koksal,G
 Gora  Camara,C
@@ -354,9 +380,12 @@ Guerschon  Yabusele,F
 Guglielmo   Caruso,F
 Guillem  Ferrando,G
 Guillem  Vives,G
+Gunars  Grinvalds,
 Gustavo  Ayon,C
+Guy  Palatin,
 Guy  Pnini,F
 Gytis  Masiulis,F
+Hamidou  Diallo,F
 Hassan  Martin,C
 Hollis  Thompson,F
 Howard  Sant-Roos,F
@@ -367,14 +396,18 @@ Ibrahima Fall Faye,F
 Ignacio  Rosa,F
 Ignas  Brazdeikis,F
 Igor  Volkhin,F
+Ike  Iroegbu,G
 Ilimane  Diop,C
 Ioannis  Bourousis,C
 Ioannis  Papapetrou,F
 Isaac  Bonga,F
+Isaac  Nogues,G
 Isaia  Cordinier,F
 Isaiah  Canaan,G
 Isaiah  Hartenstein,F
 Isaiah  Taylor,G
+Isaiah  Wong,G
+Ish  Wainright,F
 Isiaha  Mike,F
 Ismael  Bako,C
 Ismael  Kamagate,C
@@ -385,10 +418,13 @@ Ivan  Evstigneev,G
 Ivan  Kharchenkov,G
 Ivan  Martinez,F
 Ivan  Ukhov,G
+Ivan  Volf,G
+Izan  Almansa,
+Izundu  Ebuka,C
+JaJuan  Johnson,F
 Jabari  Parker,F
 Jacob  Wiley,C
 Jaime  Pradilla,F
-JaJuan  Johnson,F
 Jaka  Blazic,G
 Jake  Cohen,F
 Jaleen  Smith,G
@@ -412,6 +448,7 @@ Jared  Harper,G
 Jarell  Eddie,F
 Jarell  Martin,F
 Jaron  Blossomgame,F
+Jarrell  Brantley,F
 Jarrell  BrantleyF,F
 Jasiel  Rivero,C
 Jason  George,G
@@ -421,20 +458,27 @@ Jaycee  Carroll,G
 Jaylen  Adams,G
 Jaylen  Hoard,F
 Jayson  Granger,G
+Jean  Montero,
 Jeff  Ayres,C
 Jeff  Brooks,F
 Jeffery  Taylor,F
+Jeffrey  Dowtin Jr,G
 Jehyve  Floyd,C
 Jerel  McNeal,G
 Jeremy  Evans,F
+Jeremy  Morgan,G
 Jeremy  Pargo,G
 Jerian  Grant,G
 Jerry  Boutsiele,C
+Jilson  Bango,C
 Jimmer  Fredette,G
+Jimmy  Clark,G
+Jimmy  Clark Iii,G
 Joan  Sastre,G
 Jock  Landale,C
 Joe  Alexander,F
 Joe  Thomasson,G
+Joel  Ayayi,G
 Joel  Bolomboy,C
 Joel  Freeland,C
 Joel  Parra,F
@@ -464,6 +508,7 @@ Jordan  Mickey,C
 Jordan  Nwora,F
 Jordan  Taylor,G
 Jordan  Theodore,G
+Joseba  Querejeta,G
 Josep  Puerto,G
 Josh  Adams,G
 Josh  Akognon,G
@@ -474,18 +519,25 @@ Jovan  Kljajic,G
 Juan  Hernangomez,F
 Juan  Nunez,G
 Juan Carlos  Navarro,G
+Juancho  Hernangomez,F
+Juani  Marcos,G
 Juhann  Begarin,F
 Justin  Anderson,F
 Justin  Bean,F
 Justin  Dentmon,G
 Justin  Doellman,F
+Justin  Holiday,G
+Justin  Robinson,G
+Justinian  Jessup,G
 Justus  Hollatz,G
+Kai  Jones,C
 Kajus  Kublickas,G
 Kaleb  Tarczewski,C
 Kalin  Lucas,G
 Kamar  Baldwin,G
 Kameron  Taylor,G
 Karam  Mashour,F
+Karim  Jallow,F
 Karolis  Lukosiunas,G
 Kartal  Ozmizrak,G
 Kasparas  Jakucionis,G
@@ -495,6 +547,7 @@ Keifer  Sykes,G
 Keith  Langford,G
 Kelvin  Rivers,F
 Kemba  Walker,G
+Kenan  Kamenjas,C
 Kenan  Sipahi,G
 Kendrick  Nunn,G
 Kendrick  Perry,G
@@ -516,6 +569,7 @@ Khyri  Thomas,G
 Kim  Tillie,F
 Klemen  Prepelic,G
 Konstantinos  Mitoglou,F
+Kosta  Kondic,G
 Kosta  Koufos,C
 Kostas  Antetokounmpo,C
 Kostas  Kaimakoglou,F
@@ -537,6 +591,7 @@ Langston  Hall,G
 Latavious  Williams,C
 Laurynas  Birutis,C
 Lautaro  Lopez,G
+Lavi  Gur,
 Leandro  Bolmaro,G
 Leo  Cavaliere,F
 Leo  Menalo,F
@@ -544,10 +599,13 @@ Leo  Westermann,G
 Leon  Kratzer,C
 Leon  Radosevic,C
 Leonidas  Kaselakis,F
+Leopold  Cavaliere,F
 Levi  Randolph,F
 Liutauras  Lelevicius,G
 Livio  Jean-Charles,F
 Lonnie  Walker IV,G
+Lonnie  Walker Iv,
+Lonnie Walker Iv,G
 Lorenz  Brenneke,F
 Lorenzo  Brown,G
 Louis  Labeyrie,F
@@ -560,6 +618,7 @@ Luigi  Datome,F
 Luis  Scola,F
 Luka  Doncic,G
 Luka  Mitrovic,F
+Luka  Samanic,F
 Lukas  Lekavicius,G
 Lukas  Uleckas,G
 Luke  Harangody,F
@@ -571,12 +630,14 @@ Maksim  Barashkov,F
 Malcolm  Delaney,G
 Malcolm  Thomas,C
 Malte  Delow,G
+Mamadi  Diakite,C
 Mantas  Juzenas,G
 Mantas  Kalnietis,G
 Mantas  Rubstavicius,G
 Maodo  Lo,G
 Marc  Garcia,G
 Marcelinho  Huertas,G
+Marcio  Santos,C
 Marco  Belinelli,G
 Marco  Cusin,C
 Marco  Spissu,G
@@ -599,6 +660,7 @@ Marko  Keselj,F
 Marko  Simonovic,C
 Marko  Todorovic,C
 Marko Jagodic Kuridza,F
+Markquis  Nowell,G
 Markus  Howard,G
 Martin  Hermannsson,G
 Martinas  Geben,C
@@ -607,6 +669,7 @@ Martynas  Sajus,C
 Marvin  Ogunsipe,F
 Mateusz  Ponitka,F
 Mathias  Lessort,C
+Mathis  Dossou-Yovo,F
 Matt  Mitchell,F
 Matt  Thomas,G
 Matteo  Spagnolo,G
@@ -618,20 +681,25 @@ Matthew  Strazel,G
 Maurice  Ndour,C
 Max  Heidegger,G
 Mbaye  Ndiaye,C
+Mckinley  Wright Iv,G
+Mehdy  Ngouama,
 Mehmet  Yagmur,G
 Melih   Tunca,G
 Melih  Mahmutoglu,G
 Melvin  Ajinca,F
 Melwin  Pantzar,G
 Mert  Akay,G
+Mert Emre Eksioglu,G
 Metecan  Birsen,F
 Metin  Turen,F
+Mfiondu  Kabengele,C
 Michael  Caicedo,G
 Michael  Eric,C
 Michael  Ojo,C
 Michael  Roll,F
 Michalis  Lountzis,G
 Miguel  Gonzalez,G
+Miikka  Muurinen,
 Mikael  Jantunen,C
 Mike  Daum,F
 Mike  James,G
@@ -639,6 +707,7 @@ Mike  Scott,F
 Mike  Tobey,C
 Mikhail  Kulagin,G
 Milan  Macvan,C
+Miles  Norris,F
 Milko  Bjelica,C
 Millan  Jimenez,G
 Milos  Teodosic,G
@@ -648,6 +717,7 @@ Mitar  Bosnjakovic,G
 Mo  Soluade,G
 Moses  Wright,C
 Motiejus  Krivas,C
+Mouhamed  Faye,C
 Mouhamet  Diouf,C
 Mouhammad  Faye,F
 Mouhammadou  Jaiteh,C
@@ -655,10 +725,14 @@ Moussa  Diagne,C
 Moustapha  Fall,C
 Muhammed  Mustafa  Baygul,G
 Mustafa  Muhaymin,G
+Myles  Cale,F
 Nadir  Hifi,G
+Nando  De Colo,G
 Nando  de Colo,G
 Nate  Reuvers,F
 Nate  Wolters,G
+Nathan  Mensah,C
+Nathan  Reuvers,F
 Nathan  Sestina,F
 Naz  Mitrou-Long,G
 Neal  Sako,C
@@ -692,6 +766,7 @@ Nikola  Mirotic,F
 Nikola  Radicevic,G
 Nikola  Rebic,G
 Nikola  Topic,F
+Nikolaos  Rogkavopoulos,F
 Nikolaos  Zisis,G
 Nikos  Chougkaz,F
 Nikos  Diplaros,G
@@ -701,24 +776,29 @@ Nils  Machowski,G
 Nimrod  Levi,F
 Noam  Yaacov,G
 Norris  Cole,G
+O'Shae J  Brissett,F
 O.J.  Mayo,G
 Octavius   Ellis,C
 Oded  Brandwein,G
 Ognjen  Dobric,F
 Ognjen  Jaramaz,G
 Ognjen  Kuzmic,C
+Ognjen  Radosic,G
 Oguz  Savas,C
 Okaro  White,F
 Okben  Ulubay,F
+Omari  Moore,G
 Omer  Mayer,G
 Omer  Yurtseven,C
 Omercan  Ilyasoglu,G
+Omiros  Netzipoglou,
 Omri  Casspi,F
 Ondrej  Balvin,C
 Onuralp  Bitim,G
 Orhan  Haciyeva,F
 Oriol  Pauli,F
 Orlando  Johnson,G
+Oscar  Da Silva,G
 Oscar  da Silva,F
 Othello  Hunter,C
 Ousmane  Diop,C
@@ -755,8 +835,10 @@ Phil  Pressey,G
 Pierre  Jackson,G
 Pierre  Oriola,F
 Pierria  Henry,G
+Pj  Dozier,
 Quincy  Acy,F
 Quincy  Miller,F
+Quinn  Ellis,G
 Quino  Colom,G
 Rafa  Martinez,F
 Rafa  Villar,G
@@ -764,6 +846,8 @@ Rafael  Luz,G
 Rafael  Menco,F
 Rakim  Sanders,F
 Ramon  Sessions,G
+Raul  Neto,G
+Raul  Villar,G
 Ray  McCallum,G
 Rayjon  Tucker,G
 Raymar  Morgan,F
@@ -772,6 +856,8 @@ Renaldas  Seibutis,F
 Retin  Obasohan,G
 Ricard  Rubio,G
 Riccardo  Moraschini,G
+Riccardo  Visconti,G
+Richaun  Holmes,C
 Ricky  Hickman,G
 Ricky  Ledo,G
 Ridvan  Oncel,G
@@ -780,6 +866,7 @@ Rikus  Schulte,F
 Rinalds  Malmanis,C
 Rion  Brown,F
 Rob  Gray,G
+Robert  Baker II,C
 Robertas  Javtokas,C
 Robin  Amaize,F
 Rodions  Kurucs,G
@@ -795,13 +882,16 @@ Rudy  Fernandez,F
 Russ  Smith,G
 Saben  Lee,G
 Salah  Mejri,C
+Saliou  Niang,F
 Sam  Van Rossom,G
 Samet  Geyik,F
 Sander  Raieste,F
 Sandy  Cohen,G
 Santiago  Yusta,F
 Sasha  Grant,F
+Sasha  Vezenkov,F
 Sasu  Salin,G
+Sayon  Keita,
 Scottie  Wilbekin,G
 Sead  Sehovic,F
 Sean  Kilpatrick,G
@@ -823,6 +913,7 @@ Sergio  Llull,G
 Sergio  Rodriguez,G
 Sertac  Sanli,C
 Shabazz  Napier,G
+Shake  Milton,G
 Shane  Larkin,G
 Shannon  Evans,G
 Shaquielle  McKissic,F
@@ -838,9 +929,11 @@ Sonny  Weems,F
 Stanley  Johnson,F
 Stanton  Kidd,F
 Stefan  Jankovic,C
+Stefan  Joksimovic,F
 Stefan  Jovic,G
 Stefan  Lazarevic,G
 Stefan  Markovic,G
+Stefan  Miljenovic,G
 Stefan  Peno,G
 Stefano  Tonut,G
 Stephane  Lasme,C
@@ -854,9 +947,13 @@ Sylvain  Francisco,G
 Sylven  Landesberg,G
 T.J.  Bray,G
 T.J.  Cline,F
+TJ  Shorts II,G
 Tadas  Sedekerskis,F
+Tai  Odiase,C
 Tai  Webster,G
+Talen  Horton Tucker,G
 Tamir  Blatt,G
+Taran  Armstrong,
 Tarik  Biberovic,F
 Tarik  Black,C
 Taylor  Rochestie,G
@@ -872,10 +969,12 @@ Tim  Schneider,F
 Timofey  Yakushin,G
 Timothe  Luwawu-Cabarrot,F
 Titas  Sargiunas,G
-TJ  Shorts II,G
+Tj  Leaf,F
+Tj  Shorts,G
 Tolga  Gecim,F
 Tomas  Dimsa,F
 Tomas  Satoransky,G
+Tomer  Ginat,F
 Tommaso  Baldasso,G
 Toney  Douglas,G
 Tony  Crocker,F
@@ -886,6 +985,7 @@ Trent  Forrest,G
 Trevion  Williams,C
 Trevor  Cooney,G
 Trey  Kell,G
+Trey  Lyles,F
 Trey  Thompkins,F
 Tristan  Vukcevic,F
 Troy  Daniels,G
@@ -931,7 +1031,10 @@ Vladimir  Veremeenko,C
 Vladislav   Trushkin,F
 Vladislav  Odinokov,F
 Vladislav  Sharapov,F
+Vlatko  Cancar,F
 Wade  Baldwin IV,G
+Wade  Baldwin Iv,
+Wade Baldwin Iv,G
 Walter  Tavares,C
 Wenyen  Gabriel,C
 Wesley  Johnson,F
@@ -941,12 +1044,14 @@ Will  Rayman,F
 Will  Thomas,F
 William  Howard,F
 William  McDowell-White,G
+William  Rayman,F
 Willie  Reed,C
 Willy  Hernangomez,C
 Xabi  Lopez-Arostegui,F
 Xavier  Munford,G
 Xavier  Rabaseda,F
 Xavier  Rathan-Mayes,F
+Yago  Dos Santos,
 Yago Mateus dos Santos,G
 Yakuba  Ouattara,F
 Yam  Madar,G
@@ -967,6 +1072,7 @@ Yves  Pons,C
 Zaccharie  Risacher,F
 Zach  Auguste,C
 Zach  Leday,F
+Zachary  Seljaas,F
 Zan Mark Sisko,G
 Zanis  Peiners,F
 Zayd  Muosa,F
@@ -974,99 +1080,3 @@ Ziga  Samar,G
 Zoran  Dragic,F
 Zoran  Nikolic,C
 Zylan  Cheatham,F
-Jarrell  Brantley,F
-Raul  Neto,G
-Mert Emre Eksioglu,G
-Nathan  Mensah,C
-Luka  Samanic,F
-Ivan  Volf,G
-Riccardo  Visconti,G
-Arijan  Lakic,F
-Bruno  Fernando,C
-Dennis  Smith Jr.,G
-Dovydas  Buika,G
-Justin  Holiday,G
-Jilson  Bango,C
-Jimmy  Clark,G
-Raul  Villar,G
-Isaiah  Wong,G
-Robert  Baker II,C
-Mathis  Dossou-Yovo,F
-Joseba  Querejeta,G
-Stefan  Joksimovic,F
-Stefan  Miljenovic,G
-Ognjen  Radosic,G
-Quinn  Ellis,G
-Tai  Odiase,C
-Tomer  Ginat,F
-Juani  Marcos,G
-Myles  Cale,F
-Justinian  Jessup,G
-Brandon  Taylor,G
-Derrick  Alston Jr.,F
-Karim  Jallow,F
-Armando  Bacot Jr.,C
-Brandon  Boston Jr.,F
-Mouhamed  Faye,C
-Jeremy  Morgan,G
-Azuolas  Tubelis,F
-Dustin  Sleva,F
-Bodian  Massa,C
-Glynn  Watson,G
-Bastien  Vautier,C
-Ike  Iroegbu,G
-Isaac  Nogues,G
-Joel  Ayayi,G
-Adam  Atamna,G
-Omari  Moore,G
-Markquis  Nowell,G
-Jimmy  Clark Iii,G
-Jeffrey  Dowtin Jr,G
-Kosta  Kondic,G
-Mckinley  Wright Iv,G
-Shake  Milton,G
-Duane  Washington,G
-Antonio  Blakeney,G
-Tj  Shorts,G
-Alberto  Abalde,G
-Talen  Horton Tucker,G
-Justin  Robinson,G
-David  Kramer,G
-O'Shae J  Brissett,F
-William  Rayman,F
-Tj  Leaf,F
-Hamidou  Diallo,F
-Clement  Frisch,F
-Cole  Swider,F
-Sasha  Vezenkov,F
-Vlatko  Cancar,F
-Davis  Bertans,F
-Ish  Wainright,F
-Nikolaos  Rogkavopoulos,F
-Alexandros  Samodurov,F
-Juancho  Hernangomez,F
-Saliou  Niang,F
-Trey  Lyles,F
-Chuma  Okeke,F
-Leopold  Cavaliere,F
-Allan  Dokossi,F
-Zachary  Seljaas,F
-Nathan  Reuvers,F
-Miles  Norris,F
-Ebuka  Izundu,C
-Aliou  Diarra,C
-Marcio  Santos,C
-Mamadi  Diakite,C
-Kai  Jones,C
-Izundu  Ebuka,C
-Devin  Booker,C
-Mfiondu  Kabengele,C
-Kenan  Kamenjas,C
-Dan  Oturu,C
-Richaun  Holmes,C
-
-
-
-
-
-
