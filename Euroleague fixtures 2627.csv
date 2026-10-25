@@ -1,381 +1,381 @@
-﻿Date,Time (CET),Home,Away,Result,Fixture,Game,IDGAME,Season
-24-Sep-26,4:00 PM,Dubai Basketball logo,Real Madrid logo,78-77,1,1,1_1,2026-2027
-24-Sep-26,4:00 PM,Hapoel Tel Aviv logo,FC Bayern Munich logo,84-86,1,2,1_2,2026-2027
-24-Sep-26,6:00 PM,Crvena Zvezda Belgrade logo,Zalgiris Kaunas logo,77-83,1,3,1_3,2026-2027
-24-Sep-26,6:15 PM,Panathinaikos Athens logo,Paris Basketball logo,91-72,1,4,1_4,2026-2027
-24-Sep-26,6:30 PM,FC Barcelona logo,Anadolu Efes Istanbul logo,89-82,1,5,1_5,2026-2027
-24-Sep-26,6:30 PM,Baskonia Vitoria-Gasteiz logo,Olympiacos Piraeus logo,89-106,1,6,1_6,2026-2027
-24-Sep-26,6:45 PM,LDLC ASVEL logo,Maccabi Rapyd Tel Aviv logo,84-74,1,7,1_7,2026-2027
-25-Sep-26,5:00 PM,Besiktas Istanbul logo,Valencia Basket logo,94-96,1,8,1_8,2026-2027
-25-Sep-26,5:45 PM,Fenerbahce Istanbul logo,Virtus Bologna logo,78-68,1,9,1_9,2026-2027
-25-Sep-26,6:45 PM,Partizan Belgrade logo,Armani Olimpia Milan logo,92-76,1,10,1_10,2026-2027
-29-Sep-26,4:00 PM,Dubai Basketball logo,FC Barcelona logo,Game preview,2,1,2_1,2026-2027
-29-Sep-26,5:00 PM,Anadolu Efes Istanbul logo,Real Madrid logo,Game preview,2,2,2_2,2026-2027
-29-Sep-26,5:00 PM,Zalgiris Kaunas logo,Olympiacos Piraeus logo,Game preview,2,3,2_3,2026-2027
-29-Sep-26,5:45 PM,Fenerbahce Istanbul logo,FC Bayern Munich logo,Game preview,2,4,2_4,2026-2027
-29-Sep-26,6:00 PM,Crvena Zvezda Belgrade logo,Hapoel Tel Aviv logo,Game preview,2,5,2_5,2026-2027
-29-Sep-26,6:30 PM,Armani Olimpia Milan logo,Virtus Bologna logo,Game preview,2,6,2_6,2026-2027
-29-Sep-26,6:30 PM,Valencia Basket logo,Baskonia Vitoria-Gasteiz logo,Game preview,2,7,2_7,2026-2027
-29-Sep-26,6:45 PM,Paris Basketball logo,Partizan Belgrade logo,Game preview,2,8,2_8,2026-2027
-30-Sep-26,6:05 PM,Maccabi Rapyd Tel Aviv logo,Besiktas Istanbul logo,Game preview,2,9,2_9,2026-2027
-30-Sep-26,6:15 PM,Panathinaikos Athens logo,LDLC ASVEL logo,Game preview,2,10,2_10,2026-2027
-1-Oct-26,5:00 PM,Besiktas Istanbul logo,FC Barcelona logo,Game preview,3,1,3_1,2026-2027
-1-Oct-26,5:00 PM,Hapoel Tel Aviv logo,Real Madrid logo,Game preview,3,2,3_2,2026-2027
-1-Oct-26,6:00 PM,Crvena Zvezda Belgrade logo,Anadolu Efes Istanbul logo,Game preview,3,3,3_3,2026-2027
-1-Oct-26,6:30 PM,Virtus Bologna logo,Olympiacos Piraeus logo,Game preview,3,4,3_4,2026-2027
-1-Oct-26,6:45 PM,Paris Basketball logo,Zalgiris Kaunas logo,Game preview,3,5,3_5,2026-2027
-2-Oct-26,5:45 PM,Fenerbahce Istanbul logo,Dubai Basketball logo,Game preview,3,6,3_6,2026-2027
-2-Oct-26,6:00 PM,LDLC ASVEL logo,Valencia Basket logo,Game preview,3,7,3_7,2026-2027
-2-Oct-26,6:15 PM,Panathinaikos Athens logo,Maccabi Rapyd Tel Aviv logo,Game preview,3,8,3_8,2026-2027
-2-Oct-26,6:30 PM,FC Bayern Munich logo,Partizan Belgrade logo,Game preview,3,9,3_9,2026-2027
-2-Oct-26,6:30 PM,Baskonia Vitoria-Gasteiz logo,Armani Olimpia Milan logo,Game preview,3,10,3_10,2026-2027
-7-Oct-26,6:45 PM,Paris Basketball logo,LDLC ASVEL logo,Game preview,4,1,4_1,2026-2027
-8-Oct-26,6:05 PM,Maccabi Rapyd Tel Aviv logo,Armani Olimpia Milan logo,Game preview,4,2,4_2,2026-2027
-8-Oct-26,6:15 PM,Panathinaikos Athens logo,Fenerbahce Istanbul logo,Game preview,4,3,4_3,2026-2027
-8-Oct-26,6:30 PM,FC Bayern Munich logo,Virtus Bologna logo,Game preview,4,4,4_4,2026-2027
-8-Oct-26,6:30 PM,Valencia Basket logo,Hapoel Tel Aviv logo,Game preview,4,5,4_5,2026-2027
-8-Oct-26,6:45 PM,Real Madrid logo,Partizan Belgrade logo,Game preview,4,6,4_6,2026-2027
-9-Oct-26,4:00 PM,Dubai Basketball logo,Crvena Zvezda Belgrade logo,Game preview,4,7,4_7,2026-2027
-9-Oct-26,6:15 PM,Olympiacos Piraeus logo,Anadolu Efes Istanbul logo,Game preview,4,8,4_8,2026-2027
-9-Oct-26,6:30 PM,FC Barcelona logo,Zalgiris Kaunas logo,Game preview,4,9,4_9,2026-2027
-9-Oct-26,6:30 PM,Baskonia Vitoria-Gasteiz logo,Besiktas Istanbul logo,Game preview,4,10,4_10,2026-2027
-13-Oct-26,5:45 PM,Fenerbahce Istanbul logo,Zalgiris Kaunas logo,Game preview,5,1,5_1,2026-2027
-13-Oct-26,6:00 PM,LDLC ASVEL logo,Crvena Zvezda Belgrade logo,Game preview,5,2,5_2,2026-2027
-13-Oct-26,6:30 PM,Armani Olimpia Milan logo,Real Madrid logo,Game preview,5,3,5_3,2026-2027
-13-Oct-26,6:30 PM,FC Barcelona logo,Maccabi Rapyd Tel Aviv logo,Game preview,5,4,5_4,2026-2027
-13-Oct-26,6:30 PM,Baskonia Vitoria-Gasteiz logo,Dubai Basketball logo,Game preview,5,5,5_5,2026-2027
-13-Oct-26,6:30 PM,Partizan Belgrade logo,Panathinaikos Athens logo,Game preview,5,6,5_6,2026-2027
-13-Oct-26,7:00 PM,Valencia Basket logo,Olympiacos Piraeus logo,Game preview,5,7,5_7,2026-2027
-14-Oct-26,5:00 PM,Hapoel Tel Aviv logo,Besiktas Istanbul logo,Game preview,5,8,5_8,2026-2027
-14-Oct-26,5:30 PM,Anadolu Efes Istanbul logo,FC Bayern Munich logo,Game preview,5,9,5_9,2026-2027
-14-Oct-26,6:45 PM,Paris Basketball logo,Virtus Bologna logo,Game preview,5,10,5_10,2026-2027
-15-Oct-26,5:45 PM,Fenerbahce Istanbul logo,Partizan Belgrade logo,Game preview,6,1,6_1,2026-2027
-15-Oct-26,6:30 PM,Armani Olimpia Milan logo,Dubai Basketball logo,Game preview,6,2,6_2,2026-2027
-15-Oct-26,6:30 PM,Valencia Basket logo,Maccabi Rapyd Tel Aviv logo,Game preview,6,3,6_3,2026-2027
-15-Oct-26,7:00 PM,Real Madrid logo,LDLC ASVEL logo,Game preview,6,4,6_4,2026-2027
-16-Oct-26,5:00 PM,Besiktas Istanbul logo,FC Bayern Munich logo,Game preview,6,5,6_5,2026-2027
-16-Oct-26,5:00 PM,Zalgiris Kaunas logo,Anadolu Efes Istanbul logo,Game preview,6,6,6_6,2026-2027
-16-Oct-26,6:00 PM,Crvena Zvezda Belgrade logo,Paris Basketball logo,Game preview,6,7,6_7,2026-2027
-16-Oct-26,6:15 PM,Panathinaikos Athens logo,Hapoel Tel Aviv logo,Game preview,6,8,6_8,2026-2027
-16-Oct-26,6:30 PM,FC Barcelona logo,Olympiacos Piraeus logo,Game preview,6,9,6_9,2026-2027
-16-Oct-26,6:30 PM,Virtus Bologna logo,Baskonia Vitoria-Gasteiz logo,Game preview,6,10,6_10,2026-2027
-21-Oct-26,5:00 PM,Hapoel Tel Aviv logo,Virtus Bologna logo,Game preview,7,1,7_1,2026-2027
-22-Oct-26,5:30 PM,Anadolu Efes Istanbul logo,Besiktas Istanbul logo,Game preview,7,2,7_2,2026-2027
-22-Oct-26,6:05 PM,Maccabi Rapyd Tel Aviv logo,Real Madrid logo,Game preview,7,3,7_3,2026-2027
-22-Oct-26,6:15 PM,Panathinaikos Athens logo,Baskonia Vitoria-Gasteiz logo,Game preview,7,4,7_4,2026-2027
-22-Oct-26,6:30 PM,Armani Olimpia Milan logo,FC Barcelona logo,Game preview,7,5,7_5,2026-2027
-22-Oct-26,6:30 PM,FC Bayern Munich logo,Dubai Basketball logo,Game preview,7,6,7_6,2026-2027
-22-Oct-26,6:45 PM,Partizan Belgrade logo,Crvena Zvezda Belgrade logo,Game preview,7,7,7_7,2026-2027
-23-Oct-26,5:00 PM,Zalgiris Kaunas logo,LDLC ASVEL logo,Game preview,7,8,7_8,2026-2027
-23-Oct-26,6:15 PM,Olympiacos Piraeus logo,Fenerbahce Istanbul logo,Game preview,7,9,7_9,2026-2027
-23-Oct-26,6:45 PM,Paris Basketball logo,Valencia Basket logo,Game preview,7,10,7_10,2026-2027
-27-Oct-26,4:00 PM,Dubai Basketball logo,Paris Basketball logo,Game preview,8,1,8_1,2026-2027
-27-Oct-26,7:00 PM,Crvena Zvezda Belgrade logo,Maccabi Rapyd Tel Aviv logo,Game preview,8,2,8_2,2026-2027
-27-Oct-26,7:15 PM,Panathinaikos Athens logo,Armani Olimpia Milan logo,Game preview,8,3,8_3,2026-2027
-27-Oct-26,7:30 PM,FC Bayern Munich logo,FC Barcelona logo,Game preview,8,4,8_4,2026-2027
-27-Oct-26,7:30 PM,Valencia Basket logo,Fenerbahce Istanbul logo,Game preview,8,5,8_5,2026-2027
-27-Oct-26,8:00 PM,Baskonia Vitoria-Gasteiz logo,Real Madrid logo,Game preview,8,6,8_6,2026-2027
-28-Oct-26,6:00 PM,Hapoel Tel Aviv logo,Anadolu Efes Istanbul logo,Game preview,8,7,8_7,2026-2027
-28-Oct-26,6:30 PM,Besiktas Istanbul logo,Olympiacos Piraeus logo,Game preview,8,8,8_8,2026-2027
-28-Oct-26,7:00 PM,LDLC ASVEL logo,Partizan Belgrade logo,Game preview,8,9,8_9,2026-2027
-28-Oct-26,7:30 PM,Virtus Bologna logo,Zalgiris Kaunas logo,Game preview,8,10,8_10,2026-2027
-29-Oct-26,7:00 PM,Crvena Zvezda Belgrade logo,FC Bayern Munich logo,Game preview,9,1,9_1,2026-2027
-29-Oct-26,7:05 PM,Maccabi Rapyd Tel Aviv logo,Paris Basketball logo,Game preview,9,2,9_2,2026-2027
-29-Oct-26,7:45 PM,Real Madrid logo,Fenerbahce Istanbul logo,Game preview,9,3,9_3,2026-2027
-30-Oct-26,4:00 PM,Dubai Basketball logo,Hapoel Tel Aviv logo,Game preview,9,4,9_4,2026-2027
-30-Oct-26,5:30 PM,Anadolu Efes Istanbul logo,Panathinaikos Athens logo,Game preview,9,5,9_5,2026-2027
-30-Oct-26,6:00 PM,Zalgiris Kaunas logo,Partizan Belgrade logo,Game preview,9,6,9_6,2026-2027
-30-Oct-26,7:00 PM,LDLC ASVEL logo,Baskonia Vitoria-Gasteiz logo,Game preview,9,7,9_7,2026-2027
-30-Oct-26,7:15 PM,Olympiacos Piraeus logo,Armani Olimpia Milan logo,Game preview,9,8,9_8,2026-2027
-30-Oct-26,7:30 PM,FC Barcelona logo,Valencia Basket logo,Game preview,9,9,9_9,2026-2027
-30-Oct-26,7:30 PM,Virtus Bologna logo,Besiktas Istanbul logo,Game preview,9,10,9_10,2026-2027
-4-Nov-26,5:45 PM,Fenerbahce Istanbul logo,Baskonia Vitoria-Gasteiz logo,Game preview,10,1,10_1,2026-2027
-4-Nov-26,7:45 PM,Real Madrid logo,Panathinaikos Athens logo,Game preview,10,2,10_2,2026-2027
-5-Nov-26,5:30 PM,Anadolu Efes Istanbul logo,Paris Basketball logo,Game preview,10,3,10_3,2026-2027
-5-Nov-26,6:00 PM,Hapoel Tel Aviv logo,FC Barcelona logo,Game preview,10,4,10_4,2026-2027
-5-Nov-26,7:00 PM,LDLC ASVEL logo,FC Bayern Munich logo,Game preview,10,5,10_5,2026-2027
-5-Nov-26,7:30 PM,Armani Olimpia Milan logo,Valencia Basket logo,Game preview,10,6,10_6,2026-2027
-6-Nov-26,5:00 PM,Besiktas Istanbul logo,Zalgiris Kaunas logo,Game preview,10,7,10_7,2026-2027
-6-Nov-26,7:15 PM,Olympiacos Piraeus logo,Crvena Zvezda Belgrade logo,Game preview,10,8,10_8,2026-2027
-6-Nov-26,7:30 PM,Virtus Bologna logo,Dubai Basketball logo,Game preview,10,9,10_9,2026-2027
-6-Nov-26,7:45 PM,Partizan Belgrade logo,Maccabi Rapyd Tel Aviv logo,Game preview,10,10,10_10,2026-2027
-11-Nov-26,7:45 PM,Paris Basketball logo,Fenerbahce Istanbul logo,Game preview,11,1,11_1,2026-2027
-11-Nov-26,7:45 PM,Partizan Belgrade logo,Baskonia Vitoria-Gasteiz logo,Game preview,11,2,11_2,2026-2027
-12-Nov-26,7:05 PM,Maccabi Rapyd Tel Aviv logo,Hapoel Tel Aviv logo,Game preview,11,3,11_3,2026-2027
-12-Nov-26,7:15 PM,Olympiacos Piraeus logo,Dubai Basketball logo,Game preview,11,4,11_4,2026-2027
-12-Nov-26,7:30 PM,Armani Olimpia Milan logo,Zalgiris Kaunas logo,Game preview,11,5,11_5,2026-2027
-12-Nov-26,7:30 PM,Valencia Basket logo,FC Bayern Munich logo,Game preview,11,6,11_6,2026-2027
-12-Nov-26,8:00 PM,Real Madrid logo,Crvena Zvezda Belgrade logo,Game preview,11,7,11_7,2026-2027
-13-Nov-26,5:30 PM,Anadolu Efes Istanbul logo,Virtus Bologna logo,Game preview,11,8,11_8,2026-2027
-13-Nov-26,7:15 PM,Panathinaikos Athens logo,FC Barcelona logo,Game preview,11,9,11_9,2026-2027
-13-Nov-26,7:30 PM,LDLC ASVEL logo,Besiktas Istanbul logo,Game preview,11,10,11_10,2026-2027
-17-Nov-26,4:00 PM,Dubai Basketball logo,Anadolu Efes Istanbul logo,Game preview,12,1,12_1,2026-2027
-17-Nov-26,5:45 PM,Fenerbahce Istanbul logo,LDLC ASVEL logo,Game preview,12,2,12_2,2026-2027
-17-Nov-26,6:00 PM,Zalgiris Kaunas logo,FC Bayern Munich logo,Game preview,12,3,12_3,2026-2027
-17-Nov-26,7:05 PM,Maccabi Rapyd Tel Aviv logo,Olympiacos Piraeus logo,Game preview,12,4,12_4,2026-2027
-17-Nov-26,7:30 PM,Armani Olimpia Milan logo,Crvena Zvezda Belgrade logo,Game preview,12,5,12_5,2026-2027
-17-Nov-26,7:30 PM,FC Barcelona logo,Paris Basketball logo,Game preview,12,6,12_6,2026-2027
-17-Nov-26,7:30 PM,Baskonia Vitoria-Gasteiz logo,Hapoel Tel Aviv logo,Game preview,12,7,12_7,2026-2027
-17-Nov-26,7:45 PM,Partizan Belgrade logo,Valencia Basket logo,Game preview,12,8,12_8,2026-2027
-17-Nov-26,8:00 PM,Virtus Bologna logo,Panathinaikos Athens logo,Game preview,12,9,12_9,2026-2027
-18-Nov-26,5:00 PM,Besiktas Istanbul logo,Real Madrid logo,Game preview,12,10,12_10,2026-2027
-19-Nov-26,6:00 PM,Zalgiris Kaunas logo,Panathinaikos Athens logo,Game preview,13,1,13_1,2026-2027
-19-Nov-26,7:05 PM,Maccabi Rapyd Tel Aviv logo,Dubai Basketball logo,Game preview,13,2,13_2,2026-2027
-19-Nov-26,7:30 PM,Armani Olimpia Milan logo,Fenerbahce Istanbul logo,Game preview,13,3,13_3,2026-2027
-19-Nov-26,7:30 PM,FC Bayern Munich logo,Baskonia Vitoria-Gasteiz logo,Game preview,13,4,13_4,2026-2027
-19-Nov-26,7:45 PM,Paris Basketball logo,Hapoel Tel Aviv logo,Game preview,13,5,13_5,2026-2027
-19-Nov-26,8:00 PM,Valencia Basket logo,Virtus Bologna logo,Game preview,13,6,13_6,2026-2027
-20-Nov-26,5:30 PM,Anadolu Efes Istanbul logo,LDLC ASVEL logo,Game preview,13,7,13_7,2026-2027
-20-Nov-26,7:15 PM,Olympiacos Piraeus logo,Real Madrid logo,Game preview,13,8,13_8,2026-2027
-20-Nov-26,7:30 PM,FC Barcelona logo,Crvena Zvezda Belgrade logo,Game preview,13,9,13_9,2026-2027
-20-Nov-26,7:45 PM,Partizan Belgrade logo,Besiktas Istanbul logo,Game preview,13,10,13_10,2026-2027
-24-Nov-26,5:00 PM,Besiktas Istanbul logo,Paris Basketball logo,Game preview,14,1,14_1,2026-2027
-24-Nov-26,6:00 PM,Crvena Zvezda Belgrade logo,Virtus Bologna logo,Game preview,14,2,14_2,2026-2027
-24-Nov-26,7:30 PM,FC Bayern Munich logo,Maccabi Rapyd Tel Aviv logo,Game preview,14,3,14_3,2026-2027
-24-Nov-26,7:30 PM,Valencia Basket logo,Panathinaikos Athens logo,Game preview,14,4,14_4,2026-2027
-24-Nov-26,7:45 PM,LDLC ASVEL logo,Armani Olimpia Milan logo,Game preview,14,5,14_5,2026-2027
-24-Nov-26,8:00 PM,FC Barcelona logo,Fenerbahce Istanbul logo,Game preview,14,6,14_6,2026-2027
-25-Nov-26,4:00 PM,Dubai Basketball logo,Partizan Belgrade logo,Game preview,14,7,14_7,2026-2027
-25-Nov-26,7:15 PM,Olympiacos Piraeus logo,Hapoel Tel Aviv logo,Game preview,14,8,14_8,2026-2027
-25-Nov-26,7:30 PM,Baskonia Vitoria-Gasteiz logo,Anadolu Efes Istanbul logo,Game preview,14,9,14_9,2026-2027
-25-Nov-26,7:45 PM,Real Madrid logo,Zalgiris Kaunas logo,Game preview,14,10,14_10,2026-2027
-3-Dec-26,5:30 PM,Anadolu Efes Istanbul logo,Valencia Basket logo,Game preview,15,1,15_1,2026-2027
-3-Dec-26,5:45 PM,Fenerbahce Istanbul logo,Crvena Zvezda Belgrade logo,Game preview,15,2,15_2,2026-2027
-3-Dec-26,6:00 PM,Hapoel Tel Aviv logo,Armani Olimpia Milan logo,Game preview,15,3,15_3,2026-2027
-3-Dec-26,7:30 PM,FC Bayern Munich logo,Paris Basketball logo,Game preview,15,4,15_4,2026-2027
-3-Dec-26,7:45 PM,Real Madrid logo,FC Barcelona logo,Game preview,15,5,15_5,2026-2027
-4-Dec-26,5:00 PM,Besiktas Istanbul logo,Panathinaikos Athens logo,Game preview,15,6,15_6,2026-2027
-4-Dec-26,6:00 PM,Zalgiris Kaunas logo,Dubai Basketball logo,Game preview,15,7,15_7,2026-2027
-4-Dec-26,7:15 PM,Olympiacos Piraeus logo,LDLC ASVEL logo,Game preview,15,8,15_8,2026-2027
-4-Dec-26,7:30 PM,Baskonia Vitoria-Gasteiz logo,Maccabi Rapyd Tel Aviv logo,Game preview,15,9,15_9,2026-2027
-4-Dec-26,7:30 PM,Virtus Bologna logo,Partizan Belgrade logo,Game preview,15,10,15_10,2026-2027
-10-Dec-26,5:45 PM,Fenerbahce Istanbul logo,Anadolu Efes Istanbul logo,Game preview,16,1,16_1,2026-2027
-10-Dec-26,6:00 PM,Hapoel Tel Aviv logo,LDLC ASVEL logo,Game preview,16,2,16_2,2026-2027
-10-Dec-26,6:00 PM,Zalgiris Kaunas logo,Baskonia Vitoria-Gasteiz logo,Game preview,16,3,16_3,2026-2027
-10-Dec-26,7:30 PM,Armani Olimpia Milan logo,FC Bayern Munich logo,Game preview,16,4,16_4,2026-2027
-10-Dec-26,7:45 PM,Paris Basketball logo,Real Madrid logo,Game preview,16,5,16_5,2026-2027
-11-Dec-26,4:00 PM,Dubai Basketball logo,Besiktas Istanbul logo,Game preview,16,6,16_6,2026-2027
-11-Dec-26,7:15 PM,Panathinaikos Athens logo,Olympiacos Piraeus logo,Game preview,16,7,16_7,2026-2027
-11-Dec-26,7:30 PM,Valencia Basket logo,Crvena Zvezda Belgrade logo,Game preview,16,8,16_8,2026-2027
-11-Dec-26,7:30 PM,Virtus Bologna logo,Maccabi Rapyd Tel Aviv logo,Game preview,16,9,16_9,2026-2027
-11-Dec-26,7:45 PM,Partizan Belgrade logo,FC Barcelona logo,Game preview,16,10,16_10,2026-2027
-15-Dec-26,5:45 PM,Fenerbahce Istanbul logo,Hapoel Tel Aviv logo,Game preview,17,1,17_1,2026-2027
-15-Dec-26,7:05 PM,Maccabi Rapyd Tel Aviv logo,Zalgiris Kaunas logo,Game preview,17,2,17_2,2026-2027
-15-Dec-26,7:30 PM,Valencia Basket logo,Dubai Basketball logo,Game preview,17,3,17_3,2026-2027
-15-Dec-26,7:30 PM,Virtus Bologna logo,LDLC ASVEL logo,Game preview,17,4,17_4,2026-2027
-15-Dec-26,7:45 PM,Paris Basketball logo,Olympiacos Piraeus logo,Game preview,17,5,17_5,2026-2027
-15-Dec-26,7:45 PM,Real Madrid logo,FC Bayern Munich logo,Game preview,17,6,17_6,2026-2027
-16-Dec-26,5:00 PM,Besiktas Istanbul logo,Armani Olimpia Milan logo,Game preview,17,7,17_7,2026-2027
-16-Dec-26,7:15 PM,Panathinaikos Athens logo,Crvena Zvezda Belgrade logo,Game preview,17,8,17_8,2026-2027
-16-Dec-26,7:30 PM,Baskonia Vitoria-Gasteiz logo,FC Barcelona logo,Game preview,17,9,17_9,2026-2027
-16-Dec-26,7:45 PM,Partizan Belgrade logo,Anadolu Efes Istanbul logo,Game preview,17,10,17_10,2026-2027
-17-Dec-26,5:45 PM,Fenerbahce Istanbul logo,Maccabi Rapyd Tel Aviv logo,Game preview,18,1,18_1,2026-2027
-17-Dec-26,6:00 PM,Hapoel Tel Aviv logo,Zalgiris Kaunas logo,Game preview,18,2,18_2,2026-2027
-17-Dec-26,7:00 PM,LDLC ASVEL logo,Dubai Basketball logo,Game preview,18,3,18_3,2026-2027
-17-Dec-26,7:45 PM,Real Madrid logo,Valencia Basket logo,Game preview,18,4,18_4,2026-2027
-18-Dec-26,5:30 PM,Anadolu Efes Istanbul logo,Armani Olimpia Milan logo,Game preview,18,5,18_5,2026-2027
-18-Dec-26,7:15 PM,Olympiacos Piraeus logo,Partizan Belgrade logo,Game preview,18,6,18_6,2026-2027
-18-Dec-26,7:30 PM,Crvena Zvezda Belgrade logo,Besiktas Istanbul logo,Game preview,18,7,18_7,2026-2027
-18-Dec-26,7:30 PM,FC Bayern Munich logo,Panathinaikos Athens logo,Game preview,18,8,18_8,2026-2027
-18-Dec-26,7:30 PM,Baskonia Vitoria-Gasteiz logo,Paris Basketball logo,Game preview,18,9,18_9,2026-2027
-18-Dec-26,7:45 PM,FC Barcelona logo,Virtus Bologna logo,Game preview,18,10,18_10,2026-2027
-22-Dec-26,5:00 PM,Besiktas Istanbul logo,Fenerbahce Istanbul logo,Game preview,19,1,19_1,2026-2027
-22-Dec-26,6:00 PM,Hapoel Tel Aviv logo,Partizan Belgrade logo,Game preview,19,2,19_2,2026-2027
-22-Dec-26,7:00 PM,LDLC ASVEL logo,FC Barcelona logo,Game preview,19,3,19_3,2026-2027
-22-Dec-26,7:30 PM,FC Bayern Munich logo,Olympiacos Piraeus logo,Game preview,19,4,19_4,2026-2027
-22-Dec-26,7:30 PM,Virtus Bologna logo,Real Madrid logo,Game preview,19,5,19_5,2026-2027
-23-Dec-26,4:00 PM,Dubai Basketball logo,Panathinaikos Athens logo,Game preview,19,6,19_6,2026-2027
-23-Dec-26,6:00 PM,Zalgiris Kaunas logo,Valencia Basket logo,Game preview,19,7,19_7,2026-2027
-23-Dec-26,7:00 PM,Crvena Zvezda Belgrade logo,Baskonia Vitoria-Gasteiz logo,Game preview,19,8,19_8,2026-2027
-23-Dec-26,7:05 PM,Maccabi Rapyd Tel Aviv logo,Anadolu Efes Istanbul logo,Game preview,19,9,19_9,2026-2027
-23-Dec-26,7:30 PM,Armani Olimpia Milan logo,Paris Basketball logo,Game preview,19,10,19_10,2026-2027
-29-Dec-26,5:45 PM,Fenerbahce Istanbul logo,Panathinaikos Athens logo,Game preview,20,1,20_1,2026-2027
-29-Dec-26,6:00 PM,Hapoel Tel Aviv logo,Maccabi Rapyd Tel Aviv logo,Game preview,20,2,20_2,2026-2027
-29-Dec-26,7:30 PM,Baskonia Vitoria-Gasteiz logo,Valencia Basket logo,Game preview,20,3,20_3,2026-2027
-29-Dec-26,7:45 PM,Partizan Belgrade logo,Zalgiris Kaunas logo,Game preview,20,4,20_4,2026-2027
-29-Dec-26,8:00 PM,Real Madrid logo,Dubai Basketball logo,Game preview,20,5,20_5,2026-2027
-30-Dec-26,5:30 PM,Anadolu Efes Istanbul logo,FC Barcelona logo,Game preview,20,6,20_6,2026-2027
-30-Dec-26,7:00 PM,LDLC ASVEL logo,Olympiacos Piraeus logo,Game preview,20,7,20_7,2026-2027
-30-Dec-26,7:30 PM,FC Bayern Munich logo,Besiktas Istanbul logo,Game preview,20,8,20_8,2026-2027
-30-Dec-26,7:30 PM,Virtus Bologna logo,Armani Olimpia Milan logo,Game preview,20,9,20_9,2026-2027
-30-Dec-26,7:45 PM,Paris Basketball logo,Crvena Zvezda Belgrade logo,Game preview,20,10,20_10,2026-2027
-6-Jan-27,7:30 PM,FC Barcelona logo,Besiktas Istanbul logo,Game preview,21,1,21_1,2026-2027
-7-Jan-27,5:30 PM,Anadolu Efes Istanbul logo,Fenerbahce Istanbul logo,Game preview,21,2,21_2,2026-2027
-7-Jan-27,6:00 PM,Zalgiris Kaunas logo,Paris Basketball logo,Game preview,21,3,21_3,2026-2027
-7-Jan-27,7:05 PM,Maccabi Rapyd Tel Aviv logo,Panathinaikos Athens logo,Game preview,21,4,21_4,2026-2027
-7-Jan-27,7:30 PM,Armani Olimpia Milan logo,Hapoel Tel Aviv logo,Game preview,21,5,21_5,2026-2027
-7-Jan-27,7:30 PM,Valencia Basket logo,Partizan Belgrade logo,Game preview,21,6,21_6,2026-2027
-8-Jan-27,4:00 PM,Dubai Basketball logo,FC Bayern Munich logo,Game preview,21,7,21_7,2026-2027
-8-Jan-27,7:00 PM,Crvena Zvezda Belgrade logo,LDLC ASVEL logo,Game preview,21,8,21_8,2026-2027
-8-Jan-27,7:30 PM,Baskonia Vitoria-Gasteiz logo,Virtus Bologna logo,Game preview,21,9,21_9,2026-2027
-8-Jan-27,7:45 PM,Real Madrid logo,Olympiacos Piraeus logo,Game preview,21,10,21_10,2026-2027
-12-Jan-27,4:00 PM,Dubai Basketball logo,Fenerbahce Istanbul logo,Game preview,22,1,22_1,2026-2027
-12-Jan-27,6:00 PM,Hapoel Tel Aviv logo,Paris Basketball logo,Game preview,22,2,22_2,2026-2027
-12-Jan-27,7:00 PM,Crvena Zvezda Belgrade logo,Real Madrid logo,Game preview,22,3,22_3,2026-2027
-12-Jan-27,7:00 PM,LDLC ASVEL logo,Zalgiris Kaunas logo,Game preview,22,4,22_4,2026-2027
-12-Jan-27,7:05 PM,Maccabi Rapyd Tel Aviv logo,FC Bayern Munich logo,Game preview,22,5,22_5,2026-2027
-12-Jan-27,7:15 PM,Panathinaikos Athens logo,Valencia Basket logo,Game preview,22,6,22_6,2026-2027
-12-Jan-27,7:30 PM,FC Barcelona logo,Armani Olimpia Milan logo,Game preview,22,7,22_7,2026-2027
-12-Jan-27,7:30 PM,Virtus Bologna logo,Anadolu Efes Istanbul logo,Game preview,22,8,22_8,2026-2027
-13-Jan-27,5:00 PM,Besiktas Istanbul logo,Partizan Belgrade logo,Game preview,22,9,22_9,2026-2027
-13-Jan-27,7:15 PM,Olympiacos Piraeus logo,Baskonia Vitoria-Gasteiz logo,Game preview,22,10,22_10,2026-2027
-14-Jan-27,6:00 PM,Hapoel Tel Aviv logo,Valencia Basket logo,Game preview,23,1,23_1,2026-2027
-14-Jan-27,6:00 PM,Zalgiris Kaunas logo,Crvena Zvezda Belgrade logo,Game preview,23,2,23_2,2026-2027
-14-Jan-27,7:15 PM,Panathinaikos Athens logo,FC Bayern Munich logo,Game preview,23,3,23_3,2026-2027
-14-Jan-27,7:30 PM,Armani Olimpia Milan logo,LDLC ASVEL logo,Game preview,23,4,23_4,2026-2027
-14-Jan-27,7:45 PM,Real Madrid logo,Anadolu Efes Istanbul logo,Game preview,23,5,23_5,2026-2027
-15-Jan-27,4:00 PM,Dubai Basketball logo,Maccabi Rapyd Tel Aviv logo,Game preview,23,6,23_6,2026-2027
-15-Jan-27,5:00 PM,Besiktas Istanbul logo,Baskonia Vitoria-Gasteiz logo,Game preview,23,7,23_7,2026-2027
-15-Jan-27,7:15 PM,Olympiacos Piraeus logo,Paris Basketball logo,Game preview,23,8,23_8,2026-2027
-15-Jan-27,7:30 PM,Virtus Bologna logo,FC Barcelona logo,Game preview,23,9,23_9,2026-2027
-15-Jan-27,7:45 PM,Partizan Belgrade logo,Fenerbahce Istanbul logo,Game preview,23,10,23_10,2026-2027
-21-Jan-27,5:45 PM,Fenerbahce Istanbul logo,Besiktas Istanbul logo,Game preview,24,1,24_1,2026-2027
-21-Jan-27,6:00 PM,Hapoel Tel Aviv logo,Panathinaikos Athens logo,Game preview,24,2,24_2,2026-2027
-21-Jan-27,7:30 PM,FC Bayern Munich logo,Armani Olimpia Milan logo,Game preview,24,3,24_3,2026-2027
-21-Jan-27,7:45 PM,Paris Basketball logo,Baskonia Vitoria-Gasteiz logo,Game preview,24,4,24_4,2026-2027
-21-Jan-27,7:45 PM,Partizan Belgrade logo,Olympiacos Piraeus logo,Game preview,24,5,24_5,2026-2027
-21-Jan-27,7:45 PM,Real Madrid logo,Maccabi Rapyd Tel Aviv logo,Game preview,24,6,24_6,2026-2027
-22-Jan-27,5:30 PM,Anadolu Efes Istanbul logo,Dubai Basketball logo,Game preview,24,7,24_7,2026-2027
-22-Jan-27,6:00 PM,Zalgiris Kaunas logo,Virtus Bologna logo,Game preview,24,8,24_8,2026-2027
-22-Jan-27,7:00 PM,Crvena Zvezda Belgrade logo,FC Barcelona logo,Game preview,24,9,24_9,2026-2027
-22-Jan-27,7:30 PM,Valencia Basket logo,LDLC ASVEL logo,Game preview,24,10,24_10,2026-2027
-28-Jan-27,5:00 PM,Besiktas Istanbul logo,Crvena Zvezda Belgrade logo,Game preview,25,1,25_1,2026-2027
-28-Jan-27,7:15 PM,Olympiacos Piraeus logo,Maccabi Rapyd Tel Aviv logo,Game preview,25,2,25_2,2026-2027
-28-Jan-27,7:30 PM,FC Bayern Munich logo,Valencia Basket logo,Game preview,25,3,25_3,2026-2027
-28-Jan-27,7:30 PM,Baskonia Vitoria-Gasteiz logo,Zalgiris Kaunas logo,Game preview,25,4,25_4,2026-2027
-28-Jan-27,7:30 PM,Virtus Bologna logo,Paris Basketball logo,Game preview,25,5,25_5,2026-2027
-29-Jan-27,5:45 PM,Fenerbahce Istanbul logo,Real Madrid logo,Game preview,25,6,25_6,2026-2027
-29-Jan-27,7:00 PM,LDLC ASVEL logo,Hapoel Tel Aviv logo,Game preview,25,7,25_7,2026-2027
-29-Jan-27,7:15 PM,Panathinaikos Athens logo,Anadolu Efes Istanbul logo,Game preview,25,8,25_8,2026-2027
-29-Jan-27,7:30 PM,Armani Olimpia Milan logo,Partizan Belgrade logo,Game preview,25,9,25_9,2026-2027
-29-Jan-27,7:30 PM,FC Barcelona logo,Dubai Basketball logo,Game preview,25,10,25_10,2026-2027
-2-Feb-27,5:30 PM,Anadolu Efes Istanbul logo,Zalgiris Kaunas logo,Game preview,26,1,26_1,2026-2027
-2-Feb-27,7:05 PM,Maccabi Rapyd Tel Aviv logo,Virtus Bologna logo,Game preview,26,2,26_2,2026-2027
-2-Feb-27,7:15 PM,Panathinaikos Athens logo,Dubai Basketball logo,Game preview,26,3,26_3,2026-2027
-2-Feb-27,7:30 PM,Baskonia Vitoria-Gasteiz logo,Fenerbahce Istanbul logo,Game preview,26,4,26_4,2026-2027
-2-Feb-27,7:45 PM,Paris Basketball logo,Besiktas Istanbul logo,Game preview,26,5,26_5,2026-2027
-2-Feb-27,7:45 PM,Partizan Belgrade logo,Real Madrid logo,Game preview,26,6,26_6,2026-2027
-3-Feb-27,6:00 PM,Hapoel Tel Aviv logo,Olympiacos Piraeus logo,Game preview,26,7,26_7,2026-2027
-3-Feb-27,7:30 PM,FC Barcelona logo,LDLC ASVEL logo,Game preview,26,8,26_8,2026-2027
-3-Feb-27,7:30 PM,FC Bayern Munich logo,Crvena Zvezda Belgrade logo,Game preview,26,9,26_9,2026-2027
-3-Feb-27,7:45 PM,Valencia Basket logo,Armani Olimpia Milan logo,Game preview,26,10,26_10,2026-2027
-4-Feb-27,4:00 PM,Dubai Basketball logo,Virtus Bologna logo,Game preview,27,1,27_1,2026-2027
-4-Feb-27,5:30 PM,Anadolu Efes Istanbul logo,Maccabi Rapyd Tel Aviv logo,Game preview,27,2,27_2,2026-2027
-4-Feb-27,6:00 PM,Zalgiris Kaunas logo,Besiktas Istanbul logo,Game preview,27,3,27_3,2026-2027
-4-Feb-27,7:45 PM,Real Madrid logo,Paris Basketball logo,Game preview,27,4,27_4,2026-2027
-5-Feb-27,7:00 PM,LDLC ASVEL logo,Fenerbahce Istanbul logo,Game preview,27,5,27_5,2026-2027
-5-Feb-27,7:15 PM,Olympiacos Piraeus logo,FC Bayern Munich logo,Game preview,27,6,27_6,2026-2027
-5-Feb-27,7:30 PM,Armani Olimpia Milan logo,Panathinaikos Athens logo,Game preview,27,7,27_7,2026-2027
-5-Feb-27,7:30 PM,Baskonia Vitoria-Gasteiz logo,Crvena Zvezda Belgrade logo,Game preview,27,8,27_8,2026-2027
-5-Feb-27,7:45 PM,Partizan Belgrade logo,Hapoel Tel Aviv logo,Game preview,27,9,27_9,2026-2027
-5-Feb-27,7:45 PM,Valencia Basket logo,FC Barcelona logo,Game preview,27,10,27_10,2026-2027
-10-Feb-27,6:00 PM,Hapoel Tel Aviv logo,Baskonia Vitoria-Gasteiz logo,Game preview,28,1,28_1,2026-2027
-10-Feb-27,7:00 PM,LDLC ASVEL logo,Anadolu Efes Istanbul logo,Game preview,28,2,28_2,2026-2027
-11-Feb-27,5:00 PM,Besiktas Istanbul logo,Dubai Basketball logo,Game preview,28,3,28_3,2026-2027
-11-Feb-27,7:00 PM,Crvena Zvezda Belgrade logo,Partizan Belgrade logo,Game preview,28,4,28_4,2026-2027
-11-Feb-27,7:05 PM,Maccabi Rapyd Tel Aviv logo,FC Barcelona logo,Game preview,28,5,28_5,2026-2027
-11-Feb-27,7:30 PM,Valencia Basket logo,Paris Basketball logo,Game preview,28,6,28_6,2026-2027
-11-Feb-27,7:30 PM,Virtus Bologna logo,FC Bayern Munich logo,Game preview,28,7,28_7,2026-2027
-12-Feb-27,5:45 PM,Fenerbahce Istanbul logo,Armani Olimpia Milan logo,Game preview,28,8,28_8,2026-2027
-12-Feb-27,6:00 PM,Zalgiris Kaunas logo,Real Madrid logo,Game preview,28,9,28_9,2026-2027
-12-Feb-27,7:15 PM,Olympiacos Piraeus logo,Panathinaikos Athens logo,Game preview,28,10,28_10,2026-2027
-4-Mar-27,7:15 PM,Panathinaikos Athens logo,Besiktas Istanbul logo,Game preview,29,1,29_1,2026-2027
-4-Mar-27,7:30 PM,Valencia Basket logo,Zalgiris Kaunas logo,Game preview,29,2,29_2,2026-2027
-4-Mar-27,7:30 PM,Virtus Bologna logo,Hapoel Tel Aviv logo,Game preview,29,3,29_3,2026-2027
-4-Mar-27,7:45 PM,Baskonia Vitoria-Gasteiz logo,Partizan Belgrade logo,Game preview,29,4,29_4,2026-2027
-4-Mar-27,7:45 PM,Paris Basketball logo,Maccabi Rapyd Tel Aviv logo,Game preview,29,5,29_5,2026-2027
-5-Mar-27,4:00 PM,Dubai Basketball logo,Olympiacos Piraeus logo,Game preview,29,6,29_6,2026-2027
-5-Mar-27,7:00 PM,Crvena Zvezda Belgrade logo,Fenerbahce Istanbul logo,Game preview,29,7,29_7,2026-2027
-5-Mar-27,7:30 PM,Armani Olimpia Milan logo,Anadolu Efes Istanbul logo,Game preview,29,8,29_8,2026-2027
-5-Mar-27,7:30 PM,FC Barcelona logo,Real Madrid logo,Game preview,29,9,29_9,2026-2027
-5-Mar-27,7:30 PM,FC Bayern Munich logo,LDLC ASVEL logo,Game preview,29,10,29_10,2026-2027
-9-Mar-27,5:00 PM,Besiktas Istanbul logo,LDLC ASVEL logo,Game preview,30,1,30_1,2026-2027
-9-Mar-27,6:00 PM,Zalgiris Kaunas logo,FC Barcelona logo,Game preview,30,2,30_2,2026-2027
-9-Mar-27,7:05 PM,Maccabi Rapyd Tel Aviv logo,Crvena Zvezda Belgrade logo,Game preview,30,3,30_3,2026-2027
-9-Mar-27,7:30 PM,FC Bayern Munich logo,Anadolu Efes Istanbul logo,Game preview,30,4,30_4,2026-2027
-9-Mar-27,7:30 PM,Baskonia Vitoria-Gasteiz logo,Panathinaikos Athens logo,Game preview,30,5,30_5,2026-2027
-9-Mar-27,7:30 PM,Virtus Bologna logo,Fenerbahce Istanbul logo,Game preview,30,6,30_6,2026-2027
-9-Mar-27,7:45 PM,Partizan Belgrade logo,Paris Basketball logo,Game preview,30,7,30_7,2026-2027
-9-Mar-27,7:45 PM,Real Madrid logo,Hapoel Tel Aviv logo,Game preview,30,8,30_8,2026-2027
-10-Mar-27,4:00 PM,Dubai Basketball logo,Valencia Basket logo,Game preview,30,9,30_9,2026-2027
-10-Mar-27,7:30 PM,Armani Olimpia Milan logo,Olympiacos Piraeus logo,Game preview,30,10,30_10,2026-2027
-11-Mar-27,5:30 PM,Anadolu Efes Istanbul logo,Partizan Belgrade logo,Game preview,31,1,31_1,2026-2027
-11-Mar-27,7:05 PM,Maccabi Rapyd Tel Aviv logo,LDLC ASVEL logo,Game preview,31,2,31_2,2026-2027
-11-Mar-27,7:30 PM,FC Bayern Munich logo,Hapoel Tel Aviv logo,Game preview,31,3,31_3,2026-2027
-11-Mar-27,7:45 PM,Paris Basketball logo,Panathinaikos Athens logo,Game preview,31,4,31_4,2026-2027
-11-Mar-27,7:45 PM,Real Madrid logo,Virtus Bologna logo,Game preview,31,5,31_5,2026-2027
-12-Mar-27,5:45 PM,Fenerbahce Istanbul logo,Valencia Basket logo,Game preview,31,6,31_6,2026-2027
-12-Mar-27,6:00 PM,Zalgiris Kaunas logo,Armani Olimpia Milan logo,Game preview,31,7,31_7,2026-2027
-12-Mar-27,7:00 PM,Crvena Zvezda Belgrade logo,Dubai Basketball logo,Game preview,31,8,31_8,2026-2027
-12-Mar-27,7:15 PM,Olympiacos Piraeus logo,Besiktas Istanbul logo,Game preview,31,9,31_9,2026-2027
-12-Mar-27,7:30 PM,FC Barcelona logo,Baskonia Vitoria-Gasteiz logo,Game preview,31,10,31_10,2026-2027
-18-Mar-27,5:45 PM,Fenerbahce Istanbul logo,Paris Basketball logo,Game preview,32,1,32_1,2026-2027
-18-Mar-27,7:05 PM,Maccabi Rapyd Tel Aviv logo,Valencia Basket logo,Game preview,32,2,32_2,2026-2027
-18-Mar-27,7:15 PM,Panathinaikos Athens logo,Zalgiris Kaunas logo,Game preview,32,3,32_3,2026-2027
-18-Mar-27,7:45 PM,Partizan Belgrade logo,FC Bayern Munich logo,Game preview,32,4,32_4,2026-2027
-18-Mar-27,7:45 PM,Real Madrid logo,Baskonia Vitoria-Gasteiz logo,Game preview,32,5,32_5,2026-2027
-19-Mar-27,4:00 PM,Dubai Basketball logo,Armani Olimpia Milan logo,Game preview,32,6,32_6,2026-2027
-19-Mar-27,5:00 PM,Besiktas Istanbul logo,Anadolu Efes Istanbul logo,Game preview,32,7,32_7,2026-2027
-19-Mar-27,7:00 PM,Crvena Zvezda Belgrade logo,Olympiacos Piraeus logo,Game preview,32,8,32_8,2026-2027
-19-Mar-27,7:00 PM,LDLC ASVEL logo,Virtus Bologna logo,Game preview,32,9,32_9,2026-2027
-19-Mar-27,7:30 PM,FC Barcelona logo,Hapoel Tel Aviv logo,Game preview,32,10,32_10,2026-2027
-23-Mar-27,4:00 PM,Dubai Basketball logo,Baskonia Vitoria-Gasteiz logo,Game preview,33,1,33_1,2026-2027
-23-Mar-27,5:30 PM,Anadolu Efes Istanbul logo,Crvena Zvezda Belgrade logo,Game preview,33,2,33_2,2026-2027
-23-Mar-27,6:00 PM,Hapoel Tel Aviv logo,Fenerbahce Istanbul logo,Game preview,33,3,33_3,2026-2027
-23-Mar-27,7:00 PM,LDLC ASVEL logo,Panathinaikos Athens logo,Game preview,33,4,33_4,2026-2027
-23-Mar-27,7:45 PM,Paris Basketball logo,Armani Olimpia Milan logo,Game preview,33,5,33_5,2026-2027
-23-Mar-27,7:45 PM,Partizan Belgrade logo,Virtus Bologna logo,Game preview,33,6,33_6,2026-2027
-24-Mar-27,6:00 PM,Zalgiris Kaunas logo,Maccabi Rapyd Tel Aviv logo,Game preview,33,7,33_7,2026-2027
-24-Mar-27,7:15 PM,Olympiacos Piraeus logo,FC Barcelona logo,Game preview,33,8,33_8,2026-2027
-24-Mar-27,7:30 PM,FC Bayern Munich logo,Real Madrid logo,Game preview,33,9,33_9,2026-2027
-24-Mar-27,7:30 PM,Valencia Basket logo,Besiktas Istanbul logo,Game preview,33,10,33_10,2026-2027
-25-Mar-27,5:30 PM,Anadolu Efes Istanbul logo,Baskonia Vitoria-Gasteiz logo,Game preview,34,1,34_1,2026-2027
-25-Mar-27,6:00 PM,Hapoel Tel Aviv logo,Dubai Basketball logo,Game preview,34,2,34_2,2026-2027
-25-Mar-27,7:00 PM,LDLC ASVEL logo,Paris Basketball logo,Game preview,34,3,34_3,2026-2027
-25-Mar-27,7:15 PM,Panathinaikos Athens logo,Partizan Belgrade logo,Game preview,34,4,34_4,2026-2027
-26-Mar-27,5:45 PM,Fenerbahce Istanbul logo,FC Barcelona logo,Game preview,34,5,34_5,2026-2027
-26-Mar-27,7:00 PM,Crvena Zvezda Belgrade logo,Valencia Basket logo,Game preview,34,6,34_6,2026-2027
-26-Mar-27,7:15 PM,Olympiacos Piraeus logo,Virtus Bologna logo,Game preview,34,7,34_7,2026-2027
-26-Mar-27,7:30 PM,Armani Olimpia Milan logo,Maccabi Rapyd Tel Aviv logo,Game preview,34,8,34_8,2026-2027
-26-Mar-27,7:30 PM,FC Bayern Munich logo,Zalgiris Kaunas logo,Game preview,34,9,34_9,2026-2027
-26-Mar-27,7:45 PM,Real Madrid logo,Besiktas Istanbul logo,Game preview,34,10,34_10,2026-2027
-31-Mar-27,5:30 PM,Anadolu Efes Istanbul logo,Olympiacos Piraeus logo,Game preview,35,1,35_1,2026-2027
-31-Mar-27,6:00 PM,Zalgiris Kaunas logo,Hapoel Tel Aviv logo,Game preview,35,2,35_2,2026-2027
-31-Mar-27,6:30 PM,Virtus Bologna logo,Crvena Zvezda Belgrade logo,Game preview,35,3,35_3,2026-2027
-1-Apr-27,6:05 PM,Maccabi Rapyd Tel Aviv logo,Fenerbahce Istanbul logo,Game preview,35,4,35_4,2026-2027
-1-Apr-27,6:30 PM,Armani Olimpia Milan logo,Besiktas Istanbul logo,Game preview,35,5,35_5,2026-2027
-1-Apr-27,6:30 PM,Valencia Basket logo,Real Madrid logo,Game preview,35,6,35_6,2026-2027
-1-Apr-27,6:45 PM,Paris Basketball logo,Dubai Basketball logo,Game preview,35,7,35_7,2026-2027
-2-Apr-27,6:30 PM,FC Barcelona logo,Panathinaikos Athens logo,Game preview,35,8,35_8,2026-2027
-2-Apr-27,6:30 PM,Baskonia Vitoria-Gasteiz logo,FC Bayern Munich logo,Game preview,35,9,35_9,2026-2027
-2-Apr-27,6:45 PM,Partizan Belgrade logo,LDLC ASVEL logo,Game preview,35,10,35_10,2026-2027
-6-Apr-27,5:00 PM,Besiktas Istanbul logo,Hapoel Tel Aviv logo,Game preview,36,1,36_1,2026-2027
-6-Apr-27,5:45 PM,Fenerbahce Istanbul logo,Olympiacos Piraeus logo,Game preview,36,2,36_2,2026-2027
-6-Apr-27,6:30 PM,Crvena Zvezda Belgrade logo,Panathinaikos Athens logo,Game preview,36,3,36_3,2026-2027
-6-Apr-27,6:30 PM,Baskonia Vitoria-Gasteiz logo,LDLC ASVEL logo,Game preview,36,4,36_4,2026-2027
-6-Apr-27,6:30 PM,Virtus Bologna logo,Valencia Basket logo,Game preview,36,5,36_5,2026-2027
-6-Apr-27,6:45 PM,FC Barcelona logo,FC Bayern Munich logo,Game preview,36,6,36_6,2026-2027
-6-Apr-27,6:45 PM,Paris Basketball logo,Anadolu Efes Istanbul logo,Game preview,36,7,36_7,2026-2027
-6-Apr-27,6:45 PM,Real Madrid logo,Armani Olimpia Milan logo,Game preview,36,8,36_8,2026-2027
-7-Apr-27,4:00 PM,Dubai Basketball logo,Zalgiris Kaunas logo,Game preview,36,9,36_9,2026-2027
-7-Apr-27,6:05 PM,Maccabi Rapyd Tel Aviv logo,Partizan Belgrade logo,Game preview,36,10,36_10,2026-2027
-8-Apr-27,5:00 PM,Hapoel Tel Aviv logo,Crvena Zvezda Belgrade logo,Game preview,37,1,37_1,2026-2027
-8-Apr-27,6:00 PM,LDLC ASVEL logo,Real Madrid logo,Game preview,37,2,37_2,2026-2027
-8-Apr-27,6:15 PM,Panathinaikos Athens logo,Virtus Bologna logo,Game preview,37,3,37_3,2026-2027
-8-Apr-27,6:30 PM,Armani Olimpia Milan logo,Baskonia Vitoria-Gasteiz logo,Game preview,37,4,37_4,2026-2027
-8-Apr-27,6:30 PM,FC Bayern Munich logo,Fenerbahce Istanbul logo,Game preview,37,5,37_5,2026-2027
-8-Apr-27,6:30 PM,Valencia Basket logo,Anadolu Efes Istanbul logo,Game preview,37,6,37_6,2026-2027
-8-Apr-27,6:45 PM,Paris Basketball logo,FC Barcelona logo,Game preview,37,7,37_7,2026-2027
-9-Apr-27,5:00 PM,Besiktas Istanbul logo,Maccabi Rapyd Tel Aviv logo,Game preview,37,8,37_8,2026-2027
-9-Apr-27,6:15 PM,Olympiacos Piraeus logo,Zalgiris Kaunas logo,Game preview,37,9,37_9,2026-2027
-9-Apr-27,6:45 PM,Partizan Belgrade logo,Dubai Basketball logo,Game preview,37,10,37_10,2026-2027
-15-Apr-27,5:00 PM,Zalgiris Kaunas logo,Fenerbahce Istanbul logo,Game preview,38,1,38_1,2026-2027
-15-Apr-27,5:30 PM,Anadolu Efes Istanbul logo,Hapoel Tel Aviv logo,Game preview,38,2,38_2,2026-2027
-15-Apr-27,6:00 PM,Crvena Zvezda Belgrade logo,Armani Olimpia Milan logo,Game preview,38,3,38_3,2026-2027
-15-Apr-27,6:05 PM,Maccabi Rapyd Tel Aviv logo,Baskonia Vitoria-Gasteiz logo,Game preview,38,4,38_4,2026-2027
-15-Apr-27,6:15 PM,Panathinaikos Athens logo,Real Madrid logo,Game preview,38,5,38_5,2026-2027
-15-Apr-27,6:45 PM,Paris Basketball logo,FC Bayern Munich logo,Game preview,38,6,38_6,2026-2027
-16-Apr-27,4:00 PM,Dubai Basketball logo,LDLC ASVEL logo,Game preview,38,7,38_7,2026-2027
-16-Apr-27,5:00 PM,Besiktas Istanbul logo,Virtus Bologna logo,Game preview,38,8,38_8,2026-2027
-16-Apr-27,6:15 PM,Olympiacos Piraeus logo,Valencia Basket logo,Game preview,38,9,38_9,2026-2027
-16-Apr-27,6:30 PM,FC Barcelona logo,Partizan Belgrade logo,Game preview,38,10,38_10,2026-2027
+﻿Date,Time (CET),Home,Away,Result,Fixture,Game,IDGAME,Season,Home_Team,Away_Team,,,,
+24-Sep-26,4:00 PM,Dubai Basketball,Real Madrid,78-77,1,1,1_1,2026-2027,DUB,RMB,1,"boxscore(2026,1,1,1,'Regular Season')[0],","boxscore(2026,1,1,1,'Regular Season')[1],","boxscore(2026,1,1,1,'Regular Season')[2],"
+24-Sep-26,4:00 PM,Hapoel Tel Aviv,FC Bayern Munich,84-86,1,2,1_2,2026-2027,HTA,BAY,2,"boxscore(2026,2,1,2,'Regular Season')[0],","boxscore(2026,2,1,2,'Regular Season')[1],","boxscore(2026,2,1,2,'Regular Season')[2],"
+24-Sep-26,6:00 PM,Crvena Zvezda Belgrade,Zalgiris Kaunas,77-83,1,3,1_3,2026-2027,CRV,ZAL,3,"boxscore(2026,3,1,3,'Regular Season')[0],","boxscore(2026,3,1,3,'Regular Season')[1],","boxscore(2026,3,1,3,'Regular Season')[2],"
+24-Sep-26,6:15 PM,Panathinaikos Athens,Paris Basketball,91-72,1,4,1_4,2026-2027,PAN,PRB,4,"boxscore(2026,4,1,4,'Regular Season')[0],","boxscore(2026,4,1,4,'Regular Season')[1],","boxscore(2026,4,1,4,'Regular Season')[2],"
+24-Sep-26,6:30 PM,FC Barcelona,Anadolu Efes Istanbul,89-82,1,5,1_5,2026-2027,BAR,EFE,5,"boxscore(2026,5,1,5,'Regular Season')[0],","boxscore(2026,5,1,5,'Regular Season')[1],","boxscore(2026,5,1,5,'Regular Season')[2],"
+24-Sep-26,6:30 PM,Baskonia Vitoria-Gasteiz,Olympiacos Piraeus,89-106,1,6,1_6,2026-2027,BAS,OLY,6,"boxscore(2026,6,1,6,'Regular Season')[0],","boxscore(2026,6,1,6,'Regular Season')[1],","boxscore(2026,6,1,6,'Regular Season')[2],"
+24-Sep-26,6:45 PM,LDLC ASVEL,Maccabi Rapyd Tel Aviv,84-74,1,7,1_7,2026-2027,VIL,MAC,7,"boxscore(2026,7,1,7,'Regular Season')[0],","boxscore(2026,7,1,7,'Regular Season')[1],","boxscore(2026,7,1,7,'Regular Season')[2],"
+25-Sep-26,5:00 PM,Besiktas Istanbul,Valencia Basket,94-96,1,8,1_8,2026-2027,BES,VAL,8,"boxscore(2026,8,1,8,'Regular Season')[0],","boxscore(2026,8,1,8,'Regular Season')[1],","boxscore(2026,8,1,8,'Regular Season')[2],"
+25-Sep-26,5:45 PM,Fenerbahce Istanbul,Virtus Bologna,78-68,1,9,1_9,2026-2027,FEN,BOL,9,"boxscore(2026,9,1,9,'Regular Season')[0],","boxscore(2026,9,1,9,'Regular Season')[1],","boxscore(2026,9,1,9,'Regular Season')[2],"
+25-Sep-26,6:45 PM,Partizan Belgrade,Armani Olimpia Milan,92-76,1,10,1_10,2026-2027,PAR,MIL,10,"boxscore(2026,10,1,10,'Regular Season')[0],","boxscore(2026,10,1,10,'Regular Season')[1],","boxscore(2026,10,1,10,'Regular Season')[2],"
+29-Sep-26,4:00 PM,Dubai Basketball,FC Barcelona,Game preview,2,1,2_1,2026-2027,DUB,BAR,11,"boxscore(2026,11,2,1,'Regular Season')[0],","boxscore(2026,11,2,1,'Regular Season')[1],","boxscore(2026,11,2,1,'Regular Season')[2],"
+29-Sep-26,5:00 PM,Anadolu Efes Istanbul,Real Madrid,Game preview,2,2,2_2,2026-2027,EFE,RMB,12,"boxscore(2026,12,2,2,'Regular Season')[0],","boxscore(2026,12,2,2,'Regular Season')[1],","boxscore(2026,12,2,2,'Regular Season')[2],"
+29-Sep-26,5:00 PM,Zalgiris Kaunas,Olympiacos Piraeus,Game preview,2,3,2_3,2026-2027,ZAL,OLY,13,"boxscore(2026,13,2,3,'Regular Season')[0],","boxscore(2026,13,2,3,'Regular Season')[1],","boxscore(2026,13,2,3,'Regular Season')[2],"
+29-Sep-26,5:45 PM,Fenerbahce Istanbul,FC Bayern Munich,Game preview,2,4,2_4,2026-2027,FEN,BAY,14,"boxscore(2026,14,2,4,'Regular Season')[0],","boxscore(2026,14,2,4,'Regular Season')[1],","boxscore(2026,14,2,4,'Regular Season')[2],"
+29-Sep-26,6:00 PM,Crvena Zvezda Belgrade,Hapoel Tel Aviv,Game preview,2,5,2_5,2026-2027,CRV,HTA,15,"boxscore(2026,15,2,5,'Regular Season')[0],","boxscore(2026,15,2,5,'Regular Season')[1],","boxscore(2026,15,2,5,'Regular Season')[2],"
+29-Sep-26,6:30 PM,Armani Olimpia Milan,Virtus Bologna,Game preview,2,6,2_6,2026-2027,MIL,BOL,16,"boxscore(2026,16,2,6,'Regular Season')[0],","boxscore(2026,16,2,6,'Regular Season')[1],","boxscore(2026,16,2,6,'Regular Season')[2],"
+29-Sep-26,6:30 PM,Valencia Basket,Baskonia Vitoria-Gasteiz,Game preview,2,7,2_7,2026-2027,VAL,BAS,17,"boxscore(2026,17,2,7,'Regular Season')[0],","boxscore(2026,17,2,7,'Regular Season')[1],","boxscore(2026,17,2,7,'Regular Season')[2],"
+29-Sep-26,6:45 PM,Paris Basketball,Partizan Belgrade,Game preview,2,8,2_8,2026-2027,PRB,PAR,18,"boxscore(2026,18,2,8,'Regular Season')[0],","boxscore(2026,18,2,8,'Regular Season')[1],","boxscore(2026,18,2,8,'Regular Season')[2],"
+30-Sep-26,6:05 PM,Maccabi Rapyd Tel Aviv,Besiktas Istanbul,Game preview,2,9,2_9,2026-2027,MAC,BES,19,"boxscore(2026,19,2,9,'Regular Season')[0],","boxscore(2026,19,2,9,'Regular Season')[1],","boxscore(2026,19,2,9,'Regular Season')[2],"
+30-Sep-26,6:15 PM,Panathinaikos Athens,LDLC ASVEL,Game preview,2,10,2_10,2026-2027,PAN,VIL,20,"boxscore(2026,20,2,10,'Regular Season')[0],","boxscore(2026,20,2,10,'Regular Season')[1],","boxscore(2026,20,2,10,'Regular Season')[2],"
+1-Oct-26,5:00 PM,Besiktas Istanbul,FC Barcelona,Game preview,3,1,3_1,2026-2027,BES,BAR,21,"boxscore(2026,21,3,1,'Regular Season')[0],","boxscore(2026,21,3,1,'Regular Season')[1],","boxscore(2026,21,3,1,'Regular Season')[2],"
+1-Oct-26,5:00 PM,Hapoel Tel Aviv,Real Madrid,Game preview,3,2,3_2,2026-2027,HTA,RMB,22,"boxscore(2026,22,3,2,'Regular Season')[0],","boxscore(2026,22,3,2,'Regular Season')[1],","boxscore(2026,22,3,2,'Regular Season')[2],"
+1-Oct-26,6:00 PM,Crvena Zvezda Belgrade,Anadolu Efes Istanbul,Game preview,3,3,3_3,2026-2027,CRV,EFE,23,"boxscore(2026,23,3,3,'Regular Season')[0],","boxscore(2026,23,3,3,'Regular Season')[1],","boxscore(2026,23,3,3,'Regular Season')[2],"
+1-Oct-26,6:30 PM,Virtus Bologna,Olympiacos Piraeus,Game preview,3,4,3_4,2026-2027,BOL,OLY,24,"boxscore(2026,24,3,4,'Regular Season')[0],","boxscore(2026,24,3,4,'Regular Season')[1],","boxscore(2026,24,3,4,'Regular Season')[2],"
+1-Oct-26,6:45 PM,Paris Basketball,Zalgiris Kaunas,Game preview,3,5,3_5,2026-2027,PRB,ZAL,25,"boxscore(2026,25,3,5,'Regular Season')[0],","boxscore(2026,25,3,5,'Regular Season')[1],","boxscore(2026,25,3,5,'Regular Season')[2],"
+2-Oct-26,5:45 PM,Fenerbahce Istanbul,Dubai Basketball,Game preview,3,6,3_6,2026-2027,FEN,DUB,26,"boxscore(2026,26,3,6,'Regular Season')[0],","boxscore(2026,26,3,6,'Regular Season')[1],","boxscore(2026,26,3,6,'Regular Season')[2],"
+2-Oct-26,6:00 PM,LDLC ASVEL,Valencia Basket,Game preview,3,7,3_7,2026-2027,VIL,VAL,27,"boxscore(2026,27,3,7,'Regular Season')[0],","boxscore(2026,27,3,7,'Regular Season')[1],","boxscore(2026,27,3,7,'Regular Season')[2],"
+2-Oct-26,6:15 PM,Panathinaikos Athens,Maccabi Rapyd Tel Aviv,Game preview,3,8,3_8,2026-2027,PAN,MAC,28,"boxscore(2026,28,3,8,'Regular Season')[0],","boxscore(2026,28,3,8,'Regular Season')[1],","boxscore(2026,28,3,8,'Regular Season')[2],"
+2-Oct-26,6:30 PM,FC Bayern Munich,Partizan Belgrade,Game preview,3,9,3_9,2026-2027,BAY,PAR,29,"boxscore(2026,29,3,9,'Regular Season')[0],","boxscore(2026,29,3,9,'Regular Season')[1],","boxscore(2026,29,3,9,'Regular Season')[2],"
+2-Oct-26,6:30 PM,Baskonia Vitoria-Gasteiz,Armani Olimpia Milan,Game preview,3,10,3_10,2026-2027,BAS,MIL,30,"boxscore(2026,30,3,10,'Regular Season')[0],","boxscore(2026,30,3,10,'Regular Season')[1],","boxscore(2026,30,3,10,'Regular Season')[2],"
+7-Oct-26,6:45 PM,Paris Basketball,LDLC ASVEL,Game preview,4,1,4_1,2026-2027,PRB,VIL,31,"boxscore(2026,31,4,1,'Regular Season')[0],","boxscore(2026,31,4,1,'Regular Season')[1],","boxscore(2026,31,4,1,'Regular Season')[2],"
+8-Oct-26,6:05 PM,Maccabi Rapyd Tel Aviv,Armani Olimpia Milan,Game preview,4,2,4_2,2026-2027,MAC,MIL,32,"boxscore(2026,32,4,2,'Regular Season')[0],","boxscore(2026,32,4,2,'Regular Season')[1],","boxscore(2026,32,4,2,'Regular Season')[2],"
+8-Oct-26,6:15 PM,Panathinaikos Athens,Fenerbahce Istanbul,Game preview,4,3,4_3,2026-2027,PAN,FEN,33,"boxscore(2026,33,4,3,'Regular Season')[0],","boxscore(2026,33,4,3,'Regular Season')[1],","boxscore(2026,33,4,3,'Regular Season')[2],"
+8-Oct-26,6:30 PM,FC Bayern Munich,Virtus Bologna,Game preview,4,4,4_4,2026-2027,BAY,BOL,34,"boxscore(2026,34,4,4,'Regular Season')[0],","boxscore(2026,34,4,4,'Regular Season')[1],","boxscore(2026,34,4,4,'Regular Season')[2],"
+8-Oct-26,6:30 PM,Valencia Basket,Hapoel Tel Aviv,Game preview,4,5,4_5,2026-2027,VAL,HTA,35,"boxscore(2026,35,4,5,'Regular Season')[0],","boxscore(2026,35,4,5,'Regular Season')[1],","boxscore(2026,35,4,5,'Regular Season')[2],"
+8-Oct-26,6:45 PM,Real Madrid,Partizan Belgrade,Game preview,4,6,4_6,2026-2027,RMB,PAR,36,"boxscore(2026,36,4,6,'Regular Season')[0],","boxscore(2026,36,4,6,'Regular Season')[1],","boxscore(2026,36,4,6,'Regular Season')[2],"
+9-Oct-26,4:00 PM,Dubai Basketball,Crvena Zvezda Belgrade,Game preview,4,7,4_7,2026-2027,DUB,CRV,37,"boxscore(2026,37,4,7,'Regular Season')[0],","boxscore(2026,37,4,7,'Regular Season')[1],","boxscore(2026,37,4,7,'Regular Season')[2],"
+9-Oct-26,6:15 PM,Olympiacos Piraeus,Anadolu Efes Istanbul,Game preview,4,8,4_8,2026-2027,OLY,EFE,38,"boxscore(2026,38,4,8,'Regular Season')[0],","boxscore(2026,38,4,8,'Regular Season')[1],","boxscore(2026,38,4,8,'Regular Season')[2],"
+9-Oct-26,6:30 PM,FC Barcelona,Zalgiris Kaunas,Game preview,4,9,4_9,2026-2027,BAR,ZAL,39,"boxscore(2026,39,4,9,'Regular Season')[0],","boxscore(2026,39,4,9,'Regular Season')[1],","boxscore(2026,39,4,9,'Regular Season')[2],"
+9-Oct-26,6:30 PM,Baskonia Vitoria-Gasteiz,Besiktas Istanbul,Game preview,4,10,4_10,2026-2027,BAS,BES,40,"boxscore(2026,40,4,10,'Regular Season')[0],","boxscore(2026,40,4,10,'Regular Season')[1],","boxscore(2026,40,4,10,'Regular Season')[2],"
+13-Oct-26,5:45 PM,Fenerbahce Istanbul,Zalgiris Kaunas,Game preview,5,1,5_1,2026-2027,FEN,ZAL,41,"boxscore(2026,41,5,1,'Regular Season')[0],","boxscore(2026,41,5,1,'Regular Season')[1],","boxscore(2026,41,5,1,'Regular Season')[2],"
+13-Oct-26,6:00 PM,LDLC ASVEL,Crvena Zvezda Belgrade,Game preview,5,2,5_2,2026-2027,VIL,CRV,42,"boxscore(2026,42,5,2,'Regular Season')[0],","boxscore(2026,42,5,2,'Regular Season')[1],","boxscore(2026,42,5,2,'Regular Season')[2],"
+13-Oct-26,6:30 PM,Armani Olimpia Milan,Real Madrid,Game preview,5,3,5_3,2026-2027,MIL,RMB,43,"boxscore(2026,43,5,3,'Regular Season')[0],","boxscore(2026,43,5,3,'Regular Season')[1],","boxscore(2026,43,5,3,'Regular Season')[2],"
+13-Oct-26,6:30 PM,FC Barcelona,Maccabi Rapyd Tel Aviv,Game preview,5,4,5_4,2026-2027,BAR,MAC,44,"boxscore(2026,44,5,4,'Regular Season')[0],","boxscore(2026,44,5,4,'Regular Season')[1],","boxscore(2026,44,5,4,'Regular Season')[2],"
+13-Oct-26,6:30 PM,Baskonia Vitoria-Gasteiz,Dubai Basketball,Game preview,5,5,5_5,2026-2027,BAS,DUB,45,"boxscore(2026,45,5,5,'Regular Season')[0],","boxscore(2026,45,5,5,'Regular Season')[1],","boxscore(2026,45,5,5,'Regular Season')[2],"
+13-Oct-26,6:30 PM,Partizan Belgrade,Panathinaikos Athens,Game preview,5,6,5_6,2026-2027,PAR,PAN,46,"boxscore(2026,46,5,6,'Regular Season')[0],","boxscore(2026,46,5,6,'Regular Season')[1],","boxscore(2026,46,5,6,'Regular Season')[2],"
+13-Oct-26,7:00 PM,Valencia Basket,Olympiacos Piraeus,Game preview,5,7,5_7,2026-2027,VAL,OLY,47,"boxscore(2026,47,5,7,'Regular Season')[0],","boxscore(2026,47,5,7,'Regular Season')[1],","boxscore(2026,47,5,7,'Regular Season')[2],"
+14-Oct-26,5:00 PM,Hapoel Tel Aviv,Besiktas Istanbul,Game preview,5,8,5_8,2026-2027,HTA,BES,48,"boxscore(2026,48,5,8,'Regular Season')[0],","boxscore(2026,48,5,8,'Regular Season')[1],","boxscore(2026,48,5,8,'Regular Season')[2],"
+14-Oct-26,5:30 PM,Anadolu Efes Istanbul,FC Bayern Munich,Game preview,5,9,5_9,2026-2027,EFE,BAY,49,"boxscore(2026,49,5,9,'Regular Season')[0],","boxscore(2026,49,5,9,'Regular Season')[1],","boxscore(2026,49,5,9,'Regular Season')[2],"
+14-Oct-26,6:45 PM,Paris Basketball,Virtus Bologna,Game preview,5,10,5_10,2026-2027,PRB,BOL,50,"boxscore(2026,50,5,10,'Regular Season')[0],","boxscore(2026,50,5,10,'Regular Season')[1],","boxscore(2026,50,5,10,'Regular Season')[2],"
+15-Oct-26,5:45 PM,Fenerbahce Istanbul,Partizan Belgrade,Game preview,6,1,6_1,2026-2027,FEN,PAR,51,"boxscore(2026,51,6,1,'Regular Season')[0],","boxscore(2026,51,6,1,'Regular Season')[1],","boxscore(2026,51,6,1,'Regular Season')[2],"
+15-Oct-26,6:30 PM,Armani Olimpia Milan,Dubai Basketball,Game preview,6,2,6_2,2026-2027,MIL,DUB,52,"boxscore(2026,52,6,2,'Regular Season')[0],","boxscore(2026,52,6,2,'Regular Season')[1],","boxscore(2026,52,6,2,'Regular Season')[2],"
+15-Oct-26,6:30 PM,Valencia Basket,Maccabi Rapyd Tel Aviv,Game preview,6,3,6_3,2026-2027,VAL,MAC,53,"boxscore(2026,53,6,3,'Regular Season')[0],","boxscore(2026,53,6,3,'Regular Season')[1],","boxscore(2026,53,6,3,'Regular Season')[2],"
+15-Oct-26,7:00 PM,Real Madrid,LDLC ASVEL,Game preview,6,4,6_4,2026-2027,RMB,VIL,54,"boxscore(2026,54,6,4,'Regular Season')[0],","boxscore(2026,54,6,4,'Regular Season')[1],","boxscore(2026,54,6,4,'Regular Season')[2],"
+16-Oct-26,5:00 PM,Besiktas Istanbul,FC Bayern Munich,Game preview,6,5,6_5,2026-2027,BES,BAY,55,"boxscore(2026,55,6,5,'Regular Season')[0],","boxscore(2026,55,6,5,'Regular Season')[1],","boxscore(2026,55,6,5,'Regular Season')[2],"
+16-Oct-26,5:00 PM,Zalgiris Kaunas,Anadolu Efes Istanbul,Game preview,6,6,6_6,2026-2027,ZAL,EFE,56,"boxscore(2026,56,6,6,'Regular Season')[0],","boxscore(2026,56,6,6,'Regular Season')[1],","boxscore(2026,56,6,6,'Regular Season')[2],"
+16-Oct-26,6:00 PM,Crvena Zvezda Belgrade,Paris Basketball,Game preview,6,7,6_7,2026-2027,CRV,PRB,57,"boxscore(2026,57,6,7,'Regular Season')[0],","boxscore(2026,57,6,7,'Regular Season')[1],","boxscore(2026,57,6,7,'Regular Season')[2],"
+16-Oct-26,6:15 PM,Panathinaikos Athens,Hapoel Tel Aviv,Game preview,6,8,6_8,2026-2027,PAN,HTA,58,"boxscore(2026,58,6,8,'Regular Season')[0],","boxscore(2026,58,6,8,'Regular Season')[1],","boxscore(2026,58,6,8,'Regular Season')[2],"
+16-Oct-26,6:30 PM,FC Barcelona,Olympiacos Piraeus,Game preview,6,9,6_9,2026-2027,BAR,OLY,59,"boxscore(2026,59,6,9,'Regular Season')[0],","boxscore(2026,59,6,9,'Regular Season')[1],","boxscore(2026,59,6,9,'Regular Season')[2],"
+16-Oct-26,6:30 PM,Virtus Bologna,Baskonia Vitoria-Gasteiz,Game preview,6,10,6_10,2026-2027,BOL,BAS,60,"boxscore(2026,60,6,10,'Regular Season')[0],","boxscore(2026,60,6,10,'Regular Season')[1],","boxscore(2026,60,6,10,'Regular Season')[2],"
+21-Oct-26,5:00 PM,Hapoel Tel Aviv,Virtus Bologna,Game preview,7,1,7_1,2026-2027,HTA,BOL,61,"boxscore(2026,61,7,1,'Regular Season')[0],","boxscore(2026,61,7,1,'Regular Season')[1],","boxscore(2026,61,7,1,'Regular Season')[2],"
+22-Oct-26,5:30 PM,Anadolu Efes Istanbul,Besiktas Istanbul,Game preview,7,2,7_2,2026-2027,EFE,BES,62,"boxscore(2026,62,7,2,'Regular Season')[0],","boxscore(2026,62,7,2,'Regular Season')[1],","boxscore(2026,62,7,2,'Regular Season')[2],"
+22-Oct-26,6:05 PM,Maccabi Rapyd Tel Aviv,Real Madrid,Game preview,7,3,7_3,2026-2027,MAC,RMB,63,"boxscore(2026,63,7,3,'Regular Season')[0],","boxscore(2026,63,7,3,'Regular Season')[1],","boxscore(2026,63,7,3,'Regular Season')[2],"
+22-Oct-26,6:15 PM,Panathinaikos Athens,Baskonia Vitoria-Gasteiz,Game preview,7,4,7_4,2026-2027,PAN,BAS,64,"boxscore(2026,64,7,4,'Regular Season')[0],","boxscore(2026,64,7,4,'Regular Season')[1],","boxscore(2026,64,7,4,'Regular Season')[2],"
+22-Oct-26,6:30 PM,Armani Olimpia Milan,FC Barcelona,Game preview,7,5,7_5,2026-2027,MIL,BAR,65,"boxscore(2026,65,7,5,'Regular Season')[0],","boxscore(2026,65,7,5,'Regular Season')[1],","boxscore(2026,65,7,5,'Regular Season')[2],"
+22-Oct-26,6:30 PM,FC Bayern Munich,Dubai Basketball,Game preview,7,6,7_6,2026-2027,BAY,DUB,66,"boxscore(2026,66,7,6,'Regular Season')[0],","boxscore(2026,66,7,6,'Regular Season')[1],","boxscore(2026,66,7,6,'Regular Season')[2],"
+22-Oct-26,6:45 PM,Partizan Belgrade,Crvena Zvezda Belgrade,Game preview,7,7,7_7,2026-2027,PAR,CRV,67,"boxscore(2026,67,7,7,'Regular Season')[0],","boxscore(2026,67,7,7,'Regular Season')[1],","boxscore(2026,67,7,7,'Regular Season')[2],"
+23-Oct-26,5:00 PM,Zalgiris Kaunas,LDLC ASVEL,Game preview,7,8,7_8,2026-2027,ZAL,VIL,68,"boxscore(2026,68,7,8,'Regular Season')[0],","boxscore(2026,68,7,8,'Regular Season')[1],","boxscore(2026,68,7,8,'Regular Season')[2],"
+23-Oct-26,6:15 PM,Olympiacos Piraeus,Fenerbahce Istanbul,Game preview,7,9,7_9,2026-2027,OLY,FEN,69,"boxscore(2026,69,7,9,'Regular Season')[0],","boxscore(2026,69,7,9,'Regular Season')[1],","boxscore(2026,69,7,9,'Regular Season')[2],"
+23-Oct-26,6:45 PM,Paris Basketball,Valencia Basket,Game preview,7,10,7_10,2026-2027,PRB,VAL,70,"boxscore(2026,70,7,10,'Regular Season')[0],","boxscore(2026,70,7,10,'Regular Season')[1],","boxscore(2026,70,7,10,'Regular Season')[2],"
+27-Oct-26,4:00 PM,Dubai Basketball,Paris Basketball,Game preview,8,1,8_1,2026-2027,DUB,PRB,71,"boxscore(2026,71,8,1,'Regular Season')[0],","boxscore(2026,71,8,1,'Regular Season')[1],","boxscore(2026,71,8,1,'Regular Season')[2],"
+27-Oct-26,7:00 PM,Crvena Zvezda Belgrade,Maccabi Rapyd Tel Aviv,Game preview,8,2,8_2,2026-2027,CRV,MAC,72,"boxscore(2026,72,8,2,'Regular Season')[0],","boxscore(2026,72,8,2,'Regular Season')[1],","boxscore(2026,72,8,2,'Regular Season')[2],"
+27-Oct-26,7:15 PM,Panathinaikos Athens,Armani Olimpia Milan,Game preview,8,3,8_3,2026-2027,PAN,MIL,73,"boxscore(2026,73,8,3,'Regular Season')[0],","boxscore(2026,73,8,3,'Regular Season')[1],","boxscore(2026,73,8,3,'Regular Season')[2],"
+27-Oct-26,7:30 PM,FC Bayern Munich,FC Barcelona,Game preview,8,4,8_4,2026-2027,BAY,BAR,74,"boxscore(2026,74,8,4,'Regular Season')[0],","boxscore(2026,74,8,4,'Regular Season')[1],","boxscore(2026,74,8,4,'Regular Season')[2],"
+27-Oct-26,7:30 PM,Valencia Basket,Fenerbahce Istanbul,Game preview,8,5,8_5,2026-2027,VAL,FEN,75,"boxscore(2026,75,8,5,'Regular Season')[0],","boxscore(2026,75,8,5,'Regular Season')[1],","boxscore(2026,75,8,5,'Regular Season')[2],"
+27-Oct-26,8:00 PM,Baskonia Vitoria-Gasteiz,Real Madrid,Game preview,8,6,8_6,2026-2027,BAS,RMB,76,"boxscore(2026,76,8,6,'Regular Season')[0],","boxscore(2026,76,8,6,'Regular Season')[1],","boxscore(2026,76,8,6,'Regular Season')[2],"
+28-Oct-26,6:00 PM,Hapoel Tel Aviv,Anadolu Efes Istanbul,Game preview,8,7,8_7,2026-2027,HTA,EFE,77,"boxscore(2026,77,8,7,'Regular Season')[0],","boxscore(2026,77,8,7,'Regular Season')[1],","boxscore(2026,77,8,7,'Regular Season')[2],"
+28-Oct-26,6:30 PM,Besiktas Istanbul,Olympiacos Piraeus,Game preview,8,8,8_8,2026-2027,BES,OLY,78,"boxscore(2026,78,8,8,'Regular Season')[0],","boxscore(2026,78,8,8,'Regular Season')[1],","boxscore(2026,78,8,8,'Regular Season')[2],"
+28-Oct-26,7:00 PM,LDLC ASVEL,Partizan Belgrade,Game preview,8,9,8_9,2026-2027,VIL,PAR,79,"boxscore(2026,79,8,9,'Regular Season')[0],","boxscore(2026,79,8,9,'Regular Season')[1],","boxscore(2026,79,8,9,'Regular Season')[2],"
+28-Oct-26,7:30 PM,Virtus Bologna,Zalgiris Kaunas,Game preview,8,10,8_10,2026-2027,BOL,ZAL,80,"boxscore(2026,80,8,10,'Regular Season')[0],","boxscore(2026,80,8,10,'Regular Season')[1],","boxscore(2026,80,8,10,'Regular Season')[2],"
+29-Oct-26,7:00 PM,Crvena Zvezda Belgrade,FC Bayern Munich,Game preview,9,1,9_1,2026-2027,CRV,BAY,81,"boxscore(2026,81,9,1,'Regular Season')[0],","boxscore(2026,81,9,1,'Regular Season')[1],","boxscore(2026,81,9,1,'Regular Season')[2],"
+29-Oct-26,7:05 PM,Maccabi Rapyd Tel Aviv,Paris Basketball,Game preview,9,2,9_2,2026-2027,MAC,PRB,82,"boxscore(2026,82,9,2,'Regular Season')[0],","boxscore(2026,82,9,2,'Regular Season')[1],","boxscore(2026,82,9,2,'Regular Season')[2],"
+29-Oct-26,7:45 PM,Real Madrid,Fenerbahce Istanbul,Game preview,9,3,9_3,2026-2027,RMB,FEN,83,"boxscore(2026,83,9,3,'Regular Season')[0],","boxscore(2026,83,9,3,'Regular Season')[1],","boxscore(2026,83,9,3,'Regular Season')[2],"
+30-Oct-26,4:00 PM,Dubai Basketball,Hapoel Tel Aviv,Game preview,9,4,9_4,2026-2027,DUB,HTA,84,"boxscore(2026,84,9,4,'Regular Season')[0],","boxscore(2026,84,9,4,'Regular Season')[1],","boxscore(2026,84,9,4,'Regular Season')[2],"
+30-Oct-26,5:30 PM,Anadolu Efes Istanbul,Panathinaikos Athens,Game preview,9,5,9_5,2026-2027,EFE,PAN,85,"boxscore(2026,85,9,5,'Regular Season')[0],","boxscore(2026,85,9,5,'Regular Season')[1],","boxscore(2026,85,9,5,'Regular Season')[2],"
+30-Oct-26,6:00 PM,Zalgiris Kaunas,Partizan Belgrade,Game preview,9,6,9_6,2026-2027,ZAL,PAR,86,"boxscore(2026,86,9,6,'Regular Season')[0],","boxscore(2026,86,9,6,'Regular Season')[1],","boxscore(2026,86,9,6,'Regular Season')[2],"
+30-Oct-26,7:00 PM,LDLC ASVEL,Baskonia Vitoria-Gasteiz,Game preview,9,7,9_7,2026-2027,VIL,BAS,87,"boxscore(2026,87,9,7,'Regular Season')[0],","boxscore(2026,87,9,7,'Regular Season')[1],","boxscore(2026,87,9,7,'Regular Season')[2],"
+30-Oct-26,7:15 PM,Olympiacos Piraeus,Armani Olimpia Milan,Game preview,9,8,9_8,2026-2027,OLY,MIL,88,"boxscore(2026,88,9,8,'Regular Season')[0],","boxscore(2026,88,9,8,'Regular Season')[1],","boxscore(2026,88,9,8,'Regular Season')[2],"
+30-Oct-26,7:30 PM,FC Barcelona,Valencia Basket,Game preview,9,9,9_9,2026-2027,BAR,VAL,89,"boxscore(2026,89,9,9,'Regular Season')[0],","boxscore(2026,89,9,9,'Regular Season')[1],","boxscore(2026,89,9,9,'Regular Season')[2],"
+30-Oct-26,7:30 PM,Virtus Bologna,Besiktas Istanbul,Game preview,9,10,9_10,2026-2027,BOL,BES,90,"boxscore(2026,90,9,10,'Regular Season')[0],","boxscore(2026,90,9,10,'Regular Season')[1],","boxscore(2026,90,9,10,'Regular Season')[2],"
+4-Nov-26,5:45 PM,Fenerbahce Istanbul,Baskonia Vitoria-Gasteiz,Game preview,10,1,10_1,2026-2027,FEN,BAS,91,"boxscore(2026,91,10,1,'Regular Season')[0],","boxscore(2026,91,10,1,'Regular Season')[1],","boxscore(2026,91,10,1,'Regular Season')[2],"
+4-Nov-26,7:45 PM,Real Madrid,Panathinaikos Athens,Game preview,10,2,10_2,2026-2027,RMB,PAN,92,"boxscore(2026,92,10,2,'Regular Season')[0],","boxscore(2026,92,10,2,'Regular Season')[1],","boxscore(2026,92,10,2,'Regular Season')[2],"
+5-Nov-26,5:30 PM,Anadolu Efes Istanbul,Paris Basketball,Game preview,10,3,10_3,2026-2027,EFE,PRB,93,"boxscore(2026,93,10,3,'Regular Season')[0],","boxscore(2026,93,10,3,'Regular Season')[1],","boxscore(2026,93,10,3,'Regular Season')[2],"
+5-Nov-26,6:00 PM,Hapoel Tel Aviv,FC Barcelona,Game preview,10,4,10_4,2026-2027,HTA,BAR,94,"boxscore(2026,94,10,4,'Regular Season')[0],","boxscore(2026,94,10,4,'Regular Season')[1],","boxscore(2026,94,10,4,'Regular Season')[2],"
+5-Nov-26,7:00 PM,LDLC ASVEL,FC Bayern Munich,Game preview,10,5,10_5,2026-2027,VIL,BAY,95,"boxscore(2026,95,10,5,'Regular Season')[0],","boxscore(2026,95,10,5,'Regular Season')[1],","boxscore(2026,95,10,5,'Regular Season')[2],"
+5-Nov-26,7:30 PM,Armani Olimpia Milan,Valencia Basket,Game preview,10,6,10_6,2026-2027,MIL,VAL,96,"boxscore(2026,96,10,6,'Regular Season')[0],","boxscore(2026,96,10,6,'Regular Season')[1],","boxscore(2026,96,10,6,'Regular Season')[2],"
+6-Nov-26,5:00 PM,Besiktas Istanbul,Zalgiris Kaunas,Game preview,10,7,10_7,2026-2027,BES,ZAL,97,"boxscore(2026,97,10,7,'Regular Season')[0],","boxscore(2026,97,10,7,'Regular Season')[1],","boxscore(2026,97,10,7,'Regular Season')[2],"
+6-Nov-26,7:15 PM,Olympiacos Piraeus,Crvena Zvezda Belgrade,Game preview,10,8,10_8,2026-2027,OLY,CRV,98,"boxscore(2026,98,10,8,'Regular Season')[0],","boxscore(2026,98,10,8,'Regular Season')[1],","boxscore(2026,98,10,8,'Regular Season')[2],"
+6-Nov-26,7:30 PM,Virtus Bologna,Dubai Basketball,Game preview,10,9,10_9,2026-2027,BOL,DUB,99,"boxscore(2026,99,10,9,'Regular Season')[0],","boxscore(2026,99,10,9,'Regular Season')[1],","boxscore(2026,99,10,9,'Regular Season')[2],"
+6-Nov-26,7:45 PM,Partizan Belgrade,Maccabi Rapyd Tel Aviv,Game preview,10,10,10_10,2026-2027,PAR,MAC,100,"boxscore(2026,100,10,10,'Regular Season')[0],","boxscore(2026,100,10,10,'Regular Season')[1],","boxscore(2026,100,10,10,'Regular Season')[2],"
+11-Nov-26,7:45 PM,Paris Basketball,Fenerbahce Istanbul,Game preview,11,1,11_1,2026-2027,PRB,FEN,101,"boxscore(2026,101,11,1,'Regular Season')[0],","boxscore(2026,101,11,1,'Regular Season')[1],","boxscore(2026,101,11,1,'Regular Season')[2],"
+11-Nov-26,7:45 PM,Partizan Belgrade,Baskonia Vitoria-Gasteiz,Game preview,11,2,11_2,2026-2027,PAR,BAS,102,"boxscore(2026,102,11,2,'Regular Season')[0],","boxscore(2026,102,11,2,'Regular Season')[1],","boxscore(2026,102,11,2,'Regular Season')[2],"
+12-Nov-26,7:05 PM,Maccabi Rapyd Tel Aviv,Hapoel Tel Aviv,Game preview,11,3,11_3,2026-2027,MAC,HTA,103,"boxscore(2026,103,11,3,'Regular Season')[0],","boxscore(2026,103,11,3,'Regular Season')[1],","boxscore(2026,103,11,3,'Regular Season')[2],"
+12-Nov-26,7:15 PM,Olympiacos Piraeus,Dubai Basketball,Game preview,11,4,11_4,2026-2027,OLY,DUB,104,"boxscore(2026,104,11,4,'Regular Season')[0],","boxscore(2026,104,11,4,'Regular Season')[1],","boxscore(2026,104,11,4,'Regular Season')[2],"
+12-Nov-26,7:30 PM,Armani Olimpia Milan,Zalgiris Kaunas,Game preview,11,5,11_5,2026-2027,MIL,ZAL,105,"boxscore(2026,105,11,5,'Regular Season')[0],","boxscore(2026,105,11,5,'Regular Season')[1],","boxscore(2026,105,11,5,'Regular Season')[2],"
+12-Nov-26,7:30 PM,Valencia Basket,FC Bayern Munich,Game preview,11,6,11_6,2026-2027,VAL,BAY,106,"boxscore(2026,106,11,6,'Regular Season')[0],","boxscore(2026,106,11,6,'Regular Season')[1],","boxscore(2026,106,11,6,'Regular Season')[2],"
+12-Nov-26,8:00 PM,Real Madrid,Crvena Zvezda Belgrade,Game preview,11,7,11_7,2026-2027,RMB,CRV,107,"boxscore(2026,107,11,7,'Regular Season')[0],","boxscore(2026,107,11,7,'Regular Season')[1],","boxscore(2026,107,11,7,'Regular Season')[2],"
+13-Nov-26,5:30 PM,Anadolu Efes Istanbul,Virtus Bologna,Game preview,11,8,11_8,2026-2027,EFE,BOL,108,"boxscore(2026,108,11,8,'Regular Season')[0],","boxscore(2026,108,11,8,'Regular Season')[1],","boxscore(2026,108,11,8,'Regular Season')[2],"
+13-Nov-26,7:15 PM,Panathinaikos Athens,FC Barcelona,Game preview,11,9,11_9,2026-2027,PAN,BAR,109,"boxscore(2026,109,11,9,'Regular Season')[0],","boxscore(2026,109,11,9,'Regular Season')[1],","boxscore(2026,109,11,9,'Regular Season')[2],"
+13-Nov-26,7:30 PM,LDLC ASVEL,Besiktas Istanbul,Game preview,11,10,11_10,2026-2027,VIL,BES,110,"boxscore(2026,110,11,10,'Regular Season')[0],","boxscore(2026,110,11,10,'Regular Season')[1],","boxscore(2026,110,11,10,'Regular Season')[2],"
+17-Nov-26,4:00 PM,Dubai Basketball,Anadolu Efes Istanbul,Game preview,12,1,12_1,2026-2027,DUB,EFE,111,"boxscore(2026,111,12,1,'Regular Season')[0],","boxscore(2026,111,12,1,'Regular Season')[1],","boxscore(2026,111,12,1,'Regular Season')[2],"
+17-Nov-26,5:45 PM,Fenerbahce Istanbul,LDLC ASVEL,Game preview,12,2,12_2,2026-2027,FEN,VIL,112,"boxscore(2026,112,12,2,'Regular Season')[0],","boxscore(2026,112,12,2,'Regular Season')[1],","boxscore(2026,112,12,2,'Regular Season')[2],"
+17-Nov-26,6:00 PM,Zalgiris Kaunas,FC Bayern Munich,Game preview,12,3,12_3,2026-2027,ZAL,BAY,113,"boxscore(2026,113,12,3,'Regular Season')[0],","boxscore(2026,113,12,3,'Regular Season')[1],","boxscore(2026,113,12,3,'Regular Season')[2],"
+17-Nov-26,7:05 PM,Maccabi Rapyd Tel Aviv,Olympiacos Piraeus,Game preview,12,4,12_4,2026-2027,MAC,OLY,114,"boxscore(2026,114,12,4,'Regular Season')[0],","boxscore(2026,114,12,4,'Regular Season')[1],","boxscore(2026,114,12,4,'Regular Season')[2],"
+17-Nov-26,7:30 PM,Armani Olimpia Milan,Crvena Zvezda Belgrade,Game preview,12,5,12_5,2026-2027,MIL,CRV,115,"boxscore(2026,115,12,5,'Regular Season')[0],","boxscore(2026,115,12,5,'Regular Season')[1],","boxscore(2026,115,12,5,'Regular Season')[2],"
+17-Nov-26,7:30 PM,FC Barcelona,Paris Basketball,Game preview,12,6,12_6,2026-2027,BAR,PRB,116,"boxscore(2026,116,12,6,'Regular Season')[0],","boxscore(2026,116,12,6,'Regular Season')[1],","boxscore(2026,116,12,6,'Regular Season')[2],"
+17-Nov-26,7:30 PM,Baskonia Vitoria-Gasteiz,Hapoel Tel Aviv,Game preview,12,7,12_7,2026-2027,BAS,HTA,117,"boxscore(2026,117,12,7,'Regular Season')[0],","boxscore(2026,117,12,7,'Regular Season')[1],","boxscore(2026,117,12,7,'Regular Season')[2],"
+17-Nov-26,7:45 PM,Partizan Belgrade,Valencia Basket,Game preview,12,8,12_8,2026-2027,PAR,VAL,118,"boxscore(2026,118,12,8,'Regular Season')[0],","boxscore(2026,118,12,8,'Regular Season')[1],","boxscore(2026,118,12,8,'Regular Season')[2],"
+17-Nov-26,8:00 PM,Virtus Bologna,Panathinaikos Athens,Game preview,12,9,12_9,2026-2027,BOL,PAN,119,"boxscore(2026,119,12,9,'Regular Season')[0],","boxscore(2026,119,12,9,'Regular Season')[1],","boxscore(2026,119,12,9,'Regular Season')[2],"
+18-Nov-26,5:00 PM,Besiktas Istanbul,Real Madrid,Game preview,12,10,12_10,2026-2027,BES,RMB,120,"boxscore(2026,120,12,10,'Regular Season')[0],","boxscore(2026,120,12,10,'Regular Season')[1],","boxscore(2026,120,12,10,'Regular Season')[2],"
+19-Nov-26,6:00 PM,Zalgiris Kaunas,Panathinaikos Athens,Game preview,13,1,13_1,2026-2027,ZAL,PAN,121,"boxscore(2026,121,13,1,'Regular Season')[0],","boxscore(2026,121,13,1,'Regular Season')[1],","boxscore(2026,121,13,1,'Regular Season')[2],"
+19-Nov-26,7:05 PM,Maccabi Rapyd Tel Aviv,Dubai Basketball,Game preview,13,2,13_2,2026-2027,MAC,DUB,122,"boxscore(2026,122,13,2,'Regular Season')[0],","boxscore(2026,122,13,2,'Regular Season')[1],","boxscore(2026,122,13,2,'Regular Season')[2],"
+19-Nov-26,7:30 PM,Armani Olimpia Milan,Fenerbahce Istanbul,Game preview,13,3,13_3,2026-2027,MIL,FEN,123,"boxscore(2026,123,13,3,'Regular Season')[0],","boxscore(2026,123,13,3,'Regular Season')[1],","boxscore(2026,123,13,3,'Regular Season')[2],"
+19-Nov-26,7:30 PM,FC Bayern Munich,Baskonia Vitoria-Gasteiz,Game preview,13,4,13_4,2026-2027,BAY,BAS,124,"boxscore(2026,124,13,4,'Regular Season')[0],","boxscore(2026,124,13,4,'Regular Season')[1],","boxscore(2026,124,13,4,'Regular Season')[2],"
+19-Nov-26,7:45 PM,Paris Basketball,Hapoel Tel Aviv,Game preview,13,5,13_5,2026-2027,PRB,HTA,125,"boxscore(2026,125,13,5,'Regular Season')[0],","boxscore(2026,125,13,5,'Regular Season')[1],","boxscore(2026,125,13,5,'Regular Season')[2],"
+19-Nov-26,8:00 PM,Valencia Basket,Virtus Bologna,Game preview,13,6,13_6,2026-2027,VAL,BOL,126,"boxscore(2026,126,13,6,'Regular Season')[0],","boxscore(2026,126,13,6,'Regular Season')[1],","boxscore(2026,126,13,6,'Regular Season')[2],"
+20-Nov-26,5:30 PM,Anadolu Efes Istanbul,LDLC ASVEL,Game preview,13,7,13_7,2026-2027,EFE,VIL,127,"boxscore(2026,127,13,7,'Regular Season')[0],","boxscore(2026,127,13,7,'Regular Season')[1],","boxscore(2026,127,13,7,'Regular Season')[2],"
+20-Nov-26,7:15 PM,Olympiacos Piraeus,Real Madrid,Game preview,13,8,13_8,2026-2027,OLY,RMB,128,"boxscore(2026,128,13,8,'Regular Season')[0],","boxscore(2026,128,13,8,'Regular Season')[1],","boxscore(2026,128,13,8,'Regular Season')[2],"
+20-Nov-26,7:30 PM,FC Barcelona,Crvena Zvezda Belgrade,Game preview,13,9,13_9,2026-2027,BAR,CRV,129,"boxscore(2026,129,13,9,'Regular Season')[0],","boxscore(2026,129,13,9,'Regular Season')[1],","boxscore(2026,129,13,9,'Regular Season')[2],"
+20-Nov-26,7:45 PM,Partizan Belgrade,Besiktas Istanbul,Game preview,13,10,13_10,2026-2027,PAR,BES,130,"boxscore(2026,130,13,10,'Regular Season')[0],","boxscore(2026,130,13,10,'Regular Season')[1],","boxscore(2026,130,13,10,'Regular Season')[2],"
+24-Nov-26,5:00 PM,Besiktas Istanbul,Paris Basketball,Game preview,14,1,14_1,2026-2027,BES,PRB,131,"boxscore(2026,131,14,1,'Regular Season')[0],","boxscore(2026,131,14,1,'Regular Season')[1],","boxscore(2026,131,14,1,'Regular Season')[2],"
+24-Nov-26,6:00 PM,Crvena Zvezda Belgrade,Virtus Bologna,Game preview,14,2,14_2,2026-2027,CRV,BOL,132,"boxscore(2026,132,14,2,'Regular Season')[0],","boxscore(2026,132,14,2,'Regular Season')[1],","boxscore(2026,132,14,2,'Regular Season')[2],"
+24-Nov-26,7:30 PM,FC Bayern Munich,Maccabi Rapyd Tel Aviv,Game preview,14,3,14_3,2026-2027,BAY,MAC,133,"boxscore(2026,133,14,3,'Regular Season')[0],","boxscore(2026,133,14,3,'Regular Season')[1],","boxscore(2026,133,14,3,'Regular Season')[2],"
+24-Nov-26,7:30 PM,Valencia Basket,Panathinaikos Athens,Game preview,14,4,14_4,2026-2027,VAL,PAN,134,"boxscore(2026,134,14,4,'Regular Season')[0],","boxscore(2026,134,14,4,'Regular Season')[1],","boxscore(2026,134,14,4,'Regular Season')[2],"
+24-Nov-26,7:45 PM,LDLC ASVEL,Armani Olimpia Milan,Game preview,14,5,14_5,2026-2027,VIL,MIL,135,"boxscore(2026,135,14,5,'Regular Season')[0],","boxscore(2026,135,14,5,'Regular Season')[1],","boxscore(2026,135,14,5,'Regular Season')[2],"
+24-Nov-26,8:00 PM,FC Barcelona,Fenerbahce Istanbul,Game preview,14,6,14_6,2026-2027,BAR,FEN,136,"boxscore(2026,136,14,6,'Regular Season')[0],","boxscore(2026,136,14,6,'Regular Season')[1],","boxscore(2026,136,14,6,'Regular Season')[2],"
+25-Nov-26,4:00 PM,Dubai Basketball,Partizan Belgrade,Game preview,14,7,14_7,2026-2027,DUB,PAR,137,"boxscore(2026,137,14,7,'Regular Season')[0],","boxscore(2026,137,14,7,'Regular Season')[1],","boxscore(2026,137,14,7,'Regular Season')[2],"
+25-Nov-26,7:15 PM,Olympiacos Piraeus,Hapoel Tel Aviv,Game preview,14,8,14_8,2026-2027,OLY,HTA,138,"boxscore(2026,138,14,8,'Regular Season')[0],","boxscore(2026,138,14,8,'Regular Season')[1],","boxscore(2026,138,14,8,'Regular Season')[2],"
+25-Nov-26,7:30 PM,Baskonia Vitoria-Gasteiz,Anadolu Efes Istanbul,Game preview,14,9,14_9,2026-2027,BAS,EFE,139,"boxscore(2026,139,14,9,'Regular Season')[0],","boxscore(2026,139,14,9,'Regular Season')[1],","boxscore(2026,139,14,9,'Regular Season')[2],"
+25-Nov-26,7:45 PM,Real Madrid,Zalgiris Kaunas,Game preview,14,10,14_10,2026-2027,RMB,ZAL,140,"boxscore(2026,140,14,10,'Regular Season')[0],","boxscore(2026,140,14,10,'Regular Season')[1],","boxscore(2026,140,14,10,'Regular Season')[2],"
+3-Dec-26,5:30 PM,Anadolu Efes Istanbul,Valencia Basket,Game preview,15,1,15_1,2026-2027,EFE,VAL,141,"boxscore(2026,141,15,1,'Regular Season')[0],","boxscore(2026,141,15,1,'Regular Season')[1],","boxscore(2026,141,15,1,'Regular Season')[2],"
+3-Dec-26,5:45 PM,Fenerbahce Istanbul,Crvena Zvezda Belgrade,Game preview,15,2,15_2,2026-2027,FEN,CRV,142,"boxscore(2026,142,15,2,'Regular Season')[0],","boxscore(2026,142,15,2,'Regular Season')[1],","boxscore(2026,142,15,2,'Regular Season')[2],"
+3-Dec-26,6:00 PM,Hapoel Tel Aviv,Armani Olimpia Milan,Game preview,15,3,15_3,2026-2027,HTA,MIL,143,"boxscore(2026,143,15,3,'Regular Season')[0],","boxscore(2026,143,15,3,'Regular Season')[1],","boxscore(2026,143,15,3,'Regular Season')[2],"
+3-Dec-26,7:30 PM,FC Bayern Munich,Paris Basketball,Game preview,15,4,15_4,2026-2027,BAY,PRB,144,"boxscore(2026,144,15,4,'Regular Season')[0],","boxscore(2026,144,15,4,'Regular Season')[1],","boxscore(2026,144,15,4,'Regular Season')[2],"
+3-Dec-26,7:45 PM,Real Madrid,FC Barcelona,Game preview,15,5,15_5,2026-2027,RMB,BAR,145,"boxscore(2026,145,15,5,'Regular Season')[0],","boxscore(2026,145,15,5,'Regular Season')[1],","boxscore(2026,145,15,5,'Regular Season')[2],"
+4-Dec-26,5:00 PM,Besiktas Istanbul,Panathinaikos Athens,Game preview,15,6,15_6,2026-2027,BES,PAN,146,"boxscore(2026,146,15,6,'Regular Season')[0],","boxscore(2026,146,15,6,'Regular Season')[1],","boxscore(2026,146,15,6,'Regular Season')[2],"
+4-Dec-26,6:00 PM,Zalgiris Kaunas,Dubai Basketball,Game preview,15,7,15_7,2026-2027,ZAL,DUB,147,"boxscore(2026,147,15,7,'Regular Season')[0],","boxscore(2026,147,15,7,'Regular Season')[1],","boxscore(2026,147,15,7,'Regular Season')[2],"
+4-Dec-26,7:15 PM,Olympiacos Piraeus,LDLC ASVEL,Game preview,15,8,15_8,2026-2027,OLY,VIL,148,"boxscore(2026,148,15,8,'Regular Season')[0],","boxscore(2026,148,15,8,'Regular Season')[1],","boxscore(2026,148,15,8,'Regular Season')[2],"
+4-Dec-26,7:30 PM,Baskonia Vitoria-Gasteiz,Maccabi Rapyd Tel Aviv,Game preview,15,9,15_9,2026-2027,BAS,MAC,149,"boxscore(2026,149,15,9,'Regular Season')[0],","boxscore(2026,149,15,9,'Regular Season')[1],","boxscore(2026,149,15,9,'Regular Season')[2],"
+4-Dec-26,7:30 PM,Virtus Bologna,Partizan Belgrade,Game preview,15,10,15_10,2026-2027,BOL,PAR,150,"boxscore(2026,150,15,10,'Regular Season')[0],","boxscore(2026,150,15,10,'Regular Season')[1],","boxscore(2026,150,15,10,'Regular Season')[2],"
+10-Dec-26,5:45 PM,Fenerbahce Istanbul,Anadolu Efes Istanbul,Game preview,16,1,16_1,2026-2027,FEN,EFE,151,"boxscore(2026,151,16,1,'Regular Season')[0],","boxscore(2026,151,16,1,'Regular Season')[1],","boxscore(2026,151,16,1,'Regular Season')[2],"
+10-Dec-26,6:00 PM,Hapoel Tel Aviv,LDLC ASVEL,Game preview,16,2,16_2,2026-2027,HTA,VIL,152,"boxscore(2026,152,16,2,'Regular Season')[0],","boxscore(2026,152,16,2,'Regular Season')[1],","boxscore(2026,152,16,2,'Regular Season')[2],"
+10-Dec-26,6:00 PM,Zalgiris Kaunas,Baskonia Vitoria-Gasteiz,Game preview,16,3,16_3,2026-2027,ZAL,BAS,153,"boxscore(2026,153,16,3,'Regular Season')[0],","boxscore(2026,153,16,3,'Regular Season')[1],","boxscore(2026,153,16,3,'Regular Season')[2],"
+10-Dec-26,7:30 PM,Armani Olimpia Milan,FC Bayern Munich,Game preview,16,4,16_4,2026-2027,MIL,BAY,154,"boxscore(2026,154,16,4,'Regular Season')[0],","boxscore(2026,154,16,4,'Regular Season')[1],","boxscore(2026,154,16,4,'Regular Season')[2],"
+10-Dec-26,7:45 PM,Paris Basketball,Real Madrid,Game preview,16,5,16_5,2026-2027,PRB,RMB,155,"boxscore(2026,155,16,5,'Regular Season')[0],","boxscore(2026,155,16,5,'Regular Season')[1],","boxscore(2026,155,16,5,'Regular Season')[2],"
+11-Dec-26,4:00 PM,Dubai Basketball,Besiktas Istanbul,Game preview,16,6,16_6,2026-2027,DUB,BES,156,"boxscore(2026,156,16,6,'Regular Season')[0],","boxscore(2026,156,16,6,'Regular Season')[1],","boxscore(2026,156,16,6,'Regular Season')[2],"
+11-Dec-26,7:15 PM,Panathinaikos Athens,Olympiacos Piraeus,Game preview,16,7,16_7,2026-2027,PAN,OLY,157,"boxscore(2026,157,16,7,'Regular Season')[0],","boxscore(2026,157,16,7,'Regular Season')[1],","boxscore(2026,157,16,7,'Regular Season')[2],"
+11-Dec-26,7:30 PM,Valencia Basket,Crvena Zvezda Belgrade,Game preview,16,8,16_8,2026-2027,VAL,CRV,158,"boxscore(2026,158,16,8,'Regular Season')[0],","boxscore(2026,158,16,8,'Regular Season')[1],","boxscore(2026,158,16,8,'Regular Season')[2],"
+11-Dec-26,7:30 PM,Virtus Bologna,Maccabi Rapyd Tel Aviv,Game preview,16,9,16_9,2026-2027,BOL,MAC,159,"boxscore(2026,159,16,9,'Regular Season')[0],","boxscore(2026,159,16,9,'Regular Season')[1],","boxscore(2026,159,16,9,'Regular Season')[2],"
+11-Dec-26,7:45 PM,Partizan Belgrade,FC Barcelona,Game preview,16,10,16_10,2026-2027,PAR,BAR,160,"boxscore(2026,160,16,10,'Regular Season')[0],","boxscore(2026,160,16,10,'Regular Season')[1],","boxscore(2026,160,16,10,'Regular Season')[2],"
+15-Dec-26,5:45 PM,Fenerbahce Istanbul,Hapoel Tel Aviv,Game preview,17,1,17_1,2026-2027,FEN,HTA,161,"boxscore(2026,161,17,1,'Regular Season')[0],","boxscore(2026,161,17,1,'Regular Season')[1],","boxscore(2026,161,17,1,'Regular Season')[2],"
+15-Dec-26,7:05 PM,Maccabi Rapyd Tel Aviv,Zalgiris Kaunas,Game preview,17,2,17_2,2026-2027,MAC,ZAL,162,"boxscore(2026,162,17,2,'Regular Season')[0],","boxscore(2026,162,17,2,'Regular Season')[1],","boxscore(2026,162,17,2,'Regular Season')[2],"
+15-Dec-26,7:30 PM,Valencia Basket,Dubai Basketball,Game preview,17,3,17_3,2026-2027,VAL,DUB,163,"boxscore(2026,163,17,3,'Regular Season')[0],","boxscore(2026,163,17,3,'Regular Season')[1],","boxscore(2026,163,17,3,'Regular Season')[2],"
+15-Dec-26,7:30 PM,Virtus Bologna,LDLC ASVEL,Game preview,17,4,17_4,2026-2027,BOL,VIL,164,"boxscore(2026,164,17,4,'Regular Season')[0],","boxscore(2026,164,17,4,'Regular Season')[1],","boxscore(2026,164,17,4,'Regular Season')[2],"
+15-Dec-26,7:45 PM,Paris Basketball,Olympiacos Piraeus,Game preview,17,5,17_5,2026-2027,PRB,OLY,165,"boxscore(2026,165,17,5,'Regular Season')[0],","boxscore(2026,165,17,5,'Regular Season')[1],","boxscore(2026,165,17,5,'Regular Season')[2],"
+15-Dec-26,7:45 PM,Real Madrid,FC Bayern Munich,Game preview,17,6,17_6,2026-2027,RMB,BAY,166,"boxscore(2026,166,17,6,'Regular Season')[0],","boxscore(2026,166,17,6,'Regular Season')[1],","boxscore(2026,166,17,6,'Regular Season')[2],"
+16-Dec-26,5:00 PM,Besiktas Istanbul,Armani Olimpia Milan,Game preview,17,7,17_7,2026-2027,BES,MIL,167,"boxscore(2026,167,17,7,'Regular Season')[0],","boxscore(2026,167,17,7,'Regular Season')[1],","boxscore(2026,167,17,7,'Regular Season')[2],"
+16-Dec-26,7:15 PM,Panathinaikos Athens,Crvena Zvezda Belgrade,Game preview,17,8,17_8,2026-2027,PAN,CRV,168,"boxscore(2026,168,17,8,'Regular Season')[0],","boxscore(2026,168,17,8,'Regular Season')[1],","boxscore(2026,168,17,8,'Regular Season')[2],"
+16-Dec-26,7:30 PM,Baskonia Vitoria-Gasteiz,FC Barcelona,Game preview,17,9,17_9,2026-2027,BAS,BAR,169,"boxscore(2026,169,17,9,'Regular Season')[0],","boxscore(2026,169,17,9,'Regular Season')[1],","boxscore(2026,169,17,9,'Regular Season')[2],"
+16-Dec-26,7:45 PM,Partizan Belgrade,Anadolu Efes Istanbul,Game preview,17,10,17_10,2026-2027,PAR,EFE,170,"boxscore(2026,170,17,10,'Regular Season')[0],","boxscore(2026,170,17,10,'Regular Season')[1],","boxscore(2026,170,17,10,'Regular Season')[2],"
+17-Dec-26,5:45 PM,Fenerbahce Istanbul,Maccabi Rapyd Tel Aviv,Game preview,18,1,18_1,2026-2027,FEN,MAC,171,"boxscore(2026,171,18,1,'Regular Season')[0],","boxscore(2026,171,18,1,'Regular Season')[1],","boxscore(2026,171,18,1,'Regular Season')[2],"
+17-Dec-26,6:00 PM,Hapoel Tel Aviv,Zalgiris Kaunas,Game preview,18,2,18_2,2026-2027,HTA,ZAL,172,"boxscore(2026,172,18,2,'Regular Season')[0],","boxscore(2026,172,18,2,'Regular Season')[1],","boxscore(2026,172,18,2,'Regular Season')[2],"
+17-Dec-26,7:00 PM,LDLC ASVEL,Dubai Basketball,Game preview,18,3,18_3,2026-2027,VIL,DUB,173,"boxscore(2026,173,18,3,'Regular Season')[0],","boxscore(2026,173,18,3,'Regular Season')[1],","boxscore(2026,173,18,3,'Regular Season')[2],"
+17-Dec-26,7:45 PM,Real Madrid,Valencia Basket,Game preview,18,4,18_4,2026-2027,RMB,VAL,174,"boxscore(2026,174,18,4,'Regular Season')[0],","boxscore(2026,174,18,4,'Regular Season')[1],","boxscore(2026,174,18,4,'Regular Season')[2],"
+18-Dec-26,5:30 PM,Anadolu Efes Istanbul,Armani Olimpia Milan,Game preview,18,5,18_5,2026-2027,EFE,MIL,175,"boxscore(2026,175,18,5,'Regular Season')[0],","boxscore(2026,175,18,5,'Regular Season')[1],","boxscore(2026,175,18,5,'Regular Season')[2],"
+18-Dec-26,7:15 PM,Olympiacos Piraeus,Partizan Belgrade,Game preview,18,6,18_6,2026-2027,OLY,PAR,176,"boxscore(2026,176,18,6,'Regular Season')[0],","boxscore(2026,176,18,6,'Regular Season')[1],","boxscore(2026,176,18,6,'Regular Season')[2],"
+18-Dec-26,7:30 PM,Crvena Zvezda Belgrade,Besiktas Istanbul,Game preview,18,7,18_7,2026-2027,CRV,BES,177,"boxscore(2026,177,18,7,'Regular Season')[0],","boxscore(2026,177,18,7,'Regular Season')[1],","boxscore(2026,177,18,7,'Regular Season')[2],"
+18-Dec-26,7:30 PM,FC Bayern Munich,Panathinaikos Athens,Game preview,18,8,18_8,2026-2027,BAY,PAN,178,"boxscore(2026,178,18,8,'Regular Season')[0],","boxscore(2026,178,18,8,'Regular Season')[1],","boxscore(2026,178,18,8,'Regular Season')[2],"
+18-Dec-26,7:30 PM,Baskonia Vitoria-Gasteiz,Paris Basketball,Game preview,18,9,18_9,2026-2027,BAS,PRB,179,"boxscore(2026,179,18,9,'Regular Season')[0],","boxscore(2026,179,18,9,'Regular Season')[1],","boxscore(2026,179,18,9,'Regular Season')[2],"
+18-Dec-26,7:45 PM,FC Barcelona,Virtus Bologna,Game preview,18,10,18_10,2026-2027,BAR,BOL,180,"boxscore(2026,180,18,10,'Regular Season')[0],","boxscore(2026,180,18,10,'Regular Season')[1],","boxscore(2026,180,18,10,'Regular Season')[2],"
+22-Dec-26,5:00 PM,Besiktas Istanbul,Fenerbahce Istanbul,Game preview,19,1,19_1,2026-2027,BES,FEN,181,"boxscore(2026,181,19,1,'Regular Season')[0],","boxscore(2026,181,19,1,'Regular Season')[1],","boxscore(2026,181,19,1,'Regular Season')[2],"
+22-Dec-26,6:00 PM,Hapoel Tel Aviv,Partizan Belgrade,Game preview,19,2,19_2,2026-2027,HTA,PAR,182,"boxscore(2026,182,19,2,'Regular Season')[0],","boxscore(2026,182,19,2,'Regular Season')[1],","boxscore(2026,182,19,2,'Regular Season')[2],"
+22-Dec-26,7:00 PM,LDLC ASVEL,FC Barcelona,Game preview,19,3,19_3,2026-2027,VIL,BAR,183,"boxscore(2026,183,19,3,'Regular Season')[0],","boxscore(2026,183,19,3,'Regular Season')[1],","boxscore(2026,183,19,3,'Regular Season')[2],"
+22-Dec-26,7:30 PM,FC Bayern Munich,Olympiacos Piraeus,Game preview,19,4,19_4,2026-2027,BAY,OLY,184,"boxscore(2026,184,19,4,'Regular Season')[0],","boxscore(2026,184,19,4,'Regular Season')[1],","boxscore(2026,184,19,4,'Regular Season')[2],"
+22-Dec-26,7:30 PM,Virtus Bologna,Real Madrid,Game preview,19,5,19_5,2026-2027,BOL,RMB,185,"boxscore(2026,185,19,5,'Regular Season')[0],","boxscore(2026,185,19,5,'Regular Season')[1],","boxscore(2026,185,19,5,'Regular Season')[2],"
+23-Dec-26,4:00 PM,Dubai Basketball,Panathinaikos Athens,Game preview,19,6,19_6,2026-2027,DUB,PAN,186,"boxscore(2026,186,19,6,'Regular Season')[0],","boxscore(2026,186,19,6,'Regular Season')[1],","boxscore(2026,186,19,6,'Regular Season')[2],"
+23-Dec-26,6:00 PM,Zalgiris Kaunas,Valencia Basket,Game preview,19,7,19_7,2026-2027,ZAL,VAL,187,"boxscore(2026,187,19,7,'Regular Season')[0],","boxscore(2026,187,19,7,'Regular Season')[1],","boxscore(2026,187,19,7,'Regular Season')[2],"
+23-Dec-26,7:00 PM,Crvena Zvezda Belgrade,Baskonia Vitoria-Gasteiz,Game preview,19,8,19_8,2026-2027,CRV,BAS,188,"boxscore(2026,188,19,8,'Regular Season')[0],","boxscore(2026,188,19,8,'Regular Season')[1],","boxscore(2026,188,19,8,'Regular Season')[2],"
+23-Dec-26,7:05 PM,Maccabi Rapyd Tel Aviv,Anadolu Efes Istanbul,Game preview,19,9,19_9,2026-2027,MAC,EFE,189,"boxscore(2026,189,19,9,'Regular Season')[0],","boxscore(2026,189,19,9,'Regular Season')[1],","boxscore(2026,189,19,9,'Regular Season')[2],"
+23-Dec-26,7:30 PM,Armani Olimpia Milan,Paris Basketball,Game preview,19,10,19_10,2026-2027,MIL,PRB,190,"boxscore(2026,190,19,10,'Regular Season')[0],","boxscore(2026,190,19,10,'Regular Season')[1],","boxscore(2026,190,19,10,'Regular Season')[2],"
+29-Dec-26,5:45 PM,Fenerbahce Istanbul,Panathinaikos Athens,Game preview,20,1,20_1,2026-2027,FEN,PAN,191,"boxscore(2026,191,20,1,'Regular Season')[0],","boxscore(2026,191,20,1,'Regular Season')[1],","boxscore(2026,191,20,1,'Regular Season')[2],"
+29-Dec-26,6:00 PM,Hapoel Tel Aviv,Maccabi Rapyd Tel Aviv,Game preview,20,2,20_2,2026-2027,HTA,MAC,192,"boxscore(2026,192,20,2,'Regular Season')[0],","boxscore(2026,192,20,2,'Regular Season')[1],","boxscore(2026,192,20,2,'Regular Season')[2],"
+29-Dec-26,7:30 PM,Baskonia Vitoria-Gasteiz,Valencia Basket,Game preview,20,3,20_3,2026-2027,BAS,VAL,193,"boxscore(2026,193,20,3,'Regular Season')[0],","boxscore(2026,193,20,3,'Regular Season')[1],","boxscore(2026,193,20,3,'Regular Season')[2],"
+29-Dec-26,7:45 PM,Partizan Belgrade,Zalgiris Kaunas,Game preview,20,4,20_4,2026-2027,PAR,ZAL,194,"boxscore(2026,194,20,4,'Regular Season')[0],","boxscore(2026,194,20,4,'Regular Season')[1],","boxscore(2026,194,20,4,'Regular Season')[2],"
+29-Dec-26,8:00 PM,Real Madrid,Dubai Basketball,Game preview,20,5,20_5,2026-2027,RMB,DUB,195,"boxscore(2026,195,20,5,'Regular Season')[0],","boxscore(2026,195,20,5,'Regular Season')[1],","boxscore(2026,195,20,5,'Regular Season')[2],"
+30-Dec-26,5:30 PM,Anadolu Efes Istanbul,FC Barcelona,Game preview,20,6,20_6,2026-2027,EFE,BAR,196,"boxscore(2026,196,20,6,'Regular Season')[0],","boxscore(2026,196,20,6,'Regular Season')[1],","boxscore(2026,196,20,6,'Regular Season')[2],"
+30-Dec-26,7:00 PM,LDLC ASVEL,Olympiacos Piraeus,Game preview,20,7,20_7,2026-2027,VIL,OLY,197,"boxscore(2026,197,20,7,'Regular Season')[0],","boxscore(2026,197,20,7,'Regular Season')[1],","boxscore(2026,197,20,7,'Regular Season')[2],"
+30-Dec-26,7:30 PM,FC Bayern Munich,Besiktas Istanbul,Game preview,20,8,20_8,2026-2027,BAY,BES,198,"boxscore(2026,198,20,8,'Regular Season')[0],","boxscore(2026,198,20,8,'Regular Season')[1],","boxscore(2026,198,20,8,'Regular Season')[2],"
+30-Dec-26,7:30 PM,Virtus Bologna,Armani Olimpia Milan,Game preview,20,9,20_9,2026-2027,BOL,MIL,199,"boxscore(2026,199,20,9,'Regular Season')[0],","boxscore(2026,199,20,9,'Regular Season')[1],","boxscore(2026,199,20,9,'Regular Season')[2],"
+30-Dec-26,7:45 PM,Paris Basketball,Crvena Zvezda Belgrade,Game preview,20,10,20_10,2026-2027,PRB,CRV,200,"boxscore(2026,200,20,10,'Regular Season')[0],","boxscore(2026,200,20,10,'Regular Season')[1],","boxscore(2026,200,20,10,'Regular Season')[2],"
+6-Jan-27,7:30 PM,FC Barcelona,Besiktas Istanbul,Game preview,21,1,21_1,2026-2027,BAR,BES,201,"boxscore(2026,201,21,1,'Regular Season')[0],","boxscore(2026,201,21,1,'Regular Season')[1],","boxscore(2026,201,21,1,'Regular Season')[2],"
+7-Jan-27,5:30 PM,Anadolu Efes Istanbul,Fenerbahce Istanbul,Game preview,21,2,21_2,2026-2027,EFE,FEN,202,"boxscore(2026,202,21,2,'Regular Season')[0],","boxscore(2026,202,21,2,'Regular Season')[1],","boxscore(2026,202,21,2,'Regular Season')[2],"
+7-Jan-27,6:00 PM,Zalgiris Kaunas,Paris Basketball,Game preview,21,3,21_3,2026-2027,ZAL,PRB,203,"boxscore(2026,203,21,3,'Regular Season')[0],","boxscore(2026,203,21,3,'Regular Season')[1],","boxscore(2026,203,21,3,'Regular Season')[2],"
+7-Jan-27,7:05 PM,Maccabi Rapyd Tel Aviv,Panathinaikos Athens,Game preview,21,4,21_4,2026-2027,MAC,PAN,204,"boxscore(2026,204,21,4,'Regular Season')[0],","boxscore(2026,204,21,4,'Regular Season')[1],","boxscore(2026,204,21,4,'Regular Season')[2],"
+7-Jan-27,7:30 PM,Armani Olimpia Milan,Hapoel Tel Aviv,Game preview,21,5,21_5,2026-2027,MIL,HTA,205,"boxscore(2026,205,21,5,'Regular Season')[0],","boxscore(2026,205,21,5,'Regular Season')[1],","boxscore(2026,205,21,5,'Regular Season')[2],"
+7-Jan-27,7:30 PM,Valencia Basket,Partizan Belgrade,Game preview,21,6,21_6,2026-2027,VAL,PAR,206,"boxscore(2026,206,21,6,'Regular Season')[0],","boxscore(2026,206,21,6,'Regular Season')[1],","boxscore(2026,206,21,6,'Regular Season')[2],"
+8-Jan-27,4:00 PM,Dubai Basketball,FC Bayern Munich,Game preview,21,7,21_7,2026-2027,DUB,BAY,207,"boxscore(2026,207,21,7,'Regular Season')[0],","boxscore(2026,207,21,7,'Regular Season')[1],","boxscore(2026,207,21,7,'Regular Season')[2],"
+8-Jan-27,7:00 PM,Crvena Zvezda Belgrade,LDLC ASVEL,Game preview,21,8,21_8,2026-2027,CRV,VIL,208,"boxscore(2026,208,21,8,'Regular Season')[0],","boxscore(2026,208,21,8,'Regular Season')[1],","boxscore(2026,208,21,8,'Regular Season')[2],"
+8-Jan-27,7:30 PM,Baskonia Vitoria-Gasteiz,Virtus Bologna,Game preview,21,9,21_9,2026-2027,BAS,BOL,209,"boxscore(2026,209,21,9,'Regular Season')[0],","boxscore(2026,209,21,9,'Regular Season')[1],","boxscore(2026,209,21,9,'Regular Season')[2],"
+8-Jan-27,7:45 PM,Real Madrid,Olympiacos Piraeus,Game preview,21,10,21_10,2026-2027,RMB,OLY,210,"boxscore(2026,210,21,10,'Regular Season')[0],","boxscore(2026,210,21,10,'Regular Season')[1],","boxscore(2026,210,21,10,'Regular Season')[2],"
+12-Jan-27,4:00 PM,Dubai Basketball,Fenerbahce Istanbul,Game preview,22,1,22_1,2026-2027,DUB,FEN,211,"boxscore(2026,211,22,1,'Regular Season')[0],","boxscore(2026,211,22,1,'Regular Season')[1],","boxscore(2026,211,22,1,'Regular Season')[2],"
+12-Jan-27,6:00 PM,Hapoel Tel Aviv,Paris Basketball,Game preview,22,2,22_2,2026-2027,HTA,PRB,212,"boxscore(2026,212,22,2,'Regular Season')[0],","boxscore(2026,212,22,2,'Regular Season')[1],","boxscore(2026,212,22,2,'Regular Season')[2],"
+12-Jan-27,7:00 PM,Crvena Zvezda Belgrade,Real Madrid,Game preview,22,3,22_3,2026-2027,CRV,RMB,213,"boxscore(2026,213,22,3,'Regular Season')[0],","boxscore(2026,213,22,3,'Regular Season')[1],","boxscore(2026,213,22,3,'Regular Season')[2],"
+12-Jan-27,7:00 PM,LDLC ASVEL,Zalgiris Kaunas,Game preview,22,4,22_4,2026-2027,VIL,ZAL,214,"boxscore(2026,214,22,4,'Regular Season')[0],","boxscore(2026,214,22,4,'Regular Season')[1],","boxscore(2026,214,22,4,'Regular Season')[2],"
+12-Jan-27,7:05 PM,Maccabi Rapyd Tel Aviv,FC Bayern Munich,Game preview,22,5,22_5,2026-2027,MAC,BAY,215,"boxscore(2026,215,22,5,'Regular Season')[0],","boxscore(2026,215,22,5,'Regular Season')[1],","boxscore(2026,215,22,5,'Regular Season')[2],"
+12-Jan-27,7:15 PM,Panathinaikos Athens,Valencia Basket,Game preview,22,6,22_6,2026-2027,PAN,VAL,216,"boxscore(2026,216,22,6,'Regular Season')[0],","boxscore(2026,216,22,6,'Regular Season')[1],","boxscore(2026,216,22,6,'Regular Season')[2],"
+12-Jan-27,7:30 PM,FC Barcelona,Armani Olimpia Milan,Game preview,22,7,22_7,2026-2027,BAR,MIL,217,"boxscore(2026,217,22,7,'Regular Season')[0],","boxscore(2026,217,22,7,'Regular Season')[1],","boxscore(2026,217,22,7,'Regular Season')[2],"
+12-Jan-27,7:30 PM,Virtus Bologna,Anadolu Efes Istanbul,Game preview,22,8,22_8,2026-2027,BOL,EFE,218,"boxscore(2026,218,22,8,'Regular Season')[0],","boxscore(2026,218,22,8,'Regular Season')[1],","boxscore(2026,218,22,8,'Regular Season')[2],"
+13-Jan-27,5:00 PM,Besiktas Istanbul,Partizan Belgrade,Game preview,22,9,22_9,2026-2027,BES,PAR,219,"boxscore(2026,219,22,9,'Regular Season')[0],","boxscore(2026,219,22,9,'Regular Season')[1],","boxscore(2026,219,22,9,'Regular Season')[2],"
+13-Jan-27,7:15 PM,Olympiacos Piraeus,Baskonia Vitoria-Gasteiz,Game preview,22,10,22_10,2026-2027,OLY,BAS,220,"boxscore(2026,220,22,10,'Regular Season')[0],","boxscore(2026,220,22,10,'Regular Season')[1],","boxscore(2026,220,22,10,'Regular Season')[2],"
+14-Jan-27,6:00 PM,Hapoel Tel Aviv,Valencia Basket,Game preview,23,1,23_1,2026-2027,HTA,VAL,221,"boxscore(2026,221,23,1,'Regular Season')[0],","boxscore(2026,221,23,1,'Regular Season')[1],","boxscore(2026,221,23,1,'Regular Season')[2],"
+14-Jan-27,6:00 PM,Zalgiris Kaunas,Crvena Zvezda Belgrade,Game preview,23,2,23_2,2026-2027,ZAL,CRV,222,"boxscore(2026,222,23,2,'Regular Season')[0],","boxscore(2026,222,23,2,'Regular Season')[1],","boxscore(2026,222,23,2,'Regular Season')[2],"
+14-Jan-27,7:15 PM,Panathinaikos Athens,FC Bayern Munich,Game preview,23,3,23_3,2026-2027,PAN,BAY,223,"boxscore(2026,223,23,3,'Regular Season')[0],","boxscore(2026,223,23,3,'Regular Season')[1],","boxscore(2026,223,23,3,'Regular Season')[2],"
+14-Jan-27,7:30 PM,Armani Olimpia Milan,LDLC ASVEL,Game preview,23,4,23_4,2026-2027,MIL,VIL,224,"boxscore(2026,224,23,4,'Regular Season')[0],","boxscore(2026,224,23,4,'Regular Season')[1],","boxscore(2026,224,23,4,'Regular Season')[2],"
+14-Jan-27,7:45 PM,Real Madrid,Anadolu Efes Istanbul,Game preview,23,5,23_5,2026-2027,RMB,EFE,225,"boxscore(2026,225,23,5,'Regular Season')[0],","boxscore(2026,225,23,5,'Regular Season')[1],","boxscore(2026,225,23,5,'Regular Season')[2],"
+15-Jan-27,4:00 PM,Dubai Basketball,Maccabi Rapyd Tel Aviv,Game preview,23,6,23_6,2026-2027,DUB,MAC,226,"boxscore(2026,226,23,6,'Regular Season')[0],","boxscore(2026,226,23,6,'Regular Season')[1],","boxscore(2026,226,23,6,'Regular Season')[2],"
+15-Jan-27,5:00 PM,Besiktas Istanbul,Baskonia Vitoria-Gasteiz,Game preview,23,7,23_7,2026-2027,BES,BAS,227,"boxscore(2026,227,23,7,'Regular Season')[0],","boxscore(2026,227,23,7,'Regular Season')[1],","boxscore(2026,227,23,7,'Regular Season')[2],"
+15-Jan-27,7:15 PM,Olympiacos Piraeus,Paris Basketball,Game preview,23,8,23_8,2026-2027,OLY,PRB,228,"boxscore(2026,228,23,8,'Regular Season')[0],","boxscore(2026,228,23,8,'Regular Season')[1],","boxscore(2026,228,23,8,'Regular Season')[2],"
+15-Jan-27,7:30 PM,Virtus Bologna,FC Barcelona,Game preview,23,9,23_9,2026-2027,BOL,BAR,229,"boxscore(2026,229,23,9,'Regular Season')[0],","boxscore(2026,229,23,9,'Regular Season')[1],","boxscore(2026,229,23,9,'Regular Season')[2],"
+15-Jan-27,7:45 PM,Partizan Belgrade,Fenerbahce Istanbul,Game preview,23,10,23_10,2026-2027,PAR,FEN,230,"boxscore(2026,230,23,10,'Regular Season')[0],","boxscore(2026,230,23,10,'Regular Season')[1],","boxscore(2026,230,23,10,'Regular Season')[2],"
+21-Jan-27,5:45 PM,Fenerbahce Istanbul,Besiktas Istanbul,Game preview,24,1,24_1,2026-2027,FEN,BES,231,"boxscore(2026,231,24,1,'Regular Season')[0],","boxscore(2026,231,24,1,'Regular Season')[1],","boxscore(2026,231,24,1,'Regular Season')[2],"
+21-Jan-27,6:00 PM,Hapoel Tel Aviv,Panathinaikos Athens,Game preview,24,2,24_2,2026-2027,HTA,PAN,232,"boxscore(2026,232,24,2,'Regular Season')[0],","boxscore(2026,232,24,2,'Regular Season')[1],","boxscore(2026,232,24,2,'Regular Season')[2],"
+21-Jan-27,7:30 PM,FC Bayern Munich,Armani Olimpia Milan,Game preview,24,3,24_3,2026-2027,BAY,MIL,233,"boxscore(2026,233,24,3,'Regular Season')[0],","boxscore(2026,233,24,3,'Regular Season')[1],","boxscore(2026,233,24,3,'Regular Season')[2],"
+21-Jan-27,7:45 PM,Paris Basketball,Baskonia Vitoria-Gasteiz,Game preview,24,4,24_4,2026-2027,PRB,BAS,234,"boxscore(2026,234,24,4,'Regular Season')[0],","boxscore(2026,234,24,4,'Regular Season')[1],","boxscore(2026,234,24,4,'Regular Season')[2],"
+21-Jan-27,7:45 PM,Partizan Belgrade,Olympiacos Piraeus,Game preview,24,5,24_5,2026-2027,PAR,OLY,235,"boxscore(2026,235,24,5,'Regular Season')[0],","boxscore(2026,235,24,5,'Regular Season')[1],","boxscore(2026,235,24,5,'Regular Season')[2],"
+21-Jan-27,7:45 PM,Real Madrid,Maccabi Rapyd Tel Aviv,Game preview,24,6,24_6,2026-2027,RMB,MAC,236,"boxscore(2026,236,24,6,'Regular Season')[0],","boxscore(2026,236,24,6,'Regular Season')[1],","boxscore(2026,236,24,6,'Regular Season')[2],"
+22-Jan-27,5:30 PM,Anadolu Efes Istanbul,Dubai Basketball,Game preview,24,7,24_7,2026-2027,EFE,DUB,237,"boxscore(2026,237,24,7,'Regular Season')[0],","boxscore(2026,237,24,7,'Regular Season')[1],","boxscore(2026,237,24,7,'Regular Season')[2],"
+22-Jan-27,6:00 PM,Zalgiris Kaunas,Virtus Bologna,Game preview,24,8,24_8,2026-2027,ZAL,BOL,238,"boxscore(2026,238,24,8,'Regular Season')[0],","boxscore(2026,238,24,8,'Regular Season')[1],","boxscore(2026,238,24,8,'Regular Season')[2],"
+22-Jan-27,7:00 PM,Crvena Zvezda Belgrade,FC Barcelona,Game preview,24,9,24_9,2026-2027,CRV,BAR,239,"boxscore(2026,239,24,9,'Regular Season')[0],","boxscore(2026,239,24,9,'Regular Season')[1],","boxscore(2026,239,24,9,'Regular Season')[2],"
+22-Jan-27,7:30 PM,Valencia Basket,LDLC ASVEL,Game preview,24,10,24_10,2026-2027,VAL,VIL,240,"boxscore(2026,240,24,10,'Regular Season')[0],","boxscore(2026,240,24,10,'Regular Season')[1],","boxscore(2026,240,24,10,'Regular Season')[2],"
+28-Jan-27,5:00 PM,Besiktas Istanbul,Crvena Zvezda Belgrade,Game preview,25,1,25_1,2026-2027,BES,CRV,241,"boxscore(2026,241,25,1,'Regular Season')[0],","boxscore(2026,241,25,1,'Regular Season')[1],","boxscore(2026,241,25,1,'Regular Season')[2],"
+28-Jan-27,7:15 PM,Olympiacos Piraeus,Maccabi Rapyd Tel Aviv,Game preview,25,2,25_2,2026-2027,OLY,MAC,242,"boxscore(2026,242,25,2,'Regular Season')[0],","boxscore(2026,242,25,2,'Regular Season')[1],","boxscore(2026,242,25,2,'Regular Season')[2],"
+28-Jan-27,7:30 PM,FC Bayern Munich,Valencia Basket,Game preview,25,3,25_3,2026-2027,BAY,VAL,243,"boxscore(2026,243,25,3,'Regular Season')[0],","boxscore(2026,243,25,3,'Regular Season')[1],","boxscore(2026,243,25,3,'Regular Season')[2],"
+28-Jan-27,7:30 PM,Baskonia Vitoria-Gasteiz,Zalgiris Kaunas,Game preview,25,4,25_4,2026-2027,BAS,ZAL,244,"boxscore(2026,244,25,4,'Regular Season')[0],","boxscore(2026,244,25,4,'Regular Season')[1],","boxscore(2026,244,25,4,'Regular Season')[2],"
+28-Jan-27,7:30 PM,Virtus Bologna,Paris Basketball,Game preview,25,5,25_5,2026-2027,BOL,PRB,245,"boxscore(2026,245,25,5,'Regular Season')[0],","boxscore(2026,245,25,5,'Regular Season')[1],","boxscore(2026,245,25,5,'Regular Season')[2],"
+29-Jan-27,5:45 PM,Fenerbahce Istanbul,Real Madrid,Game preview,25,6,25_6,2026-2027,FEN,RMB,246,"boxscore(2026,246,25,6,'Regular Season')[0],","boxscore(2026,246,25,6,'Regular Season')[1],","boxscore(2026,246,25,6,'Regular Season')[2],"
+29-Jan-27,7:00 PM,LDLC ASVEL,Hapoel Tel Aviv,Game preview,25,7,25_7,2026-2027,VIL,HTA,247,"boxscore(2026,247,25,7,'Regular Season')[0],","boxscore(2026,247,25,7,'Regular Season')[1],","boxscore(2026,247,25,7,'Regular Season')[2],"
+29-Jan-27,7:15 PM,Panathinaikos Athens,Anadolu Efes Istanbul,Game preview,25,8,25_8,2026-2027,PAN,EFE,248,"boxscore(2026,248,25,8,'Regular Season')[0],","boxscore(2026,248,25,8,'Regular Season')[1],","boxscore(2026,248,25,8,'Regular Season')[2],"
+29-Jan-27,7:30 PM,Armani Olimpia Milan,Partizan Belgrade,Game preview,25,9,25_9,2026-2027,MIL,PAR,249,"boxscore(2026,249,25,9,'Regular Season')[0],","boxscore(2026,249,25,9,'Regular Season')[1],","boxscore(2026,249,25,9,'Regular Season')[2],"
+29-Jan-27,7:30 PM,FC Barcelona,Dubai Basketball,Game preview,25,10,25_10,2026-2027,BAR,DUB,250,"boxscore(2026,250,25,10,'Regular Season')[0],","boxscore(2026,250,25,10,'Regular Season')[1],","boxscore(2026,250,25,10,'Regular Season')[2],"
+2-Feb-27,5:30 PM,Anadolu Efes Istanbul,Zalgiris Kaunas,Game preview,26,1,26_1,2026-2027,EFE,ZAL,251,"boxscore(2026,251,26,1,'Regular Season')[0],","boxscore(2026,251,26,1,'Regular Season')[1],","boxscore(2026,251,26,1,'Regular Season')[2],"
+2-Feb-27,7:05 PM,Maccabi Rapyd Tel Aviv,Virtus Bologna,Game preview,26,2,26_2,2026-2027,MAC,BOL,252,"boxscore(2026,252,26,2,'Regular Season')[0],","boxscore(2026,252,26,2,'Regular Season')[1],","boxscore(2026,252,26,2,'Regular Season')[2],"
+2-Feb-27,7:15 PM,Panathinaikos Athens,Dubai Basketball,Game preview,26,3,26_3,2026-2027,PAN,DUB,253,"boxscore(2026,253,26,3,'Regular Season')[0],","boxscore(2026,253,26,3,'Regular Season')[1],","boxscore(2026,253,26,3,'Regular Season')[2],"
+2-Feb-27,7:30 PM,Baskonia Vitoria-Gasteiz,Fenerbahce Istanbul,Game preview,26,4,26_4,2026-2027,BAS,FEN,254,"boxscore(2026,254,26,4,'Regular Season')[0],","boxscore(2026,254,26,4,'Regular Season')[1],","boxscore(2026,254,26,4,'Regular Season')[2],"
+2-Feb-27,7:45 PM,Paris Basketball,Besiktas Istanbul,Game preview,26,5,26_5,2026-2027,PRB,BES,255,"boxscore(2026,255,26,5,'Regular Season')[0],","boxscore(2026,255,26,5,'Regular Season')[1],","boxscore(2026,255,26,5,'Regular Season')[2],"
+2-Feb-27,7:45 PM,Partizan Belgrade,Real Madrid,Game preview,26,6,26_6,2026-2027,PAR,RMB,256,"boxscore(2026,256,26,6,'Regular Season')[0],","boxscore(2026,256,26,6,'Regular Season')[1],","boxscore(2026,256,26,6,'Regular Season')[2],"
+3-Feb-27,6:00 PM,Hapoel Tel Aviv,Olympiacos Piraeus,Game preview,26,7,26_7,2026-2027,HTA,OLY,257,"boxscore(2026,257,26,7,'Regular Season')[0],","boxscore(2026,257,26,7,'Regular Season')[1],","boxscore(2026,257,26,7,'Regular Season')[2],"
+3-Feb-27,7:30 PM,FC Barcelona,LDLC ASVEL,Game preview,26,8,26_8,2026-2027,BAR,VIL,258,"boxscore(2026,258,26,8,'Regular Season')[0],","boxscore(2026,258,26,8,'Regular Season')[1],","boxscore(2026,258,26,8,'Regular Season')[2],"
+3-Feb-27,7:30 PM,FC Bayern Munich,Crvena Zvezda Belgrade,Game preview,26,9,26_9,2026-2027,BAY,CRV,259,"boxscore(2026,259,26,9,'Regular Season')[0],","boxscore(2026,259,26,9,'Regular Season')[1],","boxscore(2026,259,26,9,'Regular Season')[2],"
+3-Feb-27,7:45 PM,Valencia Basket,Armani Olimpia Milan,Game preview,26,10,26_10,2026-2027,VAL,MIL,260,"boxscore(2026,260,26,10,'Regular Season')[0],","boxscore(2026,260,26,10,'Regular Season')[1],","boxscore(2026,260,26,10,'Regular Season')[2],"
+4-Feb-27,4:00 PM,Dubai Basketball,Virtus Bologna,Game preview,27,1,27_1,2026-2027,DUB,BOL,261,"boxscore(2026,261,27,1,'Regular Season')[0],","boxscore(2026,261,27,1,'Regular Season')[1],","boxscore(2026,261,27,1,'Regular Season')[2],"
+4-Feb-27,5:30 PM,Anadolu Efes Istanbul,Maccabi Rapyd Tel Aviv,Game preview,27,2,27_2,2026-2027,EFE,MAC,262,"boxscore(2026,262,27,2,'Regular Season')[0],","boxscore(2026,262,27,2,'Regular Season')[1],","boxscore(2026,262,27,2,'Regular Season')[2],"
+4-Feb-27,6:00 PM,Zalgiris Kaunas,Besiktas Istanbul,Game preview,27,3,27_3,2026-2027,ZAL,BES,263,"boxscore(2026,263,27,3,'Regular Season')[0],","boxscore(2026,263,27,3,'Regular Season')[1],","boxscore(2026,263,27,3,'Regular Season')[2],"
+4-Feb-27,7:45 PM,Real Madrid,Paris Basketball,Game preview,27,4,27_4,2026-2027,RMB,PRB,264,"boxscore(2026,264,27,4,'Regular Season')[0],","boxscore(2026,264,27,4,'Regular Season')[1],","boxscore(2026,264,27,4,'Regular Season')[2],"
+5-Feb-27,7:00 PM,LDLC ASVEL,Fenerbahce Istanbul,Game preview,27,5,27_5,2026-2027,VIL,FEN,265,"boxscore(2026,265,27,5,'Regular Season')[0],","boxscore(2026,265,27,5,'Regular Season')[1],","boxscore(2026,265,27,5,'Regular Season')[2],"
+5-Feb-27,7:15 PM,Olympiacos Piraeus,FC Bayern Munich,Game preview,27,6,27_6,2026-2027,OLY,BAY,266,"boxscore(2026,266,27,6,'Regular Season')[0],","boxscore(2026,266,27,6,'Regular Season')[1],","boxscore(2026,266,27,6,'Regular Season')[2],"
+5-Feb-27,7:30 PM,Armani Olimpia Milan,Panathinaikos Athens,Game preview,27,7,27_7,2026-2027,MIL,PAN,267,"boxscore(2026,267,27,7,'Regular Season')[0],","boxscore(2026,267,27,7,'Regular Season')[1],","boxscore(2026,267,27,7,'Regular Season')[2],"
+5-Feb-27,7:30 PM,Baskonia Vitoria-Gasteiz,Crvena Zvezda Belgrade,Game preview,27,8,27_8,2026-2027,BAS,CRV,268,"boxscore(2026,268,27,8,'Regular Season')[0],","boxscore(2026,268,27,8,'Regular Season')[1],","boxscore(2026,268,27,8,'Regular Season')[2],"
+5-Feb-27,7:45 PM,Partizan Belgrade,Hapoel Tel Aviv,Game preview,27,9,27_9,2026-2027,PAR,HTA,269,"boxscore(2026,269,27,9,'Regular Season')[0],","boxscore(2026,269,27,9,'Regular Season')[1],","boxscore(2026,269,27,9,'Regular Season')[2],"
+5-Feb-27,7:45 PM,Valencia Basket,FC Barcelona,Game preview,27,10,27_10,2026-2027,VAL,BAR,270,"boxscore(2026,270,27,10,'Regular Season')[0],","boxscore(2026,270,27,10,'Regular Season')[1],","boxscore(2026,270,27,10,'Regular Season')[2],"
+10-Feb-27,6:00 PM,Hapoel Tel Aviv,Baskonia Vitoria-Gasteiz,Game preview,28,1,28_1,2026-2027,HTA,BAS,271,"boxscore(2026,271,28,1,'Regular Season')[0],","boxscore(2026,271,28,1,'Regular Season')[1],","boxscore(2026,271,28,1,'Regular Season')[2],"
+10-Feb-27,7:00 PM,LDLC ASVEL,Anadolu Efes Istanbul,Game preview,28,2,28_2,2026-2027,VIL,EFE,272,"boxscore(2026,272,28,2,'Regular Season')[0],","boxscore(2026,272,28,2,'Regular Season')[1],","boxscore(2026,272,28,2,'Regular Season')[2],"
+11-Feb-27,5:00 PM,Besiktas Istanbul,Dubai Basketball,Game preview,28,3,28_3,2026-2027,BES,DUB,273,"boxscore(2026,273,28,3,'Regular Season')[0],","boxscore(2026,273,28,3,'Regular Season')[1],","boxscore(2026,273,28,3,'Regular Season')[2],"
+11-Feb-27,7:00 PM,Crvena Zvezda Belgrade,Partizan Belgrade,Game preview,28,4,28_4,2026-2027,CRV,PAR,274,"boxscore(2026,274,28,4,'Regular Season')[0],","boxscore(2026,274,28,4,'Regular Season')[1],","boxscore(2026,274,28,4,'Regular Season')[2],"
+11-Feb-27,7:05 PM,Maccabi Rapyd Tel Aviv,FC Barcelona,Game preview,28,5,28_5,2026-2027,MAC,BAR,275,"boxscore(2026,275,28,5,'Regular Season')[0],","boxscore(2026,275,28,5,'Regular Season')[1],","boxscore(2026,275,28,5,'Regular Season')[2],"
+11-Feb-27,7:30 PM,Valencia Basket,Paris Basketball,Game preview,28,6,28_6,2026-2027,VAL,PRB,276,"boxscore(2026,276,28,6,'Regular Season')[0],","boxscore(2026,276,28,6,'Regular Season')[1],","boxscore(2026,276,28,6,'Regular Season')[2],"
+11-Feb-27,7:30 PM,Virtus Bologna,FC Bayern Munich,Game preview,28,7,28_7,2026-2027,BOL,BAY,277,"boxscore(2026,277,28,7,'Regular Season')[0],","boxscore(2026,277,28,7,'Regular Season')[1],","boxscore(2026,277,28,7,'Regular Season')[2],"
+12-Feb-27,5:45 PM,Fenerbahce Istanbul,Armani Olimpia Milan,Game preview,28,8,28_8,2026-2027,FEN,MIL,278,"boxscore(2026,278,28,8,'Regular Season')[0],","boxscore(2026,278,28,8,'Regular Season')[1],","boxscore(2026,278,28,8,'Regular Season')[2],"
+12-Feb-27,6:00 PM,Zalgiris Kaunas,Real Madrid,Game preview,28,9,28_9,2026-2027,ZAL,RMB,279,"boxscore(2026,279,28,9,'Regular Season')[0],","boxscore(2026,279,28,9,'Regular Season')[1],","boxscore(2026,279,28,9,'Regular Season')[2],"
+12-Feb-27,7:15 PM,Olympiacos Piraeus,Panathinaikos Athens,Game preview,28,10,28_10,2026-2027,OLY,PAN,280,"boxscore(2026,280,28,10,'Regular Season')[0],","boxscore(2026,280,28,10,'Regular Season')[1],","boxscore(2026,280,28,10,'Regular Season')[2],"
+4-Mar-27,7:15 PM,Panathinaikos Athens,Besiktas Istanbul,Game preview,29,1,29_1,2026-2027,PAN,BES,281,"boxscore(2026,281,29,1,'Regular Season')[0],","boxscore(2026,281,29,1,'Regular Season')[1],","boxscore(2026,281,29,1,'Regular Season')[2],"
+4-Mar-27,7:30 PM,Valencia Basket,Zalgiris Kaunas,Game preview,29,2,29_2,2026-2027,VAL,ZAL,282,"boxscore(2026,282,29,2,'Regular Season')[0],","boxscore(2026,282,29,2,'Regular Season')[1],","boxscore(2026,282,29,2,'Regular Season')[2],"
+4-Mar-27,7:30 PM,Virtus Bologna,Hapoel Tel Aviv,Game preview,29,3,29_3,2026-2027,BOL,HTA,283,"boxscore(2026,283,29,3,'Regular Season')[0],","boxscore(2026,283,29,3,'Regular Season')[1],","boxscore(2026,283,29,3,'Regular Season')[2],"
+4-Mar-27,7:45 PM,Baskonia Vitoria-Gasteiz,Partizan Belgrade,Game preview,29,4,29_4,2026-2027,BAS,PAR,284,"boxscore(2026,284,29,4,'Regular Season')[0],","boxscore(2026,284,29,4,'Regular Season')[1],","boxscore(2026,284,29,4,'Regular Season')[2],"
+4-Mar-27,7:45 PM,Paris Basketball,Maccabi Rapyd Tel Aviv,Game preview,29,5,29_5,2026-2027,PRB,MAC,285,"boxscore(2026,285,29,5,'Regular Season')[0],","boxscore(2026,285,29,5,'Regular Season')[1],","boxscore(2026,285,29,5,'Regular Season')[2],"
+5-Mar-27,4:00 PM,Dubai Basketball,Olympiacos Piraeus,Game preview,29,6,29_6,2026-2027,DUB,OLY,286,"boxscore(2026,286,29,6,'Regular Season')[0],","boxscore(2026,286,29,6,'Regular Season')[1],","boxscore(2026,286,29,6,'Regular Season')[2],"
+5-Mar-27,7:00 PM,Crvena Zvezda Belgrade,Fenerbahce Istanbul,Game preview,29,7,29_7,2026-2027,CRV,FEN,287,"boxscore(2026,287,29,7,'Regular Season')[0],","boxscore(2026,287,29,7,'Regular Season')[1],","boxscore(2026,287,29,7,'Regular Season')[2],"
+5-Mar-27,7:30 PM,Armani Olimpia Milan,Anadolu Efes Istanbul,Game preview,29,8,29_8,2026-2027,MIL,EFE,288,"boxscore(2026,288,29,8,'Regular Season')[0],","boxscore(2026,288,29,8,'Regular Season')[1],","boxscore(2026,288,29,8,'Regular Season')[2],"
+5-Mar-27,7:30 PM,FC Barcelona,Real Madrid,Game preview,29,9,29_9,2026-2027,BAR,RMB,289,"boxscore(2026,289,29,9,'Regular Season')[0],","boxscore(2026,289,29,9,'Regular Season')[1],","boxscore(2026,289,29,9,'Regular Season')[2],"
+5-Mar-27,7:30 PM,FC Bayern Munich,LDLC ASVEL,Game preview,29,10,29_10,2026-2027,BAY,VIL,290,"boxscore(2026,290,29,10,'Regular Season')[0],","boxscore(2026,290,29,10,'Regular Season')[1],","boxscore(2026,290,29,10,'Regular Season')[2],"
+9-Mar-27,5:00 PM,Besiktas Istanbul,LDLC ASVEL,Game preview,30,1,30_1,2026-2027,BES,VIL,291,"boxscore(2026,291,30,1,'Regular Season')[0],","boxscore(2026,291,30,1,'Regular Season')[1],","boxscore(2026,291,30,1,'Regular Season')[2],"
+9-Mar-27,6:00 PM,Zalgiris Kaunas,FC Barcelona,Game preview,30,2,30_2,2026-2027,ZAL,BAR,292,"boxscore(2026,292,30,2,'Regular Season')[0],","boxscore(2026,292,30,2,'Regular Season')[1],","boxscore(2026,292,30,2,'Regular Season')[2],"
+9-Mar-27,7:05 PM,Maccabi Rapyd Tel Aviv,Crvena Zvezda Belgrade,Game preview,30,3,30_3,2026-2027,MAC,CRV,293,"boxscore(2026,293,30,3,'Regular Season')[0],","boxscore(2026,293,30,3,'Regular Season')[1],","boxscore(2026,293,30,3,'Regular Season')[2],"
+9-Mar-27,7:30 PM,FC Bayern Munich,Anadolu Efes Istanbul,Game preview,30,4,30_4,2026-2027,BAY,EFE,294,"boxscore(2026,294,30,4,'Regular Season')[0],","boxscore(2026,294,30,4,'Regular Season')[1],","boxscore(2026,294,30,4,'Regular Season')[2],"
+9-Mar-27,7:30 PM,Baskonia Vitoria-Gasteiz,Panathinaikos Athens,Game preview,30,5,30_5,2026-2027,BAS,PAN,295,"boxscore(2026,295,30,5,'Regular Season')[0],","boxscore(2026,295,30,5,'Regular Season')[1],","boxscore(2026,295,30,5,'Regular Season')[2],"
+9-Mar-27,7:30 PM,Virtus Bologna,Fenerbahce Istanbul,Game preview,30,6,30_6,2026-2027,BOL,FEN,296,"boxscore(2026,296,30,6,'Regular Season')[0],","boxscore(2026,296,30,6,'Regular Season')[1],","boxscore(2026,296,30,6,'Regular Season')[2],"
+9-Mar-27,7:45 PM,Partizan Belgrade,Paris Basketball,Game preview,30,7,30_7,2026-2027,PAR,PRB,297,"boxscore(2026,297,30,7,'Regular Season')[0],","boxscore(2026,297,30,7,'Regular Season')[1],","boxscore(2026,297,30,7,'Regular Season')[2],"
+9-Mar-27,7:45 PM,Real Madrid,Hapoel Tel Aviv,Game preview,30,8,30_8,2026-2027,RMB,HTA,298,"boxscore(2026,298,30,8,'Regular Season')[0],","boxscore(2026,298,30,8,'Regular Season')[1],","boxscore(2026,298,30,8,'Regular Season')[2],"
+10-Mar-27,4:00 PM,Dubai Basketball,Valencia Basket,Game preview,30,9,30_9,2026-2027,DUB,VAL,299,"boxscore(2026,299,30,9,'Regular Season')[0],","boxscore(2026,299,30,9,'Regular Season')[1],","boxscore(2026,299,30,9,'Regular Season')[2],"
+10-Mar-27,7:30 PM,Armani Olimpia Milan,Olympiacos Piraeus,Game preview,30,10,30_10,2026-2027,MIL,OLY,300,"boxscore(2026,300,30,10,'Regular Season')[0],","boxscore(2026,300,30,10,'Regular Season')[1],","boxscore(2026,300,30,10,'Regular Season')[2],"
+11-Mar-27,5:30 PM,Anadolu Efes Istanbul,Partizan Belgrade,Game preview,31,1,31_1,2026-2027,EFE,PAR,301,"boxscore(2026,301,31,1,'Regular Season')[0],","boxscore(2026,301,31,1,'Regular Season')[1],","boxscore(2026,301,31,1,'Regular Season')[2],"
+11-Mar-27,7:05 PM,Maccabi Rapyd Tel Aviv,LDLC ASVEL,Game preview,31,2,31_2,2026-2027,MAC,VIL,302,"boxscore(2026,302,31,2,'Regular Season')[0],","boxscore(2026,302,31,2,'Regular Season')[1],","boxscore(2026,302,31,2,'Regular Season')[2],"
+11-Mar-27,7:30 PM,FC Bayern Munich,Hapoel Tel Aviv,Game preview,31,3,31_3,2026-2027,BAY,HTA,303,"boxscore(2026,303,31,3,'Regular Season')[0],","boxscore(2026,303,31,3,'Regular Season')[1],","boxscore(2026,303,31,3,'Regular Season')[2],"
+11-Mar-27,7:45 PM,Paris Basketball,Panathinaikos Athens,Game preview,31,4,31_4,2026-2027,PRB,PAN,304,"boxscore(2026,304,31,4,'Regular Season')[0],","boxscore(2026,304,31,4,'Regular Season')[1],","boxscore(2026,304,31,4,'Regular Season')[2],"
+11-Mar-27,7:45 PM,Real Madrid,Virtus Bologna,Game preview,31,5,31_5,2026-2027,RMB,BOL,305,"boxscore(2026,305,31,5,'Regular Season')[0],","boxscore(2026,305,31,5,'Regular Season')[1],","boxscore(2026,305,31,5,'Regular Season')[2],"
+12-Mar-27,5:45 PM,Fenerbahce Istanbul,Valencia Basket,Game preview,31,6,31_6,2026-2027,FEN,VAL,306,"boxscore(2026,306,31,6,'Regular Season')[0],","boxscore(2026,306,31,6,'Regular Season')[1],","boxscore(2026,306,31,6,'Regular Season')[2],"
+12-Mar-27,6:00 PM,Zalgiris Kaunas,Armani Olimpia Milan,Game preview,31,7,31_7,2026-2027,ZAL,MIL,307,"boxscore(2026,307,31,7,'Regular Season')[0],","boxscore(2026,307,31,7,'Regular Season')[1],","boxscore(2026,307,31,7,'Regular Season')[2],"
+12-Mar-27,7:00 PM,Crvena Zvezda Belgrade,Dubai Basketball,Game preview,31,8,31_8,2026-2027,CRV,DUB,308,"boxscore(2026,308,31,8,'Regular Season')[0],","boxscore(2026,308,31,8,'Regular Season')[1],","boxscore(2026,308,31,8,'Regular Season')[2],"
+12-Mar-27,7:15 PM,Olympiacos Piraeus,Besiktas Istanbul,Game preview,31,9,31_9,2026-2027,OLY,BES,309,"boxscore(2026,309,31,9,'Regular Season')[0],","boxscore(2026,309,31,9,'Regular Season')[1],","boxscore(2026,309,31,9,'Regular Season')[2],"
+12-Mar-27,7:30 PM,FC Barcelona,Baskonia Vitoria-Gasteiz,Game preview,31,10,31_10,2026-2027,BAR,BAS,310,"boxscore(2026,310,31,10,'Regular Season')[0],","boxscore(2026,310,31,10,'Regular Season')[1],","boxscore(2026,310,31,10,'Regular Season')[2],"
+18-Mar-27,5:45 PM,Fenerbahce Istanbul,Paris Basketball,Game preview,32,1,32_1,2026-2027,FEN,PRB,311,"boxscore(2026,311,32,1,'Regular Season')[0],","boxscore(2026,311,32,1,'Regular Season')[1],","boxscore(2026,311,32,1,'Regular Season')[2],"
+18-Mar-27,7:05 PM,Maccabi Rapyd Tel Aviv,Valencia Basket,Game preview,32,2,32_2,2026-2027,MAC,VAL,312,"boxscore(2026,312,32,2,'Regular Season')[0],","boxscore(2026,312,32,2,'Regular Season')[1],","boxscore(2026,312,32,2,'Regular Season')[2],"
+18-Mar-27,7:15 PM,Panathinaikos Athens,Zalgiris Kaunas,Game preview,32,3,32_3,2026-2027,PAN,ZAL,313,"boxscore(2026,313,32,3,'Regular Season')[0],","boxscore(2026,313,32,3,'Regular Season')[1],","boxscore(2026,313,32,3,'Regular Season')[2],"
+18-Mar-27,7:45 PM,Partizan Belgrade,FC Bayern Munich,Game preview,32,4,32_4,2026-2027,PAR,BAY,314,"boxscore(2026,314,32,4,'Regular Season')[0],","boxscore(2026,314,32,4,'Regular Season')[1],","boxscore(2026,314,32,4,'Regular Season')[2],"
+18-Mar-27,7:45 PM,Real Madrid,Baskonia Vitoria-Gasteiz,Game preview,32,5,32_5,2026-2027,RMB,BAS,315,"boxscore(2026,315,32,5,'Regular Season')[0],","boxscore(2026,315,32,5,'Regular Season')[1],","boxscore(2026,315,32,5,'Regular Season')[2],"
+19-Mar-27,4:00 PM,Dubai Basketball,Armani Olimpia Milan,Game preview,32,6,32_6,2026-2027,DUB,MIL,316,"boxscore(2026,316,32,6,'Regular Season')[0],","boxscore(2026,316,32,6,'Regular Season')[1],","boxscore(2026,316,32,6,'Regular Season')[2],"
+19-Mar-27,5:00 PM,Besiktas Istanbul,Anadolu Efes Istanbul,Game preview,32,7,32_7,2026-2027,BES,EFE,317,"boxscore(2026,317,32,7,'Regular Season')[0],","boxscore(2026,317,32,7,'Regular Season')[1],","boxscore(2026,317,32,7,'Regular Season')[2],"
+19-Mar-27,7:00 PM,Crvena Zvezda Belgrade,Olympiacos Piraeus,Game preview,32,8,32_8,2026-2027,CRV,OLY,318,"boxscore(2026,318,32,8,'Regular Season')[0],","boxscore(2026,318,32,8,'Regular Season')[1],","boxscore(2026,318,32,8,'Regular Season')[2],"
+19-Mar-27,7:00 PM,LDLC ASVEL,Virtus Bologna,Game preview,32,9,32_9,2026-2027,VIL,BOL,319,"boxscore(2026,319,32,9,'Regular Season')[0],","boxscore(2026,319,32,9,'Regular Season')[1],","boxscore(2026,319,32,9,'Regular Season')[2],"
+19-Mar-27,7:30 PM,FC Barcelona,Hapoel Tel Aviv,Game preview,32,10,32_10,2026-2027,BAR,HTA,320,"boxscore(2026,320,32,10,'Regular Season')[0],","boxscore(2026,320,32,10,'Regular Season')[1],","boxscore(2026,320,32,10,'Regular Season')[2],"
+23-Mar-27,4:00 PM,Dubai Basketball,Baskonia Vitoria-Gasteiz,Game preview,33,1,33_1,2026-2027,DUB,BAS,321,"boxscore(2026,321,33,1,'Regular Season')[0],","boxscore(2026,321,33,1,'Regular Season')[1],","boxscore(2026,321,33,1,'Regular Season')[2],"
+23-Mar-27,5:30 PM,Anadolu Efes Istanbul,Crvena Zvezda Belgrade,Game preview,33,2,33_2,2026-2027,EFE,CRV,322,"boxscore(2026,322,33,2,'Regular Season')[0],","boxscore(2026,322,33,2,'Regular Season')[1],","boxscore(2026,322,33,2,'Regular Season')[2],"
+23-Mar-27,6:00 PM,Hapoel Tel Aviv,Fenerbahce Istanbul,Game preview,33,3,33_3,2026-2027,HTA,FEN,323,"boxscore(2026,323,33,3,'Regular Season')[0],","boxscore(2026,323,33,3,'Regular Season')[1],","boxscore(2026,323,33,3,'Regular Season')[2],"
+23-Mar-27,7:00 PM,LDLC ASVEL,Panathinaikos Athens,Game preview,33,4,33_4,2026-2027,VIL,PAN,324,"boxscore(2026,324,33,4,'Regular Season')[0],","boxscore(2026,324,33,4,'Regular Season')[1],","boxscore(2026,324,33,4,'Regular Season')[2],"
+23-Mar-27,7:45 PM,Paris Basketball,Armani Olimpia Milan,Game preview,33,5,33_5,2026-2027,PRB,MIL,325,"boxscore(2026,325,33,5,'Regular Season')[0],","boxscore(2026,325,33,5,'Regular Season')[1],","boxscore(2026,325,33,5,'Regular Season')[2],"
+23-Mar-27,7:45 PM,Partizan Belgrade,Virtus Bologna,Game preview,33,6,33_6,2026-2027,PAR,BOL,326,"boxscore(2026,326,33,6,'Regular Season')[0],","boxscore(2026,326,33,6,'Regular Season')[1],","boxscore(2026,326,33,6,'Regular Season')[2],"
+24-Mar-27,6:00 PM,Zalgiris Kaunas,Maccabi Rapyd Tel Aviv,Game preview,33,7,33_7,2026-2027,ZAL,MAC,327,"boxscore(2026,327,33,7,'Regular Season')[0],","boxscore(2026,327,33,7,'Regular Season')[1],","boxscore(2026,327,33,7,'Regular Season')[2],"
+24-Mar-27,7:15 PM,Olympiacos Piraeus,FC Barcelona,Game preview,33,8,33_8,2026-2027,OLY,BAR,328,"boxscore(2026,328,33,8,'Regular Season')[0],","boxscore(2026,328,33,8,'Regular Season')[1],","boxscore(2026,328,33,8,'Regular Season')[2],"
+24-Mar-27,7:30 PM,FC Bayern Munich,Real Madrid,Game preview,33,9,33_9,2026-2027,BAY,RMB,329,"boxscore(2026,329,33,9,'Regular Season')[0],","boxscore(2026,329,33,9,'Regular Season')[1],","boxscore(2026,329,33,9,'Regular Season')[2],"
+24-Mar-27,7:30 PM,Valencia Basket,Besiktas Istanbul,Game preview,33,10,33_10,2026-2027,VAL,BES,330,"boxscore(2026,330,33,10,'Regular Season')[0],","boxscore(2026,330,33,10,'Regular Season')[1],","boxscore(2026,330,33,10,'Regular Season')[2],"
+25-Mar-27,5:30 PM,Anadolu Efes Istanbul,Baskonia Vitoria-Gasteiz,Game preview,34,1,34_1,2026-2027,EFE,BAS,331,"boxscore(2026,331,34,1,'Regular Season')[0],","boxscore(2026,331,34,1,'Regular Season')[1],","boxscore(2026,331,34,1,'Regular Season')[2],"
+25-Mar-27,6:00 PM,Hapoel Tel Aviv,Dubai Basketball,Game preview,34,2,34_2,2026-2027,HTA,DUB,332,"boxscore(2026,332,34,2,'Regular Season')[0],","boxscore(2026,332,34,2,'Regular Season')[1],","boxscore(2026,332,34,2,'Regular Season')[2],"
+25-Mar-27,7:00 PM,LDLC ASVEL,Paris Basketball,Game preview,34,3,34_3,2026-2027,VIL,PRB,333,"boxscore(2026,333,34,3,'Regular Season')[0],","boxscore(2026,333,34,3,'Regular Season')[1],","boxscore(2026,333,34,3,'Regular Season')[2],"
+25-Mar-27,7:15 PM,Panathinaikos Athens,Partizan Belgrade,Game preview,34,4,34_4,2026-2027,PAN,PAR,334,"boxscore(2026,334,34,4,'Regular Season')[0],","boxscore(2026,334,34,4,'Regular Season')[1],","boxscore(2026,334,34,4,'Regular Season')[2],"
+26-Mar-27,5:45 PM,Fenerbahce Istanbul,FC Barcelona,Game preview,34,5,34_5,2026-2027,FEN,BAR,335,"boxscore(2026,335,34,5,'Regular Season')[0],","boxscore(2026,335,34,5,'Regular Season')[1],","boxscore(2026,335,34,5,'Regular Season')[2],"
+26-Mar-27,7:00 PM,Crvena Zvezda Belgrade,Valencia Basket,Game preview,34,6,34_6,2026-2027,CRV,VAL,336,"boxscore(2026,336,34,6,'Regular Season')[0],","boxscore(2026,336,34,6,'Regular Season')[1],","boxscore(2026,336,34,6,'Regular Season')[2],"
+26-Mar-27,7:15 PM,Olympiacos Piraeus,Virtus Bologna,Game preview,34,7,34_7,2026-2027,OLY,BOL,337,"boxscore(2026,337,34,7,'Regular Season')[0],","boxscore(2026,337,34,7,'Regular Season')[1],","boxscore(2026,337,34,7,'Regular Season')[2],"
+26-Mar-27,7:30 PM,Armani Olimpia Milan,Maccabi Rapyd Tel Aviv,Game preview,34,8,34_8,2026-2027,MIL,MAC,338,"boxscore(2026,338,34,8,'Regular Season')[0],","boxscore(2026,338,34,8,'Regular Season')[1],","boxscore(2026,338,34,8,'Regular Season')[2],"
+26-Mar-27,7:30 PM,FC Bayern Munich,Zalgiris Kaunas,Game preview,34,9,34_9,2026-2027,BAY,ZAL,339,"boxscore(2026,339,34,9,'Regular Season')[0],","boxscore(2026,339,34,9,'Regular Season')[1],","boxscore(2026,339,34,9,'Regular Season')[2],"
+26-Mar-27,7:45 PM,Real Madrid,Besiktas Istanbul,Game preview,34,10,34_10,2026-2027,RMB,BES,340,"boxscore(2026,340,34,10,'Regular Season')[0],","boxscore(2026,340,34,10,'Regular Season')[1],","boxscore(2026,340,34,10,'Regular Season')[2],"
+31-Mar-27,5:30 PM,Anadolu Efes Istanbul,Olympiacos Piraeus,Game preview,35,1,35_1,2026-2027,EFE,OLY,341,"boxscore(2026,341,35,1,'Regular Season')[0],","boxscore(2026,341,35,1,'Regular Season')[1],","boxscore(2026,341,35,1,'Regular Season')[2],"
+31-Mar-27,6:00 PM,Zalgiris Kaunas,Hapoel Tel Aviv,Game preview,35,2,35_2,2026-2027,ZAL,HTA,342,"boxscore(2026,342,35,2,'Regular Season')[0],","boxscore(2026,342,35,2,'Regular Season')[1],","boxscore(2026,342,35,2,'Regular Season')[2],"
+31-Mar-27,6:30 PM,Virtus Bologna,Crvena Zvezda Belgrade,Game preview,35,3,35_3,2026-2027,BOL,CRV,343,"boxscore(2026,343,35,3,'Regular Season')[0],","boxscore(2026,343,35,3,'Regular Season')[1],","boxscore(2026,343,35,3,'Regular Season')[2],"
+1-Apr-27,6:05 PM,Maccabi Rapyd Tel Aviv,Fenerbahce Istanbul,Game preview,35,4,35_4,2026-2027,MAC,FEN,344,"boxscore(2026,344,35,4,'Regular Season')[0],","boxscore(2026,344,35,4,'Regular Season')[1],","boxscore(2026,344,35,4,'Regular Season')[2],"
+1-Apr-27,6:30 PM,Armani Olimpia Milan,Besiktas Istanbul,Game preview,35,5,35_5,2026-2027,MIL,BES,345,"boxscore(2026,345,35,5,'Regular Season')[0],","boxscore(2026,345,35,5,'Regular Season')[1],","boxscore(2026,345,35,5,'Regular Season')[2],"
+1-Apr-27,6:30 PM,Valencia Basket,Real Madrid,Game preview,35,6,35_6,2026-2027,VAL,RMB,346,"boxscore(2026,346,35,6,'Regular Season')[0],","boxscore(2026,346,35,6,'Regular Season')[1],","boxscore(2026,346,35,6,'Regular Season')[2],"
+1-Apr-27,6:45 PM,Paris Basketball,Dubai Basketball,Game preview,35,7,35_7,2026-2027,PRB,DUB,347,"boxscore(2026,347,35,7,'Regular Season')[0],","boxscore(2026,347,35,7,'Regular Season')[1],","boxscore(2026,347,35,7,'Regular Season')[2],"
+2-Apr-27,6:30 PM,FC Barcelona,Panathinaikos Athens,Game preview,35,8,35_8,2026-2027,BAR,PAN,348,"boxscore(2026,348,35,8,'Regular Season')[0],","boxscore(2026,348,35,8,'Regular Season')[1],","boxscore(2026,348,35,8,'Regular Season')[2],"
+2-Apr-27,6:30 PM,Baskonia Vitoria-Gasteiz,FC Bayern Munich,Game preview,35,9,35_9,2026-2027,BAS,BAY,349,"boxscore(2026,349,35,9,'Regular Season')[0],","boxscore(2026,349,35,9,'Regular Season')[1],","boxscore(2026,349,35,9,'Regular Season')[2],"
+2-Apr-27,6:45 PM,Partizan Belgrade,LDLC ASVEL,Game preview,35,10,35_10,2026-2027,PAR,VIL,350,"boxscore(2026,350,35,10,'Regular Season')[0],","boxscore(2026,350,35,10,'Regular Season')[1],","boxscore(2026,350,35,10,'Regular Season')[2],"
+6-Apr-27,5:00 PM,Besiktas Istanbul,Hapoel Tel Aviv,Game preview,36,1,36_1,2026-2027,BES,HTA,351,"boxscore(2026,351,36,1,'Regular Season')[0],","boxscore(2026,351,36,1,'Regular Season')[1],","boxscore(2026,351,36,1,'Regular Season')[2],"
+6-Apr-27,5:45 PM,Fenerbahce Istanbul,Olympiacos Piraeus,Game preview,36,2,36_2,2026-2027,FEN,OLY,352,"boxscore(2026,352,36,2,'Regular Season')[0],","boxscore(2026,352,36,2,'Regular Season')[1],","boxscore(2026,352,36,2,'Regular Season')[2],"
+6-Apr-27,6:30 PM,Crvena Zvezda Belgrade,Panathinaikos Athens,Game preview,36,3,36_3,2026-2027,CRV,PAN,353,"boxscore(2026,353,36,3,'Regular Season')[0],","boxscore(2026,353,36,3,'Regular Season')[1],","boxscore(2026,353,36,3,'Regular Season')[2],"
+6-Apr-27,6:30 PM,Baskonia Vitoria-Gasteiz,LDLC ASVEL,Game preview,36,4,36_4,2026-2027,BAS,VIL,354,"boxscore(2026,354,36,4,'Regular Season')[0],","boxscore(2026,354,36,4,'Regular Season')[1],","boxscore(2026,354,36,4,'Regular Season')[2],"
+6-Apr-27,6:30 PM,Virtus Bologna,Valencia Basket,Game preview,36,5,36_5,2026-2027,BOL,VAL,355,"boxscore(2026,355,36,5,'Regular Season')[0],","boxscore(2026,355,36,5,'Regular Season')[1],","boxscore(2026,355,36,5,'Regular Season')[2],"
+6-Apr-27,6:45 PM,FC Barcelona,FC Bayern Munich,Game preview,36,6,36_6,2026-2027,BAR,BAY,356,"boxscore(2026,356,36,6,'Regular Season')[0],","boxscore(2026,356,36,6,'Regular Season')[1],","boxscore(2026,356,36,6,'Regular Season')[2],"
+6-Apr-27,6:45 PM,Paris Basketball,Anadolu Efes Istanbul,Game preview,36,7,36_7,2026-2027,PRB,EFE,357,"boxscore(2026,357,36,7,'Regular Season')[0],","boxscore(2026,357,36,7,'Regular Season')[1],","boxscore(2026,357,36,7,'Regular Season')[2],"
+6-Apr-27,6:45 PM,Real Madrid,Armani Olimpia Milan,Game preview,36,8,36_8,2026-2027,RMB,MIL,358,"boxscore(2026,358,36,8,'Regular Season')[0],","boxscore(2026,358,36,8,'Regular Season')[1],","boxscore(2026,358,36,8,'Regular Season')[2],"
+7-Apr-27,4:00 PM,Dubai Basketball,Zalgiris Kaunas,Game preview,36,9,36_9,2026-2027,DUB,ZAL,359,"boxscore(2026,359,36,9,'Regular Season')[0],","boxscore(2026,359,36,9,'Regular Season')[1],","boxscore(2026,359,36,9,'Regular Season')[2],"
+7-Apr-27,6:05 PM,Maccabi Rapyd Tel Aviv,Partizan Belgrade,Game preview,36,10,36_10,2026-2027,MAC,PAR,360,"boxscore(2026,360,36,10,'Regular Season')[0],","boxscore(2026,360,36,10,'Regular Season')[1],","boxscore(2026,360,36,10,'Regular Season')[2],"
+8-Apr-27,5:00 PM,Hapoel Tel Aviv,Crvena Zvezda Belgrade,Game preview,37,1,37_1,2026-2027,HTA,CRV,361,"boxscore(2026,361,37,1,'Regular Season')[0],","boxscore(2026,361,37,1,'Regular Season')[1],","boxscore(2026,361,37,1,'Regular Season')[2],"
+8-Apr-27,6:00 PM,LDLC ASVEL,Real Madrid,Game preview,37,2,37_2,2026-2027,VIL,RMB,362,"boxscore(2026,362,37,2,'Regular Season')[0],","boxscore(2026,362,37,2,'Regular Season')[1],","boxscore(2026,362,37,2,'Regular Season')[2],"
+8-Apr-27,6:15 PM,Panathinaikos Athens,Virtus Bologna,Game preview,37,3,37_3,2026-2027,PAN,BOL,363,"boxscore(2026,363,37,3,'Regular Season')[0],","boxscore(2026,363,37,3,'Regular Season')[1],","boxscore(2026,363,37,3,'Regular Season')[2],"
+8-Apr-27,6:30 PM,Armani Olimpia Milan,Baskonia Vitoria-Gasteiz,Game preview,37,4,37_4,2026-2027,MIL,BAS,364,"boxscore(2026,364,37,4,'Regular Season')[0],","boxscore(2026,364,37,4,'Regular Season')[1],","boxscore(2026,364,37,4,'Regular Season')[2],"
+8-Apr-27,6:30 PM,FC Bayern Munich,Fenerbahce Istanbul,Game preview,37,5,37_5,2026-2027,BAY,FEN,365,"boxscore(2026,365,37,5,'Regular Season')[0],","boxscore(2026,365,37,5,'Regular Season')[1],","boxscore(2026,365,37,5,'Regular Season')[2],"
+8-Apr-27,6:30 PM,Valencia Basket,Anadolu Efes Istanbul,Game preview,37,6,37_6,2026-2027,VAL,EFE,366,"boxscore(2026,366,37,6,'Regular Season')[0],","boxscore(2026,366,37,6,'Regular Season')[1],","boxscore(2026,366,37,6,'Regular Season')[2],"
+8-Apr-27,6:45 PM,Paris Basketball,FC Barcelona,Game preview,37,7,37_7,2026-2027,PRB,BAR,367,"boxscore(2026,367,37,7,'Regular Season')[0],","boxscore(2026,367,37,7,'Regular Season')[1],","boxscore(2026,367,37,7,'Regular Season')[2],"
+9-Apr-27,5:00 PM,Besiktas Istanbul,Maccabi Rapyd Tel Aviv,Game preview,37,8,37_8,2026-2027,BES,MAC,368,"boxscore(2026,368,37,8,'Regular Season')[0],","boxscore(2026,368,37,8,'Regular Season')[1],","boxscore(2026,368,37,8,'Regular Season')[2],"
+9-Apr-27,6:15 PM,Olympiacos Piraeus,Zalgiris Kaunas,Game preview,37,9,37_9,2026-2027,OLY,ZAL,369,"boxscore(2026,369,37,9,'Regular Season')[0],","boxscore(2026,369,37,9,'Regular Season')[1],","boxscore(2026,369,37,9,'Regular Season')[2],"
+9-Apr-27,6:45 PM,Partizan Belgrade,Dubai Basketball,Game preview,37,10,37_10,2026-2027,PAR,DUB,370,"boxscore(2026,370,37,10,'Regular Season')[0],","boxscore(2026,370,37,10,'Regular Season')[1],","boxscore(2026,370,37,10,'Regular Season')[2],"
+15-Apr-27,5:00 PM,Zalgiris Kaunas,Fenerbahce Istanbul,Game preview,38,1,38_1,2026-2027,ZAL,FEN,371,"boxscore(2026,371,38,1,'Regular Season')[0],","boxscore(2026,371,38,1,'Regular Season')[1],","boxscore(2026,371,38,1,'Regular Season')[2],"
+15-Apr-27,5:30 PM,Anadolu Efes Istanbul,Hapoel Tel Aviv,Game preview,38,2,38_2,2026-2027,EFE,HTA,372,"boxscore(2026,372,38,2,'Regular Season')[0],","boxscore(2026,372,38,2,'Regular Season')[1],","boxscore(2026,372,38,2,'Regular Season')[2],"
+15-Apr-27,6:00 PM,Crvena Zvezda Belgrade,Armani Olimpia Milan,Game preview,38,3,38_3,2026-2027,CRV,MIL,373,"boxscore(2026,373,38,3,'Regular Season')[0],","boxscore(2026,373,38,3,'Regular Season')[1],","boxscore(2026,373,38,3,'Regular Season')[2],"
+15-Apr-27,6:05 PM,Maccabi Rapyd Tel Aviv,Baskonia Vitoria-Gasteiz,Game preview,38,4,38_4,2026-2027,MAC,BAS,374,"boxscore(2026,374,38,4,'Regular Season')[0],","boxscore(2026,374,38,4,'Regular Season')[1],","boxscore(2026,374,38,4,'Regular Season')[2],"
+15-Apr-27,6:15 PM,Panathinaikos Athens,Real Madrid,Game preview,38,5,38_5,2026-2027,PAN,RMB,375,"boxscore(2026,375,38,5,'Regular Season')[0],","boxscore(2026,375,38,5,'Regular Season')[1],","boxscore(2026,375,38,5,'Regular Season')[2],"
+15-Apr-27,6:45 PM,Paris Basketball,FC Bayern Munich,Game preview,38,6,38_6,2026-2027,PRB,BAY,376,"boxscore(2026,376,38,6,'Regular Season')[0],","boxscore(2026,376,38,6,'Regular Season')[1],","boxscore(2026,376,38,6,'Regular Season')[2],"
+16-Apr-27,4:00 PM,Dubai Basketball,LDLC ASVEL,Game preview,38,7,38_7,2026-2027,DUB,VIL,377,"boxscore(2026,377,38,7,'Regular Season')[0],","boxscore(2026,377,38,7,'Regular Season')[1],","boxscore(2026,377,38,7,'Regular Season')[2],"
+16-Apr-27,5:00 PM,Besiktas Istanbul,Virtus Bologna,Game preview,38,8,38_8,2026-2027,BES,BOL,378,"boxscore(2026,378,38,8,'Regular Season')[0],","boxscore(2026,378,38,8,'Regular Season')[1],","boxscore(2026,378,38,8,'Regular Season')[2],"
+16-Apr-27,6:15 PM,Olympiacos Piraeus,Valencia Basket,Game preview,38,9,38_9,2026-2027,OLY,VAL,379,"boxscore(2026,379,38,9,'Regular Season')[0],","boxscore(2026,379,38,9,'Regular Season')[1],","boxscore(2026,379,38,9,'Regular Season')[2],"
+16-Apr-27,6:30 PM,FC Barcelona,Partizan Belgrade,Game preview,38,10,38_10,2026-2027,BAR,PAR,380,"boxscore(2026,380,38,10,'Regular Season')[0],","boxscore(2026,380,38,10,'Regular Season')[1],","boxscore(2026,380,38,10,'Regular Season')[2],"
